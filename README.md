@@ -12,7 +12,7 @@
 
 
 ### Official Resources
-- [Design Mistakes in Node(中英文两版)](https://github.com/olivewind/awesome-deno/tree/master/resources/design-mistakes-in-node)
+- [Design Mistakes in Node(中英文两版)](https://github.com/olivewind/awesome-deno/tree/master/resources/design-mistakes-in-node)
 
 ### External Resources
 
