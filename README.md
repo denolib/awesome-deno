@@ -2,7 +2,7 @@
 
 ### 
 
-> A curated list of awesome things related to [Deno](https://github.com/ry/deno)
+> A curated list of awesome things related to [Deno](https://github.com/denoland/deno)
 
 - [Resources](#resources)
     - [Official Resources](#official-resources)
