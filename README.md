@@ -8,6 +8,10 @@
     - [Official Resources](#official-resources)
     - [External Resources](#external-resources)
 
+- [Libraries](#libraries)
+
+- [Tools](#tools)
+
 - [Articles](#Articles)
 
 # Resources
@@ -17,6 +21,18 @@
 
 ### External Resources
 - [https://deno.js.cn/](https://deno.js.cn/)
+
+# Libraries
+
+- [abc](https://github.com/zhmushan/abc) - A better Deno framework to create web application.
+- [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
+- [deno-opn](https://github.com/hashrock/deno-opn) - Opens stuff like websites, files, executables. Cross-platform.
+- [oak](https://github.com/kitsonk/oak) - A middleware framework for Deno's net server.
+- [deno-yaml](https://github.com/muhibbudins/deno-yaml) - Simple Yaml Parser using Deno.
+
+# Tools
+
+- [denopkg](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project. 
 
 
 # Articles
