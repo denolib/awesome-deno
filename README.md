@@ -46,3 +46,5 @@
 - [Design Mistakes in Node](http://tinyclouds.org/jsconf2018.pdf)
 
 - [Design Mistakes in Node zh-CN](https://zhuanlan.zhihu.com/p/37637923)
+
+- [A Guide to Deno Core (Design & For Contributors)](https://denolib.gitbook.io/guide)
