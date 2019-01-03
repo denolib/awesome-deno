@@ -58,6 +58,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [path](https://github.com/denoland/deno_std/tree/master/path) - Deno Path Manipulation Libraries.
 - [qs](https://github.com/denolib/qs) - A querystring parser with nesting support.
 - [watch](https://github.com/jinjor/deno-playground/tree/master/watch) - A file watcher.
+- [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
 
 # Tools
 
