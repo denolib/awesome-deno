@@ -2,27 +2,39 @@
 
 ### 
 
-> A curated list of awesome things related to [Deno](https://github.com/denoland/deno)
+> A curated list of awesome things related to [Deno](https://github.com/denoland/deno).
 
-- [Resources](#resources)
-    - [Official Resources](#official-resources)
-    - [External Resources](#external-resources)
+This is forked from [olivewind/awesome-deno](https://github.com/olivewind/awesome-deno) to allow more prompt updates by Deno contributors.
+
+- [Docs](#docs)
+    - [Official Docs](#official-docs)
+    - [External Docs](#external-docs)
 
 - [Libraries](#libraries)
 
 - [Tools](#tools)
 
-- [Articles](#Articles)
+- [Presentations](#presentations)
 
-# Resources
+- [Resources in Other Languages](#resources-in-other-languages)
 
+# Docs
 
-### Official Resources
+### Official Docs
 
-### External Resources
-- [https://deno.js.cn/](https://deno.js.cn/)
+- [Official Site (deno.land)](https://deno.land)
+- [Deno API TypeDoc](https://http://deno.land/typedoc/)
+- [Deno Docs](https://github.com/denoland/deno/blob/master/Docs.md)
+- [Deno Registry](http://deno.land/x/)
+
+### External Docs
+
+- [A Guide to Deno Core (Design & For Contributors)](https://denolib.gitbook.io/guide)
+- [V8 Docs for Deno](https://denolib.github.io/v8-docs)
 
 # Libraries
+
+__NOTICE__: Deno has a few official modules that could be found at [deno_std](https://github.com/denoland/deno_std).
 
 - [abc](https://github.com/zhmushan/abc) - A better Deno framework to create web application.
 - [camelcase](https://github.com/denolib/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar
@@ -53,16 +65,20 @@
 - [denoinit](https://github.com/syumai/deno-libs/tree/master/denoinit) - denoinit generates useful files for deno project.
 - [denopkg](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project. 
 - [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
+- [dvm](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active deno versions.
 
+# Presentations
 
-# Articles
+- [10 Things I Regret About Node.js - Ryan Dahl - JSConf EU 2018](https://www.youtube.com/watch?v=M3BM9TB-8yA)
+    - [Slides](http://tinyclouds.org/jsconf2018.pdf)
+- [JSDC 2018#A01 - Deno, A New Server-Side Runtime By Ryan Dahl](https://www.youtube.com/watch?v=FlTG0UXRAkE)
+    - [Slides](https://tinyclouds.org/deno_jsdc.pptx)
 
+# Resources in Other Languages
+
+## Chinese
+
+- [deno.js.cn](https://deno.js.cn/)
 - [Deno 并不是下一代 Node.js](https://juejin.im/post/5b14a390e51d4506c1300bbc)
-
 - [玩 Deno 遇到问题的解决方案](https://juejin.im/post/5b1245b3f265da6e4c6cf249)
-
 - [让我们一起来学习别人学不动的 Deno](https://segmentfault.com/a/1190000015151287)
-
-- [Design Mistakes in Node](http://tinyclouds.org/jsconf2018.pdf)
-
-- [Design Mistakes in Node zh-CN](https://zhuanlan.zhihu.com/p/37637923)
