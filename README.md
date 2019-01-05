@@ -69,6 +69,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [dvm](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active deno versions.
 - [task-runner](https://github.com/jinjor/deno-playground/tree/master/task-runner) - Write tasks just like npm scripts.
 - [deno_ls_plugin](https://www.npmjs.com/package/deno_ls_plugin) a TypeScript plugin which will allow TypeScript outside of Deno to resolve modules in a similar way to the way they are resolved inside of Deno.
+- [deno-docker](https://github.com/maxmcd/deno-docker) A docker image
 
 # Presentations
 
