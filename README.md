@@ -23,7 +23,7 @@ This is forked from [olivewind/awesome-deno](https://github.com/olivewind/awesom
 ### Official Docs
 
 - [Official Site (deno.land)](https://deno.land)
-- [Deno API TypeDoc](https://http://deno.land/typedoc/)
+- [Deno API TypeDoc](https://deno.land/typedoc/)
 - [Deno Docs](https://github.com/denoland/deno/blob/master/Docs.md)
 - [Deno Registry](http://deno.land/x/)
 
