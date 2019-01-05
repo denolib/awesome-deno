@@ -1,4 +1,4 @@
-## Awesome-Deno [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome-Deno [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.com/denolib/awesome-deno.svg?branch=master)](https://travis-ci.com/denolib/awesome-deno)
 
 ### 
 
@@ -30,7 +30,7 @@ This is forked from [olivewind/awesome-deno](https://github.com/olivewind/awesom
 ### External Docs
 
 - [A Guide to Deno Core (Design & For Contributors)](https://denolib.gitbook.io/guide)
-- [V8 Docs for Deno](https://denolib.github.io/v8-docs)
+- [V8 Docs for Deno](https://denolib.github.io/v8-docs/)
 
 # Libraries
 
@@ -47,11 +47,11 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [deno-redis](https://github.com/keroxp/deno-redis) - An experimental implementation of redis client for deno.
 - [deno-ws](https://github.com/keroxp/deno-ws) - An experimental implementation of websocket server for deno.ts.
 - [deno-xml-parser](https://github.com/nekobato/deno-xml-parser) - Deno XML parser ported from segmentio/xml-parser.
-- [deno-yaml](https://github.com/muhibbudins/deno-yaml) - Simple Yaml Parser using Deno.
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
 - [expressive](https://github.com/jinjor/deno-playground/tree/master/expressive) - An express-like web app framework.
 - [flags](https://github.com/denoland/deno_std/tree/master/flags) - Command line arguments parser for Deno based on minimist.
 - [logging](https://github.com/denoland/deno_std/tree/master/logging) - Logging module for Deno.
+- [marden](https://github.com/muhibbudins/marden) - Markdown Parser for Deno.
 - [ms](https://github.com/denolib/ms) - easily convert various time formats to milliseconds.
 - [net](https://github.com/denoland/deno_std/tree/master/net) - A networking library including a file server.
 - [oak](https://github.com/kitsonk/oak) - A middleware framework for Deno's net server.
