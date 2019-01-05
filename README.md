@@ -57,7 +57,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [oak](https://github.com/kitsonk/oak) - A middleware framework for Deno's net server.
 - [path](https://github.com/denoland/deno_std/tree/master/path) - Deno Path Manipulation Libraries.
 - [qs](https://github.com/denolib/qs) - A querystring parser with nesting support.
-- [watch](https://github.com/jinjor/deno-playground/tree/master/watch) - A file watcher.
+- [watch](https://github.com/jinjor/deno-watch) - A file watcher.
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
 
 # Tools
@@ -67,6 +67,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [denopkg](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project. 
 - [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
 - [dvm](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active deno versions.
+- [task-runner](https://github.com/jinjor/deno-playground/tree/master/task-runner) - Write tasks just like npm scripts.
 
 # Presentations
 
