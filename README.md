@@ -41,6 +41,9 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [colors](https://github.com/denoland/deno_std/tree/master/colors) - A basic console color library intended for Deno.
 - [csv](https://github.com/hashrock/deno-fnparse/blob/master/parsers/csv.ts) - A simple CSV parser.
 - [dejs](https://github.com/syumai/dejs) - ejs template engine for deno.
+- deno-dotenv
+    - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) - Dotenv handling for deno.
+    - [cardosomarcos/deno-dotenv](https://github.com/cardosomarcos/deno-dotenv) - Loads environment variables from .env for deno projects.
 - [deno-dotenv](https://github.com/cardosomarcos/deno-dotenv) - Loads environment variables from .env for deno projects.
 - [deno-fnparse](https://github.com/hashrock/deno-fnparse) - An extremely simple parser combinator for JavaScript.
 - [deno-opn](https://github.com/hashrock/deno-opn) - Opens stuff like websites, files, executables. Cross-platform.
