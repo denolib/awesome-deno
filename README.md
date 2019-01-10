@@ -93,3 +93,4 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 ## Japanese
 
 - [Node.js における設計ミス By Ryan Dahl](https://yosuke-furukawa.hatenablog.com/entry/2018/06/07/080335)
+- [mizchi/deno_code_reading.md](https://gist.github.com/mizchi/31e5628751330b624a0e8ada9e739b1e)
