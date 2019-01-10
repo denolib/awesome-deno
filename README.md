@@ -32,7 +32,7 @@ This is forked from [olivewind/awesome-deno](https://github.com/olivewind/awesom
 - [A Guide to Deno Core (Design & For Contributors)](https://denolib.gitbook.io/guide)
 - [V8 Docs for Deno](https://denolib.github.io/v8-docs/)
 
-# Libraries
+# Modules
 
 __NOTICE__: Deno has a few official modules that could be found at [deno_std](https://github.com/denoland/deno_std).
 
