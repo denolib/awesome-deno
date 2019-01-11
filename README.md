@@ -56,7 +56,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [ms](https://github.com/denolib/ms) - easily convert various time formats to milliseconds.
 - [net](https://github.com/denoland/deno_std/tree/master/net) - A networking library including a file server.
 - [oak](https://github.com/kitsonk/oak) - A middleware framework for Deno's net server.
-- [path](https://github.com/denoland/deno_std/tree/master/path) - Deno Path Manipulation Libraries.
+- [path](https://github.com/denoland/deno_std/tree/master/fs/path) - Deno Path Manipulation Libraries.
 - [qs](https://github.com/denolib/qs) - A querystring parser with nesting support.
 - [watch](https://github.com/jinjor/deno-watch) - A file watcher.
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
