@@ -4,8 +4,6 @@
 
 > A curated list of awesome things related to [Deno](https://github.com/denoland/deno).
 
-This is forked from [olivewind/awesome-deno](https://github.com/olivewind/awesome-deno) to allow more prompt updates by Deno contributors.
-
 - [Docs](#docs)
     - [Official Docs](#official-docs)
     - [External Docs](#external-docs)
