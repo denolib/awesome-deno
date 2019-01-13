@@ -8,7 +8,7 @@
     - [Official Docs](#official-docs)
     - [External Docs](#external-docs)
 
-- [Libraries](#libraries)
+- [Modules](#modules)
 
 - [Tools](#tools)
 
@@ -35,7 +35,7 @@
 __NOTICE__: Deno has a few official modules that could be found at [deno_std](https://github.com/denoland/deno_std).
 
 - [abc](https://github.com/zhmushan/abc) - A better Deno framework to create web application.
-- [camelcase](https://github.com/denolib/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar
+- [camelcase](https://github.com/denolib/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
 - [colors](https://github.com/denoland/deno_std/tree/master/colors) - A basic console color library intended for Deno.
 - [csv](https://github.com/hashrock/deno-fnparse/blob/master/parsers/csv.ts) - A simple CSV parser.
 - [dejs](https://github.com/syumai/dejs) - ejs template engine for deno.
@@ -51,10 +51,10 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
 - [expressive](https://github.com/jinjor/deno-playground/tree/master/expressive) - An express-like web app framework.
 - [flags](https://github.com/denoland/deno_std/tree/master/flags) - Command line arguments parser for Deno based on minimist.
-- [logging](https://github.com/denoland/deno_std/tree/master/logging) - Logging module for Deno.
+- [log](https://github.com/denoland/deno_std/tree/master/log) - Logging module for Deno.
 - [marden](https://github.com/muhibbudins/marden) - Markdown Parser for Deno.
 - [ms](https://github.com/denolib/ms) - easily convert various time formats to milliseconds.
-- [net](https://github.com/denoland/deno_std/tree/master/net) - A networking library including a file server.
+- [http](https://github.com/denoland/deno_std/tree/master/http) - HTTP module including a file server.
 - [oak](https://github.com/kitsonk/oak) - A middleware framework for Deno's net server.
 - [path](https://github.com/denoland/deno_std/tree/master/fs/path) - Deno Path Manipulation Libraries.
 - [qs](https://github.com/denolib/qs) - A querystring parser with nesting support.
@@ -63,14 +63,14 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 
 # Tools
 
-- [denoget](https://github.com/syumai/deno-libs/tree/master/denoget) - denoget installs executable deno script.
-- [denoinit](https://github.com/syumai/deno-libs/tree/master/denoinit) - denoinit generates useful files for deno project.
-- [denopkg](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project. 
-- [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
-- [dvm](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active deno versions.
-- [task-runner](https://github.com/jinjor/deno-playground/tree/master/task-runner) - Write tasks just like npm scripts.
 - [deno_ls_plugin](https://www.npmjs.com/package/deno_ls_plugin) a TypeScript plugin which will allow TypeScript outside of Deno to resolve modules in a similar way to the way they are resolved inside of Deno.
 - [deno-docker](https://github.com/maxmcd/deno-docker) A docker image
+- [denoget](https://github.com/syumai/deno-libs/tree/master/denoget) - denoget installs executable deno script.
+- [denoinit](https://github.com/syumai/deno-libs/tree/master/denoinit) - denoinit generates useful files for deno project.
+- [denopkg](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
+- [dvm](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active deno versions.
+- [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
+- [task-runner](https://github.com/jinjor/deno-playground/tree/master/task-runner) - Write tasks just like npm scripts.
 
 # Presentations
 
