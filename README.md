@@ -23,7 +23,7 @@
 - [Official Site (deno.land)](https://deno.land)
 - [Deno API TypeDoc](https://deno.land/typedoc/)
 - [Deno Docs](https://github.com/denoland/deno/blob/master/Docs.md)
-- [Deno Registry](http://deno.land/x/)
+- [Deno Registry](https://deno.land/x/)
 
 ### External Docs
 
@@ -75,7 +75,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 # Presentations
 
 - [10 Things I Regret About Node.js - Ryan Dahl - JSConf EU 2018](https://www.youtube.com/watch?v=M3BM9TB-8yA)
-    - [Slides](http://tinyclouds.org/jsconf2018.pdf)
+    - [Slides](https://tinyclouds.org/jsconf2018.pdf)
 - [JSDC 2018#A01 - Deno, A New Server-Side Runtime By Ryan Dahl](https://www.youtube.com/watch?v=FlTG0UXRAkE)
     - [Slides](https://tinyclouds.org/deno_jsdc.pptx)
 
