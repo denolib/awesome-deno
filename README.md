@@ -1,4 +1,4 @@
-## Awesome-Deno [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.com/denolib/awesome-deno.svg?branch=master)](https://travis-ci.com/denolib/awesome-deno)
+# Awesome-Deno [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.com/denolib/awesome-deno.svg?branch=master)](https://travis-ci.com/denolib/awesome-deno)
 
 ### 
 
@@ -11,6 +11,8 @@
 - [Modules](#modules)
 
 - [Tools](#tools)
+
+- [Articles](#articles)
 
 - [Presentations](#presentations)
 
@@ -72,6 +74,10 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
 - [task-runner](https://github.com/jinjor/deno-playground/tree/master/task-runner) - Write tasks just like npm scripts.
 
+# Articles
+
+- [Develop with Deno and Visual Studio Code](https://medium.com/@kitsonk/develop-with-deno-and-visual-studio-code-225ce7c5b1ba)
+
 # Presentations
 
 - [10 Things I Regret About Node.js - Ryan Dahl - JSConf EU 2018](https://www.youtube.com/watch?v=M3BM9TB-8yA)
@@ -84,9 +90,6 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 ## Chinese
 
 - [deno.js.cn](https://deno.js.cn/)
-- [Deno 并不是下一代 Node.js](https://juejin.im/post/5b14a390e51d4506c1300bbc)
-- [玩 Deno 遇到问题的解决方案](https://juejin.im/post/5b1245b3f265da6e4c6cf249)
-- [让我们一起来学习别人学不动的 Deno](https://segmentfault.com/a/1190000015151287)
 
 ## Japanese
 
