@@ -1,4 +1,4 @@
-## Awesome-Deno [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.com/denolib/awesome-deno.svg?branch=master)](https://travis-ci.com/denolib/awesome-deno)
+# Awesome-Deno [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.com/denolib/awesome-deno.svg?branch=master)](https://travis-ci.com/denolib/awesome-deno)
 
 ### 
 
@@ -11,6 +11,8 @@
 - [Modules](#modules)
 
 - [Tools](#tools)
+
+- [Articles](#articles)
 
 - [Presentations](#presentations)
 
@@ -71,6 +73,10 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [dvm](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active deno versions.
 - [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
 - [task-runner](https://github.com/jinjor/deno-playground/tree/master/task-runner) - Write tasks just like npm scripts.
+
+# Articles
+
+- [Develop with Deno and Visual Studio Code](https://medium.com/@kitsonk/develop-with-deno-and-visual-studio-code-225ce7c5b1ba)
 
 # Presentations
 
