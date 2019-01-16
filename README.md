@@ -62,6 +62,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [qs](https://github.com/denolib/qs) - A querystring parser with nesting support.
 - [watch](https://github.com/jinjor/deno-watch) - A file watcher.
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
+- [postgres](https://github.com/bartlomieju/deno-postgres) - Driver for PostgreSQL database.
 
 # Tools
 
