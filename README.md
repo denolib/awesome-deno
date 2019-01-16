@@ -7,6 +7,9 @@
 - [Resources](#resources)
     - [Official Resources](#official-resources)
     - [External Resources](#external-resources)
+- [Libraries](#libraries)
+- [Tools](#tools)
+- [Articles](#articles)
 
 - [Libraries](#libraries)
 
@@ -46,6 +49,7 @@
 - [path](https://github.com/denoland/deno_std/tree/master/path) - Deno Path Manipulation Libraries.
 - [qs](https://github.com/denolib/qs) - A querystring parser with nesting support.
 - [watch](https://github.com/jinjor/deno-playground/tree/master/watch) - A file watcher.
+- [normalize-diacritics](https://github.com/motss/normalize-diacritics/tree/deno) - Remove accents/ diacritics in string.
 
 # Tools
 
