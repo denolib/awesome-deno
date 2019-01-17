@@ -1,22 +1,17 @@
 # Awesome-Deno [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.com/denolib/awesome-deno.svg?branch=master)](https://travis-ci.com/denolib/awesome-deno)
 
-### 
-
 > A curated list of awesome things related to [Deno](https://github.com/denoland/deno).
 
 - [Docs](#docs)
     - [Official Docs](#official-docs)
     - [External Docs](#external-docs)
-
 - [Modules](#modules)
-
 - [Tools](#tools)
-
 - [Articles](#articles)
-
 - [Presentations](#presentations)
-
 - [Resources in Other Languages](#resources-in-other-languages)
+  - [Chinese](#chinese)
+  - [Japanese](#japanese)
 
 # Docs
 
@@ -63,6 +58,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [watch](https://github.com/jinjor/deno-watch) - A file watcher.
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
 - [postgres](https://github.com/bartlomieju/deno-postgres) - Driver for PostgreSQL database.
+- [normalize-diacritics](https://github.com/motss/normalize-diacritics/tree/deno) - Remove accents/ diacritics in string.
 
 # Tools
 
@@ -91,6 +87,10 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 ## Chinese
 
 - [deno.js.cn](https://deno.js.cn/)
+- [Deno 并不是下一代 Node.js](https://juejin.im/post/5b14a390e51d4506c1300bbc)
+- [玩 Deno 遇到问题的解决方案](https://juejin.im/post/5b1245b3f265da6e4c6cf249)
+- [让我们一起来学习别人学不动的 Deno](https://segmentfault.com/a/1190000015151287)
+- [Design Mistakes in Node zh-CN](https://zhuanlan.zhihu.com/p/37637923)
 
 ## Japanese
 
