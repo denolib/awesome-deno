@@ -51,6 +51,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [log](https://github.com/denoland/deno_std/tree/master/log) - Logging module for Deno.
 - [marden](https://github.com/muhibbudins/marden) - Markdown Parser for Deno.
 - [ms](https://github.com/denolib/ms) - easily convert various time formats to milliseconds.
+- [normalize-diacritics](https://github.com/motss/normalize-diacritics/tree/deno) - Remove accents/diacritics in string.
 - [http](https://github.com/denoland/deno_std/tree/master/http) - HTTP module including a file server.
 - [oak](https://github.com/kitsonk/oak) - A middleware framework for Deno's net server.
 - [path](https://github.com/denoland/deno_std/tree/master/fs/path) - Deno Path Manipulation Libraries.
@@ -58,7 +59,6 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [watch](https://github.com/jinjor/deno-watch) - A file watcher.
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
 - [postgres](https://github.com/bartlomieju/deno-postgres) - Driver for PostgreSQL database.
-- [normalize-diacritics](https://github.com/motss/normalize-diacritics/tree/deno) - Remove accents/ diacritics in string.
 
 # Tools
 
