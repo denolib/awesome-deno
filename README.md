@@ -74,7 +74,6 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 # Articles
 
 - [Develop with Deno and Visual Studio Code](https://medium.com/@kitsonk/develop-with-deno-and-visual-studio-code-225ce7c5b1ba)
-- [A Guide to Deno Core (Design & For Contributors)](https://denolib.gitbook.io/guide)
 
 # Presentations
 
