@@ -82,6 +82,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
     - [Slides](https://tinyclouds.org/jsconf2018.pdf)
 - [JSDC 2018#A01 - Deno, A New Server-Side Runtime By Ryan Dahl](https://www.youtube.com/watch?v=FlTG0UXRAkE)
     - [Slides](https://tinyclouds.org/deno_jsdc.pptx)
+- [Deno intro in Hebrew (slides in English)](https://www.youtube.com/watch?v=9tJ_LkI6_qw)
 
 # Resources in Other Languages
 
