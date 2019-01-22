@@ -12,6 +12,7 @@
 - [Newsletters](#newsletters)
 - [Resources in Other Languages](#resources-in-other-languages)
   - [Chinese](#chinese)
+  - [Hebrew](#hebrew)
   - [Japanese](#japanese)
 
 # Docs
@@ -97,6 +98,10 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [玩 Deno 遇到问题的解决方案](https://juejin.im/post/5b1245b3f265da6e4c6cf249)
 - [让我们一起来学习别人学不动的 Deno](https://segmentfault.com/a/1190000015151287)
 - [Design Mistakes in Node zh-CN](https://zhuanlan.zhihu.com/p/37637923)
+
+## Hebrew
+
+- [Deno intro in Hebrew (slides in English)](https://www.youtube.com/watch?v=9tJ_LkI6_qw)
 
 ## Japanese
 
