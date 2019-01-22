@@ -9,6 +9,7 @@
 - [Tools](#tools)
 - [Articles](#articles)
 - [Presentations](#presentations)
+- [Newsletters](#newsletters)
 - [Resources in Other Languages](#resources-in-other-languages)
   - [Chinese](#chinese)
   - [Japanese](#japanese)
@@ -82,6 +83,10 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
     - [Slides](https://tinyclouds.org/jsconf2018.pdf)
 - [JSDC 2018#A01 - Deno, A New Server-Side Runtime By Ryan Dahl](https://www.youtube.com/watch?v=FlTG0UXRAkE)
     - [Slides](https://tinyclouds.org/deno_jsdc.pptx)
+    
+# Newsletters
+
+- [Deno Newsletter](https://deno.news)
 
 # Resources in Other Languages
 
