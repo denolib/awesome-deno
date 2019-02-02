@@ -57,6 +57,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [normalize-diacritics](https://github.com/motss/normalize-diacritics/tree/deno) - Remove accents/diacritics in string.
 - [oak](https://github.com/kitsonk/oak) - A middleware framework for Deno's net server.
 - [path](https://github.com/denoland/deno_std/tree/master/fs/path) - Deno Path Manipulation Libraries.
+- [pogo](https://github.com/sholladay/pogo) - Server framework for Deno
 - [postgres](https://github.com/bartlomieju/deno-postgres) - Driver for PostgreSQL database.
 - [qs](https://github.com/denolib/qs) - A querystring parser with nesting support.
 - [textproto](https://github.com/denoland/deno_std/tree/master/textproto)
