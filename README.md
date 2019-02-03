@@ -48,6 +48,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [deno-ws](https://github.com/keroxp/deno-ws) - An experimental implementation of websocket server for deno.ts.
 - [deno-xml-parser](https://github.com/nekobato/deno-xml-parser) - Deno XML parser ported from segmentio/xml-parser.
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
+- [deno-cli-spinner](https://github.com/ameerthehacker/deno-cli-spinners) - Show spinners in the terminal while running long tasks
 - [expressive](https://github.com/jinjor/deno-playground/tree/master/expressive) - An express-like web app framework.
 - [flags](https://github.com/denoland/deno_std/tree/master/flags) - Command line arguments parser for Deno based on minimist.
 - [http](https://github.com/denoland/deno_std/tree/master/http) - HTTP module including a file server.
