@@ -14,6 +14,7 @@
   - [Chinese](#chinese)
   - [Hebrew](#hebrew)
   - [Japanese](#japanese)
+  - [Korean](#korean)
 
 # Docs
 
