@@ -39,7 +39,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [colors](https://github.com/denoland/deno_std/tree/master/colors) - A basic console color library intended for Deno.
 - [cli-spinner](https://github.com/ameerthehacker/cli-spinners) - Show spinners in the terminal while running long tasks
 - [csv](https://github.com/hashrock/deno-fnparse/blob/master/parsers/csv.ts) - A simple CSV parser.
-- [dcc](https://github.com/BoltDoggy/deno) - Deno Cache Clean, reloading deps when next running.
+- [dcc](https://github.com/BoltDoggy/deno#dcc) - Deno Cache Clean, reloading deps when next running.
 - [dejs](https://github.com/syumai/dejs) - ejs template engine for deno.
 - deno-dotenv
     - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) - Dotenv handling for deno.
@@ -52,7 +52,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [deno-ws](https://github.com/keroxp/deno-ws) - An experimental implementation of websocket server for deno.ts.
 - [deno-xml-parser](https://github.com/nekobato/deno-xml-parser) - Deno XML parser ported from segmentio/xml-parser.
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
-- [dpm](https://github.com/BoltDoggy/deno) - Deno Package Manager, install global command for deno. like denoget.
+- [dpm](https://github.com/BoltDoggy/deno#dpm) - Deno Package Manager, install global command for deno. like denoget.
 - [expressive](https://github.com/jinjor/deno-playground/tree/master/expressive) - An express-like web app framework.
 - [flags](https://github.com/denoland/deno_std/tree/master/flags) - Command line arguments parser for Deno based on minimist.
 - [http](https://github.com/denoland/deno_std/tree/master/http) - HTTP module including a file server.
