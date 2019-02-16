@@ -77,6 +77,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [denoget](https://github.com/syumai/deno-libs/tree/master/denoget) - denoget installs executable deno script.
 - [denoinit](https://github.com/syumai/deno-libs/tree/master/denoinit) - denoinit generates useful files for deno project.
 - [denopkg](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
+- [denoversion](https://github.com/lucascaro/denoversion) - SemVer+git version management for Deno.
 - [deno-vscode](https://github.com/ameerthehacker/deno-vscode) - Leverage the typedef and intellisense built into vscode using this extension
 - [dvm](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active deno versions.
 - [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
