@@ -57,6 +57,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [expressive](https://github.com/jinjor/deno-playground/tree/master/expressive) - An express-like web app framework.
 - [flags](https://github.com/denoland/deno_std/tree/master/flags) - Command line arguments parser for Deno based on minimist.
 - [http](https://github.com/denoland/deno_std/tree/master/http) - HTTP module including a file server.
+- [lazy](https://github.com/luvies/lazy) - A linq-like lazy-evaluation iteration module.
 - [log](https://github.com/denoland/deno_std/tree/master/log) - Logging module for Deno.
 - [marden](https://github.com/muhibbudins/marden) - Markdown Parser for Deno.
 - [ms](https://github.com/denolib/ms) - easily convert various time formats to milliseconds.
