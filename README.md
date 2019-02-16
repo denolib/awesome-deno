@@ -61,7 +61,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [marden](https://github.com/muhibbudins/marden) - Markdown Parser for Deno.
 - [ms](https://github.com/denolib/ms) - easily convert various time formats to milliseconds.
 - [normalize-diacritics](https://github.com/motss/normalize-diacritics/tree/deno) - Remove accents/diacritics in string.
-- [oak](https://github.com/kitsonk/oak) - A middleware framework for Deno's net server.
+- [oak](https://github.com/oakserver/oak) - A middleware framework for Deno's net server.
 - [path](https://github.com/denoland/deno_std/tree/master/fs/path) - Deno Path Manipulation Libraries.
 - [pogo](https://github.com/sholladay/pogo) - Server framework for Deno
 - [postgres](https://github.com/bartlomieju/deno-postgres) - Driver for PostgreSQL database.
@@ -72,13 +72,14 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 
 # Tools
 
-- [deno_ls_plugin](https://www.npmjs.com/package/deno_ls_plugin) a TypeScript plugin which will allow TypeScript outside of Deno to resolve modules in a similar way to the way they are resolved inside of Deno.
-- [deno-docker](https://github.com/maxmcd/deno-docker) A docker image
-- [denoget](https://github.com/syumai/deno-libs/tree/master/denoget) - denoget installs executable deno script.
+- [denoget](https://github.com/syumai/denoget) - denoget installs executable deno script.
 - [denoinit](https://github.com/syumai/deno-libs/tree/master/denoinit) - denoinit generates useful files for deno project.
 - [denopkg](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
 - [denoversion](https://github.com/lucascaro/denoversion) - SemVer+git version management for Deno.
+- [deno-docker](https://github.com/maxmcd/deno-docker) A docker image.
 - [deno-vscode](https://github.com/ameerthehacker/deno-vscode) - Leverage the typedef and intellisense built into vscode using this extension
+- [deno_ls_plugin](https://www.npmjs.com/package/deno_ls_plugin) - a TypeScript plugin which will allow TypeScript outside of Deno to resolve modules in a similar way to the way they are resolved inside of Deno.
+- [deno_init](https://github.com/zhmushan/deno_init) - Quickly initialize a Deno project.
 - [dvm](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active deno versions.
 - [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
 - [task-runner](https://github.com/jinjor/deno-playground/tree/master/task-runner) - Write tasks just like npm scripts.
