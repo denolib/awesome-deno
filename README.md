@@ -1,6 +1,10 @@
-# Awesome-Deno [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.com/denolib/awesome-deno.svg?branch=master)](https://travis-ci.com/denolib/awesome-deno)
+# Awesome-Deno [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome things related to [Deno](https://github.com/denoland/deno).
+
+[Deno](https://github.com/denoland/deno) is a browser-like secure TypeScript/JavaScript runtime built on V8 JavaScript engine, Rust, and TypeScript. It aims to provide a secure and productive scripting system, making use of latest language features and with certain degree of browser compatibility
+
+# Contents
 
 - [Docs](#docs)
     - [Official Docs](#official-docs)
@@ -34,56 +38,56 @@
 
 __NOTICE__: Deno has a few official modules that could be found at [deno_std](https://github.com/denoland/deno_std).
 
-- [abc](https://github.com/zhmushan/abc) - A better Deno framework to create web application.
+- [abc](https://github.com/zhmushan/abc) - Better Deno framework to create web application.
 - [camelcase](https://github.com/denolib/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
-- [colors](https://github.com/denoland/deno_std/tree/master/colors) - A basic console color library intended for Deno.
+- [colors](https://github.com/denoland/deno_std/tree/master/colors) - Basic console color library intended for Deno.
 - [cli-spinner](https://github.com/ameerthehacker/cli-spinners) - Show spinners in the terminal while running long tasks
-- [csv](https://github.com/hashrock/deno-fnparse/blob/master/parsers/csv.ts) - A simple CSV parser.
-- [dcc](https://github.com/BoltDoggy/deno#dcc) - Deno Cache Clean, reloading deps when next running.
-- [dejs](https://github.com/syumai/dejs) - ejs template engine for deno.
+- [csv](https://github.com/hashrock/deno-fnparse/blob/master/parsers/csv.ts) - Simple CSV parser.
+- [dcc](https://github.com/BoltDoggy/deno#dcc) - Reloading deps when next running (Deno Cache Clean).
+- [dejs](https://github.com/syumai/dejs) - EJS template engine for deno.
 - deno-dotenv
     - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) - Dotenv handling for deno.
-    - [cardosomarcos/deno-dotenv](https://github.com/cardosomarcos/deno-dotenv) - Loads environment variables from .env for deno projects.
-- [deno-fnparse](https://github.com/hashrock/deno-fnparse) - An extremely simple parser combinator for JavaScript.
+    - [cardosomarcos/deno-dotenv](https://github.com/cardosomarcos/deno-dotenv) - Load environment variables from .env for deno projects.
+- [deno-fnparse](https://github.com/hashrock/deno-fnparse) - Extremely simple parser combinator for JavaScript.
 - [deno-globrex](https://github.com/hayd/deno-globrex) - Port of globrex to deno, glob to regular expression.
-- [deno-opn](https://github.com/hashrock/deno-opn) - Opens stuff like websites, files, executables. Cross-platform.
-- [deno-pretty-assert](https://github.com/bokuweb/deno-pretty-assert) - A colorful assertEqual for deno.
-- [deno-redis](https://github.com/keroxp/deno-redis) - An experimental implementation of redis client for deno.
-- [deno-using](https://github.com/hayd/deno-using) - An python-style with statements for deno.
+- [deno-opn](https://github.com/hashrock/deno-opn) - Open stuff like websites, files, executables. Cross-platform.
+- [deno-pretty-assert](https://github.com/bokuweb/deno-pretty-assert) - Colorful assertEqual for deno.
+- [deno-redis](https://github.com/keroxp/deno-redis) - Experimental implementation of redis client for deno.
+- [deno-using](https://github.com/hayd/deno-using) - Python-style with statements for deno.
 - [deno-uuid](https://github.com/lucascaro/deno-uuid) - UUID module for deno.
-- [deno-ws](https://github.com/keroxp/deno-ws) - An experimental implementation of websocket server for deno.ts.
+- [deno-ws](https://github.com/keroxp/deno-ws) - Experimental implementation of websocket server for deno.ts.
 - [deno-xml-parser](https://github.com/nekobato/deno-xml-parser) - Deno XML parser ported from segmentio/xml-parser.
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
-- [expressive](https://github.com/jinjor/deno-playground/tree/master/expressive) - An express-like web app framework.
+- [expressive](https://github.com/jinjor/deno-playground/tree/master/expressive) - Express-like web app framework.
 - [flags](https://github.com/denoland/deno_std/tree/master/flags) - Command line arguments parser for Deno based on minimist.
 - [http](https://github.com/denoland/deno_std/tree/master/http) - HTTP module including a file server.
-- [lazy](https://github.com/luvies/lazy) - A linq-like lazy-evaluation iteration module.
+- [lazy](https://github.com/luvies/lazy) - Linq-like lazy-evaluation iteration module.
 - [log](https://github.com/denoland/deno_std/tree/master/log) - Logging module for Deno.
 - [marden](https://github.com/muhibbudins/marden) - Markdown Parser for Deno.
-- [ms](https://github.com/denolib/ms) - easily convert various time formats to milliseconds.
+- [ms](https://github.com/denolib/ms) - Convert various time formats to milliseconds easily.
 - [normalize-diacritics](https://github.com/motss/normalize-diacritics/tree/deno) - Remove accents/diacritics in string.
-- [oak](https://github.com/oakserver/oak) - A middleware framework for Deno's net server.
+- [oak](https://github.com/oakserver/oak) - Middleware framework for Deno's net server.
 - [path](https://github.com/denoland/deno_std/tree/master/fs/path) - Deno Path Manipulation Libraries.
 - [pogo](https://github.com/sholladay/pogo) - Server framework for Deno
 - [postgres](https://github.com/bartlomieju/deno-postgres) - Driver for PostgreSQL database.
-- [qs](https://github.com/denolib/qs) - A querystring parser with nesting support.
-- [textproto](https://github.com/denoland/deno_std/tree/master/textproto)
-- [watch](https://github.com/jinjor/deno-watch) - A file watcher.
-- [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
+- [qs](https://github.com/denolib/qs) - Querystring parser with nesting support.
+- [textproto](https://github.com/denoland/deno_std/tree/master/textproto) - Module providing text based protocol helpers.
+- [watch](https://github.com/jinjor/deno-watch) - File watcher.
+- [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - Diff library to compute differences between two slices using wu(the O(NP)) algorithm.
 
 # Tools
 
-- [denoget](https://github.com/syumai/denoget) - denoget installs executable deno script.
-- [denoinit](https://github.com/syumai/deno-libs/tree/master/denoinit) - denoinit generates useful files for deno project.
-- [denopkg](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
+- [denoget](https://github.com/syumai/denoget) - Install executable deno script.
+- [denoinit](https://github.com/syumai/deno-libs/tree/master/denoinit) - Generate useful files for deno project.
+- [denopkg](https://github.com/denopkg/denopkg.com) - Easier way to use code from GitHub in your Deno project.
 - [denoversion](https://github.com/lucascaro/denoversion) - SemVer+git version management for Deno.
-- [deno-docker](https://github.com/maxmcd/deno-docker) A docker image.
+- [deno-docker](https://github.com/maxmcd/deno-docker) - Docker image.
 - [deno-vscode](https://github.com/ameerthehacker/deno-vscode) - Leverage the typedef and intellisense built into vscode using this extension
-- [deno_ls_plugin](https://www.npmjs.com/package/deno_ls_plugin) - a TypeScript plugin which will allow TypeScript outside of Deno to resolve modules in a similar way to the way they are resolved inside of Deno.
-- [deno_init](https://github.com/zhmushan/deno_init) - Quickly initialize a Deno project.
-- [dpm](https://github.com/BoltDoggy/deno#dpm) - Deno Package Manager, install global command for deno. like denoget.
-- [dvm](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active deno versions.
-- [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
+- [deno_ls_plugin](https://www.npmjs.com/package/deno_ls_plugin) - TypeScript plugin which will allow TypeScript outside of Deno to resolve modules in a similar way to the way they are resolved inside of Deno.
+- [deno_init](https://github.com/zhmushan/deno_init) - Initialize a Deno project quickly .
+- [dpm](https://github.com/BoltDoggy/deno#dpm) - Install global command for deno (Deno Package Manager), like denoget.
+- [dvm](https://github.com/justjavac/dvm) - Manage multiple active deno versions (Deno Version Manager).
+- [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - Elm live reloader written in Deno.
 - [task-runner](https://github.com/jinjor/deno-playground/tree/master/task-runner) - Write tasks just like npm scripts.
 
 # Articles
