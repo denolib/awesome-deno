@@ -113,6 +113,8 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [让我们一起来学习别人学不动的 Deno](https://segmentfault.com/a/1190000015151287)
 - [Design Mistakes in Node zh-CN](https://zhuanlan.zhihu.com/p/37637923)
 - [《Deno进阶开发笔记》](https://github.com/chenshenhai/deno_note/)
+- [Deno 手册](https://nugine.github.io/deno-manual-cn/manual-cn.html)
+- [Deno 风格指南](https://nugine.github.io/deno-manual-cn/style-guide-cn.html)
 
 ## Hebrew
 
