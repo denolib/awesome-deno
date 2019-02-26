@@ -13,6 +13,7 @@ Ensure your pull request adheres to the following guidelines:
 - Start the description with either a verb or a noun phrase.
 - Don't start the description with `A`, `An` or `The`.
 - Don't add `-s` suffix if the description starts with a verb.
+- Avoid `(for) Deno` in the description unless necessary. Stylize as `Deno` instead of `deno`.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request should have a useful title and include a link to the package and why it should be included.
