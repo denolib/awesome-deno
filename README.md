@@ -35,20 +35,20 @@
 __NOTICE__: Deno has a few official modules that could be found at [deno_std](https://github.com/denoland/deno_std).
 
 - [abc](https://github.com/zhmushan/abc) - A better Deno framework to create web application.
-- [bytes_formater](https://github.com/manyuanrong/bytes_formater) - Formatting bytes(Uint8Array、ArrayBufferView..) output, is very useful when debugging IO functions
+- [bytes_formater](https://github.com/manyuanrong/bytes_formater) - Format bytes (Uint8Array、ArrayBufferView...) output, useful when debugging IO functions.
 - [camelcase](https://github.com/denolib/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
 - [colors](https://github.com/denoland/deno_std/tree/master/colors) - A basic console color library intended for Deno.
 - [cli-spinner](https://github.com/ameerthehacker/cli-spinners) - Show spinners in the terminal while running long tasks
 - [csv](https://github.com/hashrock/deno-fnparse/blob/master/parsers/csv.ts) - A simple CSV parser.
 - [dcc](https://github.com/BoltDoggy/deno#dcc) - Deno Cache Clean, reloading deps when next running.
 - [dejs](https://github.com/syumai/dejs) - ejs template engine for deno.
-- [deno-checksum](https://github.com/manyuanrong/deno-checksum) - Sha1、MD5 algorithms for Deno
+- [deno-checksum](https://github.com/manyuanrong/deno-checksum) - SHA1/MD5 algorithms.
 - deno-dotenv
     - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) - Dotenv handling for deno.
     - [cardosomarcos/deno-dotenv](https://github.com/cardosomarcos/deno-dotenv) - Loads environment variables from .env for deno projects.
 - [deno-fnparse](https://github.com/hashrock/deno-fnparse) - An extremely simple parser combinator for JavaScript.
 - [deno-globrex](https://github.com/hayd/deno-globrex) - Port of globrex to deno, glob to regular expression.
-- [deno-mysql](https://github.com/manyuanrong/deno_mysql) - MySQL database driver for Deno.
+- [deno-mysql](https://github.com/manyuanrong/deno_mysql) - MySQL database driver.
 - [deno-opn](https://github.com/hashrock/deno-opn) - Opens stuff like websites, files, executables. Cross-platform.
 - [deno-pretty-assert](https://github.com/bokuweb/deno-pretty-assert) - A colorful assertEqual for deno.
 - [deno-redis](https://github.com/keroxp/deno-redis) - An experimental implementation of redis client for deno.
