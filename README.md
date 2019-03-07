@@ -46,7 +46,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - deno-dotenv
     - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) - Dotenv handling for deno.
     - [cardosomarcos/deno-dotenv](https://github.com/cardosomarcos/deno-dotenv) - Loads environment variables from .env for deno projects.
-- [deno-fen](https://github.com/fen-land/deno-fen) - A simple web framework for deno.
+- [deno-fen](https://github.com/fen-land/deno-fen) - Simple web framework.
 - [deno-fnparse](https://github.com/hashrock/deno-fnparse) - An extremely simple parser combinator for JavaScript.
 - [deno-globrex](https://github.com/hayd/deno-globrex) - Port of globrex to deno, glob to regular expression.
 - [deno-mysql](https://github.com/manyuanrong/deno_mysql) - MySQL database driver.
