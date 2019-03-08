@@ -90,6 +90,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [dvm](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active deno versions.
 - [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
 - [task-runner](https://github.com/jinjor/deno-playground/tree/master/task-runner) - Write tasks just like npm scripts.
+- [typescript-deno-plugin](https://github.com/justjavac/typescript-deno-plugin) - Deno language service plugin for TypeScript, It can provide intellisense in TypeScript files within any editors that uses TypeScript to power their language features.
 
 # Articles
 
