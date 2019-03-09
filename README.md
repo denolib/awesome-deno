@@ -91,6 +91,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
 - [task-runner](https://github.com/jinjor/deno-playground/tree/master/task-runner) - Write tasks just like npm scripts.
 - [vscode-deno](https://github.com/justjavac/vscode-deno) - VS Code extension that provides Deno support using the typescript-deno-plugin.
+- [pika deno plugin](https://github.com/pikapkg/builders/tree/master/packages/plugin-build-deno/)
 
 # Articles
 
