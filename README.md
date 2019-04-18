@@ -65,7 +65,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [log](https://github.com/denoland/deno_std/tree/master/log) - Logging module for Deno.
 - [marden](https://github.com/muhibbudins/marden) - Markdown Parser for Deno.
 - [ms](https://github.com/denolib/ms) - easily convert various time formats to milliseconds.
-- [normalize-diacritics](https://github.com/motss/normalize-diacritics/tree/deno) - Remove accents/diacritics in string.
+- [normalize_diacritics](https://github.com/motss/deno_mod/tree/master/normalize_diacritics) - Remove accents/diacritics in string.
 - [oak](https://github.com/oakserver/oak) - A middleware framework for Deno's net server.
 - [path](https://github.com/denoland/deno_std/tree/master/fs/path) - Deno Path Manipulation Libraries.
 - [pogo](https://github.com/sholladay/pogo) - Server framework for Deno
