@@ -27,7 +27,7 @@
 
 ### External Docs
 
-- [A Guide to Deno Core (Design & For Contributors)](https://denolib.gitbook.io/guide)
+- [A Guide to Deno Core (Design & For Contributors)](https://denolib.gitbook.io/guide/)
 - [V8 Docs for Deno](https://denolib.github.io/v8-docs/)
 
 # Modules
