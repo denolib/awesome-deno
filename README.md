@@ -36,6 +36,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 
 - [abc](https://github.com/zhmushan/abc) - A better Deno framework to create web application.
 - [bytes_formater](https://github.com/manyuanrong/bytes_formater) - Format bytes (Uint8Array、ArrayBufferView...) output, useful when debugging IO functions.
+- [cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 - [camelcase](https://github.com/denolib/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
 - [colors](https://github.com/denoland/deno_std/tree/master/colors) - A basic console color library intended for Deno.
 - [cli-spinner](https://github.com/ameerthehacker/cli-spinners) - Show spinners in the terminal while running long tasks
