@@ -74,6 +74,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [postgres](https://github.com/bartlomieju/deno-postgres) - Driver for PostgreSQL database.
 - [qs](https://github.com/denolib/qs) - A querystring parser with nesting support.
 - [sax-ts](https://github.com/Maxim-Mazurok/sax-ts) - SAX-style XML parser ported from [sax-js](https://github.com/isaacs/sax-js)
+- [servest](https://github.com/keroxp/servest) - A progressive HTTP server/router.
 - [textproto](https://github.com/denoland/deno_std/tree/master/textproto)
 - [watch](https://github.com/jinjor/deno-watch) - A file watcher.
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
