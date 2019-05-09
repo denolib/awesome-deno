@@ -22,7 +22,7 @@
 
 - [Official Site (deno.land)](https://deno.land)
 - [Deno API TypeDoc](https://deno.land/typedoc/)
-- [Deno Docs](https://github.com/denoland/deno/blob/master/Docs.md)
+- [Deno Manual](https://deno.land/manual.html)
 - [Deno Registry](https://deno.land/x/)
 
 ### External Docs
