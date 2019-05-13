@@ -57,7 +57,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
 - [deno-pretty-assert](https://github.com/bokuweb/deno-pretty-assert) - A colorful assertEqual for deno.
 - [deno-random-interval](https://github.com/zekth/deno-random-interval) - Helper to generate random interval.
 - [deno-redis](https://github.com/keroxp/deno-redis) - An experimental implementation of redis client for deno.
-- [deno-templates](https://github.com/zekth/deno-templates) - Template renderer for deno.
+- [deno_tiny_templates](https://github.com/zekth/deno_tiny_templates) - Template renderer for deno.
 - [deno-using](https://github.com/hayd/deno-using) - An python-style with statements for deno.
 - [deno-uuid](https://github.com/lucascaro/deno-uuid) - UUID module for deno.
 - [deno-ws](https://github.com/keroxp/deno-ws) - An experimental implementation of websocket server for deno.ts.
