@@ -44,7 +44,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
 - [csv](https://github.com/hashrock/deno-fnparse/blob/master/parsers/csv.ts) - A simple CSV parser.
 - [dcc](https://github.com/BoltDoggy/deno#dcc) - Deno Cache Clean, reloading deps when next running.
 - [dejs](https://github.com/syumai/dejs) - ejs template engine for deno.
-- [deno-case-style](https://github.com/zekth/deno-case-style) - String validator and formater for different case style. eg: camelCase etc.
+- [deno_case_style](https://github.com/zekth/deno_case_style) - String validator and formater for different case style. eg: camelCase etc.
 - [deno-checksum](https://github.com/manyuanrong/deno-checksum) - SHA1/MD5 algorithms.
 - deno-dotenv
     - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) - Dotenv handling for deno.
@@ -55,8 +55,9 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
 - [deno-mysql](https://github.com/manyuanrong/deno_mysql) - MySQL database driver.
 - [deno-opn](https://github.com/hashrock/deno-opn) - Opens stuff like websites, files, executables. Cross-platform.
 - [deno-pretty-assert](https://github.com/bokuweb/deno-pretty-assert) - A colorful assertEqual for deno.
-- [deno-random-interval](https://github.com/zekth/deno-random-interval) - Helper to generate random interval.
+- [deno_random_interval](https://github.com/zekth/deno_random_interval) - Helper to generate random interval.
 - [deno-redis](https://github.com/keroxp/deno-redis) - An experimental implementation of redis client for deno.
+- [deno-slugify](https://github.com/jcardama/deno_slugify) - A string slugifier for deno.
 - [deno_tiny_templates](https://github.com/zekth/deno_tiny_templates) - Template renderer for deno.
 - [deno-using](https://github.com/hayd/deno-using) - An python-style with statements for deno.
 - [deno-uuid](https://github.com/lucascaro/deno-uuid) - UUID module for deno.
@@ -122,7 +123,6 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
 
 ## Chinese
 
-- [deno.js.cn](https://deno.js.cn/)
 - [Deno 并不是下一代 Node.js](https://juejin.im/post/5b14a390e51d4506c1300bbc)
 - [玩 Deno 遇到问题的解决方案](https://juejin.im/post/5b1245b3f265da6e4c6cf249)
 - [让我们一起来学习别人学不动的 Deno](https://segmentfault.com/a/1190000015151287)
