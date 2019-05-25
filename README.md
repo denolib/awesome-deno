@@ -58,6 +58,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
 - [deno_random_interval](https://github.com/zekth/deno_random_interval) - Helper to generate random interval.
 - [deno-redis](https://github.com/keroxp/deno-redis) - An experimental implementation of redis client for deno.
 - [deno-slugify](https://github.com/jcardama/deno_slugify) - A string slugifier for deno.
+- [deno_tiny_templates](https://github.com/zekth/deno_tiny_templates) - Template renderer for deno.
 - [deno-using](https://github.com/hayd/deno-using) - An python-style with statements for deno.
 - [deno-uuid](https://github.com/lucascaro/deno-uuid) - UUID module for deno.
 - [deno-ws](https://github.com/keroxp/deno-ws) - An experimental implementation of websocket server for deno.ts.
