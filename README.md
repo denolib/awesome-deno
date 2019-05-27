@@ -96,7 +96,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
 - [dpm](https://github.com/BoltDoggy/deno#dpm) - Deno Package Manager, install global command for deno. like denoget.
 - [dvm](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active deno versions.
 - [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
-- [task-runner](https://github.com/jinjor/deno-playground/tree/master/task-runner) - Write tasks just like npm scripts.
+- [task-runner](https://github.com/jinjor/deno-task-runner) - Write tasks just like npm scripts.
 - [typescript-deno-plugin](https://github.com/justjavac/typescript-deno-plugin) - Deno language service plugin, providing intellisense in TypeScript files within editors.
 - [vscode-deno](https://github.com/justjavac/vscode-deno) - VS Code extension that provides Deno support using the typescript-deno-plugin.
 - [pika deno plugin](https://github.com/pikapkg/builders/tree/master/packages/plugin-build-deno/)
