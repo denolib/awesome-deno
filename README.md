@@ -99,6 +99,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
 - [task-runner](https://github.com/jinjor/deno-task-runner) - Write tasks just like npm scripts.
 - [typescript-deno-plugin](https://github.com/justjavac/typescript-deno-plugin) - Deno language service plugin, providing intellisense in TypeScript files within editors.
 - [vscode-deno](https://github.com/justjavac/vscode-deno) - VS Code extension that provides Deno support using the typescript-deno-plugin.
+- [packer-provisioner-deno](https://github.com/anxiousmodernman/packer-provisioner-deno) - A Packer plugin that makes it easy to build virtual machine images with Deno scripts.
 - [pika deno plugin](https://github.com/pikapkg/builders/tree/master/packages/plugin-build-deno/)
 
 # Articles
