@@ -64,6 +64,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
 - [deno-ws](https://github.com/keroxp/deno-ws) - An experimental implementation of websocket server for deno.ts.
 - [deno-xml-parser](https://github.com/nekobato/deno-xml-parser) - Deno XML parser ported from segmentio/xml-parser.
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
+- [dso](https://github.com/manyuanrong/dso) - A simple ORM library for deno based on mysql.
 - [expect](https://github.com/allain/expect) - Helpers for writing jest like expect tests in deno.
 - [expressive](https://github.com/jinjor/deno-playground/tree/master/expressive) - An express-like web app framework.
 - [flags](https://github.com/denoland/deno_std/tree/master/flags) - Command line arguments parser for Deno based on minimist.
@@ -79,6 +80,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
 - [qs](https://github.com/denolib/qs) - A querystring parser with nesting support.
 - [sax-ts](https://github.com/Maxim-Mazurok/sax-ts) - SAX-style XML parser ported from [sax-js](https://github.com/isaacs/sax-js)
 - [servest](https://github.com/keroxp/servest) - A progressive HTTP server/router.
+- [sql-builder](https://github.com/manyuanrong/sql-builder) - An sql query builder
 - [textproto](https://github.com/denoland/deno_std/tree/master/textproto)
 - [watch](https://github.com/jinjor/deno-watch) - A file watcher.
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
