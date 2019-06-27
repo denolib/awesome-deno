@@ -154,3 +154,8 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
 ## Korean
 
 - [denoland.kr/](https://denoland.kr/)
+
+## Russian
+
+- [Telegram channel](https://t.me/denoland_ru)
+- [Telegram chat](https://t.me/denoland)
