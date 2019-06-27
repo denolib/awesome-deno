@@ -15,6 +15,7 @@
   - [Hebrew](#hebrew)
   - [Japanese](#japanese)
   - [Korean](#korean)
+  - [Russian](#russian)
 
 # Docs
 
