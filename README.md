@@ -37,6 +37,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 Consider submitting to [the deno.land/x](https://github.com/denoland/registry/blob/master/src/database.json) repository.
 
 - [abc](https://github.com/zhmushan/abc) - A better Deno framework to create web application.
+- [alosaur](https://github.com/irustm/alosaur) - Alosaur - Deno web framework with many decorators.
 - [bytes_formater](https://github.com/manyuanrong/bytes_formater) - Format bytes (Uint8Array、ArrayBufferView...) output, useful when debugging IO functions.
 - [cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 - [camelcase](https://github.com/denolib/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
