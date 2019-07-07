@@ -74,6 +74,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
 - [http](https://github.com/denoland/deno_std/tree/master/http) - HTTP module including a file server.
 - [lazy](https://github.com/luvies/lazy) - A linq-like lazy-evaluation iteration module.
 - [log](https://github.com/denoland/deno_std/tree/master/log) - Logging module for Deno.
+- [marked](https://github.com/denolib/marked/) - Markdown-to-HTML converter.
 - [ms](https://github.com/denolib/ms) - easily convert various time formats to milliseconds.
 - [normalize_diacritics](https://github.com/motss/deno_mod/tree/master/normalize_diacritics) - Remove accents/diacritics in string.
 - [oak](https://github.com/oakserver/oak) - A middleware framework for Deno's net server.
