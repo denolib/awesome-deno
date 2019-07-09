@@ -72,6 +72,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
 - [expressive](https://github.com/jinjor/deno-playground/tree/master/expressive) - An express-like web app framework.
 - [flags](https://github.com/denoland/deno_std/tree/master/flags) - Command line arguments parser for Deno based on minimist.
 - [http](https://github.com/denoland/deno_std/tree/master/http) - HTTP module including a file server.
+- [http-libs](https://github.com/denoserverless/http-libs) - HTTP modules and typings for Deno
 - [lazy](https://github.com/luvies/lazy) - A linq-like lazy-evaluation iteration module.
 - [log](https://github.com/denoland/deno_std/tree/master/log) - Logging module for Deno.
 - [marked](https://github.com/denolib/marked/) - Markdown-to-HTML converter.
@@ -86,6 +87,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
 - [servest](https://github.com/keroxp/servest) - A progressive HTTP server/router.
 - [sql-builder](https://github.com/manyuanrong/sql-builder) - An sql query builder.
 - [textproto](https://github.com/denoland/deno_std/tree/master/textproto)
+- [type-fest](https://github.com/denoserverless/type-fest) - A collection of essential TypeScript types (Deno port of sindresorhus/type-fest)
 - [watch](https://github.com/jinjor/deno-watch) - A file watcher.
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
 
