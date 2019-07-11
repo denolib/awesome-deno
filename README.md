@@ -73,6 +73,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
 - [flags](https://github.com/denoland/deno_std/tree/master/flags) - Command line arguments parser for Deno based on minimist.
 - [http](https://github.com/denoland/deno_std/tree/master/http) - HTTP module including a file server.
 - [http-libs](https://github.com/denoserverless/http-libs) - HTTP modules and typings.
+- [jwt](https://github.com/denoserverless/jwt) - Port of auth0/jsonwebtoken.
 - [lazy](https://github.com/luvies/lazy) - A linq-like lazy-evaluation iteration module.
 - [log](https://github.com/denoland/deno_std/tree/master/log) - Logging module for Deno.
 - [marked](https://github.com/denolib/marked/) - Markdown-to-HTML converter.
