@@ -71,6 +71,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
 - [expect](https://github.com/allain/expect) - Helpers for writing jest like expect tests in deno.
 - [expressive](https://github.com/jinjor/deno-playground/tree/master/expressive) - An express-like web app framework.
 - [flags](https://github.com/denoland/deno_std/tree/master/flags) - Command line arguments parser for Deno based on minimist.
+- [gardens](https://github.com/partheseas/gardens) - A logging utility for JavaScript *everywhere*. 🎉
 - [http](https://github.com/denoland/deno_std/tree/master/http) - HTTP module including a file server.
 - [http-libs](https://github.com/denoserverless/http-libs) - HTTP modules and typings.
 - [jwt](https://github.com/denoserverless/jwt) - Port of auth0/jsonwebtoken.
