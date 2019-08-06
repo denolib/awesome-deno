@@ -37,7 +37,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 Consider submitting to [the deno.land/x](https://github.com/denoland/registry/blob/master/src/database.json) repository.
 
 - [abc](https://github.com/zhmushan/abc) - A better Deno framework to create web application.
-- [alosaur](https://github.com/irustm/alosaur) - Alosaur - Deno web framework with many decorators.
+- [alosaur](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many decorators.
 - [bytes_formater](https://github.com/manyuanrong/bytes_formater) - Format bytes (Uint8Array、ArrayBufferView...) output, useful when debugging IO functions.
 - [cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 - [camelcase](https://github.com/denolib/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
@@ -71,6 +71,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
 - [expect](https://github.com/allain/expect) - Helpers for writing jest like expect tests in deno.
 - [expressive](https://github.com/jinjor/deno-playground/tree/master/expressive) - An express-like web app framework.
 - [flags](https://github.com/denoland/deno_std/tree/master/flags) - Command line arguments parser for Deno based on minimist.
+- [gardens](https://github.com/partheseas/gardens) - A useful logging utility for JavaScript everywhere.
 - [http](https://github.com/denoland/deno_std/tree/master/http) - HTTP module including a file server.
 - [http-libs](https://github.com/denoserverless/http-libs) - HTTP modules and typings.
 - [jwt](https://github.com/denoserverless/jwt) - Port of auth0/jsonwebtoken.
@@ -82,7 +83,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
 - [oak](https://github.com/oakserver/oak) - A middleware framework for Deno's net server.
 - [path](https://github.com/denoland/deno_std/tree/master/fs/path) - Deno Path Manipulation Libraries.
 - [pogo](https://github.com/sholladay/pogo) - Server framework for Deno
-- [postgres](https://github.com/bartlomieju/deno-postgres) - Driver for PostgreSQL database.
+- [postgres](https://github.com/buildondata/deno-postgres) - Driver for PostgreSQL database.
 - [qs](https://github.com/denolib/qs) - A querystring parser with nesting support.
 - [sax-ts](https://github.com/Maxim-Mazurok/sax-ts) - SAX-style XML parser ported from [sax-js](https://github.com/isaacs/sax-js)
 - [servest](https://github.com/keroxp/servest) - A progressive HTTP server/router.
