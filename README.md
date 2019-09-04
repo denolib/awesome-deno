@@ -51,7 +51,6 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
 - deno-dotenv
     - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) - Dotenv handling for deno.
     - [cardosomarcos/deno-dotenv](https://github.com/cardosomarcos/deno-dotenv) - Loads environment variables from .env for deno projects.
-- [deno-fen](https://github.com/fen-land/deno-fen) - Simple web framework.
 - [deno-fnparse](https://github.com/hashrock/deno-fnparse) - An extremely simple parser combinator for JavaScript.
 - [deno-globrex](https://github.com/hayd/deno-globrex) - Port of globrex to deno, glob to regular expression.
 - [deno-mysql](https://github.com/manyuanrong/deno_mysql) - MySQL database driver.
@@ -69,7 +68,6 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
 - [dso](https://github.com/manyuanrong/dso) - A simple ORM library based on mysql.
 - [expect](https://github.com/allain/expect) - Helpers for writing jest like expect tests in deno.
-- [expressive](https://github.com/jinjor/deno-playground/tree/master/expressive) - An express-like web app framework.
 - [flags](https://github.com/denoland/deno_std/tree/master/flags) - Command line arguments parser for Deno based on minimist.
 - [gardens](https://github.com/partheseas/gardens) - A useful logging utility for JavaScript everywhere.
 - [http](https://github.com/denoland/deno_std/tree/master/http) - HTTP module including a file server.
