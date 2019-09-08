@@ -61,6 +61,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
 - [deno-slugify](https://github.com/jcardama/deno_slugify) - A string slugifier for deno.
 - [deno-smtp](https://github.com/manyuanrong/deno-smtp) - A smtp mail sender for deno.
 - [deno_tiny_templates](https://github.com/zekth/deno_tiny_templates) - Template renderer for deno.
+- [deno_tokenizer](https://github.com/eliassjogreen/deno_tokenizer) - A simple tokenizer for deno.
 - [deno-using](https://github.com/hayd/deno-using) - An python-style with statements for deno.
 - [deno-uuid](https://github.com/lucascaro/deno-uuid) - UUID module for deno.
 - [deno-ws](https://github.com/keroxp/deno-ws) - An experimental implementation of websocket server for deno.ts.
