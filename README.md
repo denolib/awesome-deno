@@ -129,6 +129,8 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
     - [Slides](https://gitpitch.com/rsp/ntd/ntd?utm_campaign=Deno%20Newsletter#/)
 - [Ryan Dahl: A secure runtime for JavaScript and TypeScript | js.la April 2019](https://www.youtube.com/watch?v=RAmqgbv247s)
     - [Slides](https://docs.google.com/presentation/d/1CSQVTeH5tFzE4AZVXIpx9Xwew5YS-gxJZ03eRFtNeIc/edit)
+- [Ryan Dahl: Deno, a new way to JavaScript - HolyJS 2019 Piter](https://www.youtube.com/watch?v=HjdJzNoT_qg)
+    - [Slides](https://docs.google.com/presentation/d/1BjvZx5S8noVfFINptH4jfKfqh9jB9nXlFC0I3oIDtg4/edit)
     
 # Newsletters
 
