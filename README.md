@@ -109,7 +109,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
 - [task-runner](https://github.com/jinjor/deno-task-runner) - Write tasks just like npm scripts.
 - [typescript-deno-plugin](https://github.com/justjavac/typescript-deno-plugin) - Deno language service plugin, providing intellisense in TypeScript files within editors.
 - [vscode-deno](https://github.com/justjavac/vscode-deno) - VS Code extension that provides Deno support using the typescript-deno-plugin.
-- [packer-provisioner-deno](https://github.com/anxiousmodernman/packer-provisioner-deno) - A Packer plugin that makes it easy to build virtual machine images with Deno scripts.
+- [packer-provisioner-deno](https://github.com/dontlaugh/packer-provisioner-deno) - A Packer plugin that makes it easy to build virtual machine images with Deno scripts.
 - [pika deno plugin](https://github.com/pikapkg/builders/tree/master/packages/plugin-build-deno/)
 
 # Articles
@@ -129,6 +129,8 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
     - [Slides](https://gitpitch.com/rsp/ntd/ntd?utm_campaign=Deno%20Newsletter#/)
 - [Ryan Dahl: A secure runtime for JavaScript and TypeScript | js.la April 2019](https://www.youtube.com/watch?v=RAmqgbv247s)
     - [Slides](https://docs.google.com/presentation/d/1CSQVTeH5tFzE4AZVXIpx9Xwew5YS-gxJZ03eRFtNeIc/edit)
+- [Ryan Dahl: Deno, a new way to JavaScript - HolyJS 2019 Piter](https://www.youtube.com/watch?v=HjdJzNoT_qg)
+    - [Slides](https://docs.google.com/presentation/d/1BjvZx5S8noVfFINptH4jfKfqh9jB9nXlFC0I3oIDtg4/edit)
     
 # Newsletters
 
