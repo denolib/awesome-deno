@@ -67,6 +67,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
 - [deno-ws](https://github.com/keroxp/deno-ws) - An experimental implementation of websocket server for deno.ts.
 - [deno-xml-parser](https://github.com/nekobato/deno-xml-parser) - Deno XML parser ported from segmentio/xml-parser.
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
+- [djwt](https://github.com/timonson/djwt) - Make JSON Web Tokens (JWT) on deno based on JWT and JWS specifications.
 - [dso](https://github.com/manyuanrong/dso) - A simple ORM library based on mysql.
 - [expect](https://github.com/allain/expect) - Helpers for writing jest like expect tests in deno.
 - [flags](https://github.com/denoland/deno_std/tree/master/flags) - Command line arguments parser for Deno based on minimist.
