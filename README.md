@@ -66,6 +66,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
 - [deno-uuid](https://github.com/lucascaro/deno-uuid) - UUID module for deno.
 - [deno-ws](https://github.com/keroxp/deno-ws) - An experimental implementation of websocket server for deno.ts.
 - [deno-xml-parser](https://github.com/nekobato/deno-xml-parser) - Deno XML parser ported from segmentio/xml-parser.
+- [deno-prettystring](https://github.com/OnikurYH/deno-prettystring) - Format, trim and remove extra white spaces between characters from string.
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
 - [djwt](https://github.com/timonson/djwt) - Make JSON Web Tokens (JWT) on deno based on JWT and JWS specifications.
 - [dso](https://github.com/manyuanrong/dso) - A simple ORM library based on mysql.
