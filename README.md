@@ -56,6 +56,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
 - [deno-mysql](https://github.com/manyuanrong/deno_mysql) - MySQL database driver.
 - [deno-opn](https://github.com/hashrock/deno-opn) - Opens stuff like websites, files, executables. Cross-platform.
 - [deno-pretty-assert](https://github.com/bokuweb/deno-pretty-assert) - A colorful assertEqual for deno.
+- [deno-prettystring](https://github.com/OnikurYH/deno-prettystring) - Format, trim and remove extra white spaces between characters from string.
 - [deno_random_interval](https://github.com/zekth/deno_random_interval) - Helper to generate random interval.
 - [deno-redis](https://github.com/keroxp/deno-redis) - An experimental implementation of redis client for deno.
 - [deno-slugify](https://github.com/jcardama/deno_slugify) - A string slugifier for deno.
