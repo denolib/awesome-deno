@@ -118,6 +118,9 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
 
 - [Develop with Deno and Visual Studio Code](https://medium.com/@kitsonk/develop-with-deno-and-visual-studio-code-225ce7c5b1ba)
 - [First thoughts on Deno, the JavaScript/TypeScript run-time](https://43081j.com/2019/01/first-look-at-deno)
+- [Getting started with Deno](https://dev.to/wuz/getting-started-with-deno-e1m)
+- [What’s Deno, and how is it different from Node.js?](https://dev.to/bnevilleoneill/what-s-deno-and-how-is-it-different-from-node-js-366g)
+- [Write a small API using Deno](https://dev.to/kryz/write-a-small-api-using-deno-1cl0)
 
 # Presentations
 
