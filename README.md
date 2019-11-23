@@ -39,7 +39,6 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
 - [abc](https://github.com/zhmushan/abc) - A better Deno framework to create web application.
 - [alosaur](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many decorators.
 - [bytes_formater](https://github.com/manyuanrong/bytes_formater) - Format bytes (Uint8Array、ArrayBufferView...) output, useful when debugging IO functions.
-- [cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 - [camelcase](https://github.com/denolib/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
 - [colors](https://deno.land/std/fmt/colors.ts) - A basic console color library intended for Deno.
 - [cli-spinner](https://github.com/ameerthehacker/cli-spinners) - Show spinners in the terminal while running long tasks
@@ -104,7 +103,6 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/registry/bl
 - [deno-docker](https://github.com/maxmcd/deno-docker) A docker image.
 - [deno-vscode](https://github.com/ameerthehacker/deno-vscode) - Leverage the typedef and intellisense built into vscode using this extension
 - [deno_ls_plugin](https://www.npmjs.com/package/deno_ls_plugin) - a TypeScript plugin which will allow TypeScript outside of Deno to resolve modules in a similar way to the way they are resolved inside of Deno.
-- [deno_init](https://github.com/zhmushan/deno_init) - Quickly initialize a Deno project.
 - [dpm](https://github.com/BoltDoggy/deno#dpm) - Deno Package Manager, install global command for deno. like denoget.
 - [dvm](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active deno versions.
 - [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
