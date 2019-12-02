@@ -33,8 +33,8 @@
 
 # Modules
 
-__NOTICE__: Deno has a few official modules that could be found at [deno_std](https://github.com/denoland/deno_std).
-Consider submitting to [the deno.land/x](https://github.com/denoland/registry/blob/master/src/database.json) repository.
+__NOTICE__: Deno has a few official modules that could be found at [deno_std](https://deno.land/std/).
+Consider submitting to [the deno.land/x](https://github.com/denoland/deno_website2/blob/master/src/database.json) repository.
 
 - [abc](https://github.com/zhmushan/abc) - A better Deno framework to create web application.
 - [alosaur](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many decorators.
