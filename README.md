@@ -48,6 +48,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [dejs](https://github.com/syumai/dejs) - ejs template engine for deno.
 - [deno_case_style](https://github.com/zekth/deno_case_style) - String validator and formater for different case style. eg: camelCase etc.
 - [deno-checksum](https://github.com/manyuanrong/deno-checksum) - SHA1/MD5 algorithms.
+- [deno-deamon](https://github.com/manyuanrong/deno-deamon) - Make the Deno program run in the background.
 - deno-dotenv
     - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) - Dotenv handling for deno.
     - [cardosomarcos/deno-dotenv](https://github.com/cardosomarcos/deno-dotenv) - Loads environment variables from .env for deno projects.
