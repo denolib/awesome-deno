@@ -107,8 +107,9 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [deno_ls_plugin](https://www.npmjs.com/package/deno_ls_plugin) - a TypeScript plugin which will allow TypeScript outside of Deno to resolve modules in a similar way to the way they are resolved inside of Deno.
 - [deno_init](https://github.com/zhmushan/deno_init) - Quickly initialize a Deno project.
 - [dpm](https://github.com/BoltDoggy/deno#dpm) - Deno Package Manager, install global command for deno. like denoget.
-- [dvm](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active deno versions.
-- [dvm](https://github.com/axetroy/dvm) - Version manger for Deno without runtime dependencies.
+- dvm
+    - [justjavac/dvm](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active deno versions.
+    - [axetroy/dvm](https://github.com/axetroy/dvm) - Version manger for Deno without runtime dependencies.
 - [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
 - [task-runner](https://github.com/jinjor/deno-task-runner) - Write tasks just like npm scripts.
 - [typescript-deno-plugin](https://github.com/justjavac/typescript-deno-plugin) - Deno language service plugin, providing intellisense in TypeScript files within editors.
