@@ -31,6 +31,11 @@
 - [A Guide to Deno Core (Design & For Contributors)](https://denolib.gitbook.io/guide/)
 - [V8 Docs for Deno](https://denolib.github.io/v8-docs/)
 
+### Online Playgrounds
+
+- [deno play](https://deno-play.app) 
+- [deno.town](https://deno.town)
+
 # Modules
 
 __NOTICE__: Deno has a few official modules that could be found at [deno_std](https://deno.land/std/).
@@ -106,7 +111,6 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [deno-vscode](https://github.com/ameerthehacker/deno-vscode) - Leverage the typedef and intellisense built into vscode using this extension
 - [deno_ls_plugin](https://www.npmjs.com/package/deno_ls_plugin) - a TypeScript plugin which will allow TypeScript outside of Deno to resolve modules in a similar way to the way they are resolved inside of Deno.
 - [deno_init](https://github.com/zhmushan/deno_init) - Quickly initialize a Deno project.
-- [deno.town](https://deno.town) - A web REPL for Deno
 - [dpm](https://github.com/BoltDoggy/deno#dpm) - Deno Package Manager, install global command for deno. like denoget.
 - dvm
     - [justjavac/dvm](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active deno versions.
