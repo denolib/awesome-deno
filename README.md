@@ -33,7 +33,7 @@
 
 ### Online Playgrounds
 
-- `deno.play` (⚠ cert issues)
+- [deno-play](https://deno-play.app)
 - [deno.town](https://deno.town)
 
 # Modules
