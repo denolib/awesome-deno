@@ -31,6 +31,11 @@
 - [A Guide to Deno Core (Design & For Contributors)](https://denolib.gitbook.io/guide/)
 - [V8 Docs for Deno](https://denolib.github.io/v8-docs/)
 
+### Online Playgrounds
+
+- deno-play.app (⚠ cert issues)
+- [deno.town](https://deno.town)
+
 # Modules
 
 __NOTICE__: Deno has a few official modules that could be found at [deno_std](https://deno.land/std/).
@@ -173,7 +178,6 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 
 - [Node.js における設計ミス By Ryan Dahl](https://yosuke-furukawa.hatenablog.com/entry/2018/06/07/080335)
 - [mizchi/deno_code_reading.md](https://gist.github.com/mizchi/31e5628751330b624a0e8ada9e739b1e)
-- [Denoを読む(1)](https://blog.bokuweb.me/entry/2019/01/11/102706)
 - [Design Mistakes in Node & Deno #kng5 / deno](https://speakerdeck.com/masashi/deno)
 - [Dive into Deno：プロセス起動からTypeScriptが実行されるまで](https://blog.leko.jp/post/code-reading-of-deno-boot-process/)
 
