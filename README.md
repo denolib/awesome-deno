@@ -51,7 +51,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [csv](https://github.com/hashrock/deno-fnparse/blob/master/parsers/csv.ts) - A simple CSV parser.
 - [dcc](https://github.com/BoltDoggy/deno#dcc) - Deno Cache Clean, reloading deps when next running.
 - [dejs](https://github.com/syumai/dejs) - ejs template engine for deno.
-- [denon](https://github.com/eliassjogreen/denon) - A file watcher with an for-await generator
+- [denon](https://github.com/eliassjogreen/denon/blob/master/watcher.ts) - A file watcher with an for-await generator
 - [deno_case_style](https://github.com/zekth/deno_case_style) - String validator and formater for different case style. eg: camelCase etc.
 - [deno-checksum](https://github.com/manyuanrong/deno-checksum) - SHA1/MD5 algorithms.
 - [deno-deamon](https://github.com/manyuanrong/deno-deamon) - Make the Deno program run in the background.
