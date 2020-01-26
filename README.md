@@ -28,7 +28,7 @@
 
 ### External Docs
 
-- [A Guide to Deno Core (Design & For Contributors)](https://denolib.gitbook.io/guide/)
+- [A Guide to Deno Core (Design & For Contributors)](https://denolib.gitbook.io/guide/) (⚠ out dated)
 - [V8 Docs for Deno](https://denolib.github.io/v8-docs/)
 
 ### Online Playgrounds
