@@ -109,7 +109,8 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [denon](https://github.com/eliassjogreen/denon) - Like Nodemon, but for Deno
 - [denopkg](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
 - [denoversion](https://github.com/lucascaro/denoversion) - SemVer+git version management for Deno.
-- [deno-docker](https://github.com/maxmcd/deno-docker) A docker image.
+- maxmcd's [deno-docker](https://github.com/maxmcd/deno-docker) A docker image.
+- hayd's [deno-docker](https://github.com/hayd/deno-docker) Several docker images.
 - [deno-vscode](https://github.com/ameerthehacker/deno-vscode) - Leverage the typedef and intellisense built into vscode using this extension
 - [deno_ls_plugin](https://www.npmjs.com/package/deno_ls_plugin) - a TypeScript plugin which will allow TypeScript outside of Deno to resolve modules in a similar way to the way they are resolved inside of Deno.
 - [deno_init](https://github.com/zhmushan/deno_init) - Quickly initialize a Deno project.
