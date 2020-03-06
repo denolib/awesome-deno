@@ -61,7 +61,9 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [deno-fnparse](https://github.com/hashrock/deno-fnparse) - An extremely simple parser combinator for JavaScript.
 - [deno-globrex](https://github.com/hayd/deno-globrex) - Port of globrex to deno, glob to regular expression.
 - [deno-mysql](https://github.com/manyuanrong/deno_mysql) - MySQL database driver.
+- [deno_mongo](https://github.com/manyuanrong/deno_mongo) - MongoDB database driver.
 - [deno-opn](https://github.com/hashrock/deno-opn) - Opens stuff like websites, files, executables. Cross-platform.
+- [deno-plugin-prepare](https://github.com/manyuanrong/deno-plugin-prepare) - A library for managing deno native plugin dependencies
 - [deno-pretty-assert](https://github.com/bokuweb/deno-pretty-assert) - A colorful assertEqual for deno.
 - [deno-prettystring](https://github.com/OnikurYH/deno-prettystring) - Format, trim and remove extra white spaces between characters from string.
 - [deno_random_interval](https://github.com/zekth/deno_random_interval) - Helper to generate random interval.
