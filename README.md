@@ -124,6 +124,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
 - [task-runner](https://github.com/jinjor/deno-task-runner) - Write tasks just like npm scripts.
 - [typescript-deno-plugin](https://github.com/justjavac/typescript-deno-plugin) - Deno language service plugin, providing intellisense in TypeScript files within editors.
+- [udd](https://github.com/hayd/deno-udd) - Update deno dependencies: updates import statements to their latest published version.
 - [vscode-deno](https://github.com/justjavac/vscode-deno) - VS Code extension that provides Deno support using the typescript-deno-plugin.
 - [packer-provisioner-deno](https://github.com/dontlaugh/packer-provisioner-deno) - A Packer plugin that makes it easy to build virtual machine images with Deno scripts.
 - [pika deno plugin](https://github.com/pikapkg/builders/tree/master/packages/plugin-build-deno/)
