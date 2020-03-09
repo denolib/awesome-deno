@@ -82,6 +82,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [expect](https://github.com/allain/expect) - Helpers for writing jest like expect tests in deno.
 - [flags](https://github.com/denoland/deno_std/tree/master/flags) - Command line arguments parser for Deno based on minimist.
 - [gardens](https://github.com/partheseas/gardens) - A useful logging utility for JavaScript everywhere.
+- [gentleRpc](https://github.com/timonson/gentleRpc) - A JSON-RPC 2.0 TypeScript library for deno and the browser.
 - [http](https://github.com/denoland/deno_std/tree/master/http) - HTTP module including a file server.
 - [http-libs](https://github.com/denoserverless/http-libs) - HTTP modules and typings.
 - [jwt](https://github.com/denoserverless/jwt) - Port of auth0/jsonwebtoken.
