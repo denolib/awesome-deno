@@ -102,6 +102,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [textproto](https://github.com/denoland/deno_std/tree/master/textproto)
 - [type-fest](https://github.com/denoserverless/type-fest) - A collection of essential TypeScript types (port of sindresorhus/type-fest).
 - [watch](https://github.com/jinjor/deno-watch) - A file watcher.
+- [webview](https://github.com/eliassjogreen/deno_webview) - Deno bindings for webview, a tiny library for creating web-based desktop GUIs
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
 
 # Tools
