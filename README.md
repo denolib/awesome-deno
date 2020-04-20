@@ -79,6 +79,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
 - [djwt](https://github.com/timonson/djwt) - Make JSON Web Tokens (JWT) on deno based on JWT and JWS specifications.
 - [dso](https://github.com/manyuanrong/dso) - A simple ORM library based on mysql.
+- [evt](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
 - [expect](https://github.com/allain/expect) - Helpers for writing jest like expect tests in deno.
 - [flags](https://github.com/denoland/deno_std/tree/master/flags) - Command line arguments parser for Deno based on minimist.
 - [gardens](https://github.com/partheseas/gardens) - A useful logging utility for JavaScript everywhere.
