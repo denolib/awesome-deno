@@ -110,6 +110,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 
 - [clone](https://github.com/ekaragodin/clone) - a simple utility for the convenient clone.
 - [denoget](https://github.com/syumai/denoget) - denoget installs executable deno script.
+- [denoify](https://github.com/garronej/denoify) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [denoinit](https://github.com/syumai/deno-libs/tree/master/denoinit) - denoinit generates useful files for deno project.
 - [denomander](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
 - [denon](https://github.com/eliassjogreen/denon) - Like Nodemon, but for Deno
