@@ -79,6 +79,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
 - [djwt](https://github.com/timonson/djwt) - Make JSON Web Tokens (JWT) on deno based on JWT and JWS specifications.
 - [dso](https://github.com/manyuanrong/dso) - A simple ORM library based on mysql.
+- [evt](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
 - [expect](https://github.com/allain/expect) - Helpers for writing jest like expect tests in deno.
 - [flags](https://github.com/denoland/deno_std/tree/master/flags) - Command line arguments parser for Deno based on minimist.
 - [gardens](https://github.com/partheseas/gardens) - A useful logging utility for JavaScript everywhere.
@@ -109,6 +110,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 
 - [clone](https://github.com/ekaragodin/clone) - a simple utility for the convenient clone.
 - [denoget](https://github.com/syumai/denoget) - denoget installs executable deno script.
+- [denoify](https://github.com/garronej/denoify) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [denoinit](https://github.com/syumai/deno-libs/tree/master/denoinit) - denoinit generates useful files for deno project.
 - [denomander](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
 - [denon](https://github.com/eliassjogreen/denon) - Like Nodemon, but for Deno
