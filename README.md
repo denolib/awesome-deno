@@ -58,6 +58,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - deno-dotenv
     - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) - Dotenv handling for deno.
     - [cardosomarcos/deno-dotenv](https://github.com/cardosomarcos/deno-dotenv) - Loads environment variables from .env for deno projects.
+- [deno-express](https://github.com/NMathar/deno-express) - Node Express ported to Deno.
 - [deno-fnparse](https://github.com/hashrock/deno-fnparse) - An extremely simple parser combinator for JavaScript.
 - [deno-globrex](https://github.com/hayd/deno-globrex) - Port of globrex to deno, glob to regular expression.
 - [deno-mysql](https://github.com/manyuanrong/deno_mysql) - MySQL database driver.
