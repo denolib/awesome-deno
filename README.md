@@ -122,7 +122,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - hayd's [deno-docker](https://github.com/hayd/deno-docker) Several docker images.
 - [deno-vscode](https://github.com/ameerthehacker/deno-vscode) - Leverage the typedef and intellisense built into vscode using this extension
 - [deno_ls_plugin](https://www.npmjs.com/package/deno_ls_plugin) - a TypeScript plugin which will allow TypeScript outside of Deno to resolve modules in a similar way to the way they are resolved inside of Deno.
-- [deno_init](https://github.com/zhmushan/deno_init) - Quickly initialize a Deno project.
+- [dev_server](https://github.com/zhmushan/dev_server) - Let TypeScript files be used directly in the script tag.
 - [dpm](https://github.com/BoltDoggy/deno#dpm) - Deno Package Manager, install global command for deno. like denoget.
 - dvm
     - [justjavac/dvm](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active deno versions.
