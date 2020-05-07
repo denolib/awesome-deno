@@ -135,6 +135,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [vscode-deno](https://github.com/justjavac/vscode-deno) - VS Code extension that provides Deno support using the typescript-deno-plugin.
 - [packer-provisioner-deno](https://github.com/dontlaugh/packer-provisioner-deno) - A Packer plugin that makes it easy to build virtual machine images with Deno scripts.
 - [pika deno plugin](https://github.com/pikapkg/builders/tree/master/packages/plugin-build-deno/)
+- [oh-my-zsh-deno](https://github.com/denodev/oh-my-zsh-deno) - The oh-my-zsh-deno plugin provides completion as well as adding many useful aliases.
 
 # Articles
 
