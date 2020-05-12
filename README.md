@@ -205,3 +205,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 
 - [Telegram channel](https://t.me/denoland_ru)
 - [Telegram chat](https://t.me/denoland)
+
+## Indonesian
+
+- [Berkenalan dengan Deno](https://medium.com/@redhajuanda/berkenalan-dengan-dengan-deno-c48cdf3aa31e)
