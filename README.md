@@ -190,6 +190,10 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 
 - [Deno intro in Hebrew (slides in English)](https://www.youtube.com/watch?v=9tJ_LkI6_qw)
 
+## Indonesian
+
+- [Berkenalan dengan Deno](https://medium.com/@redhajuanda/berkenalan-dengan-dengan-deno-c48cdf3aa31e)
+
 ## Japanese
 
 - [Node.js における設計ミス By Ryan Dahl](https://yosuke-furukawa.hatenablog.com/entry/2018/06/07/080335)
@@ -205,7 +209,3 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 
 - [Telegram channel](https://t.me/denoland_ru)
 - [Telegram chat](https://t.me/denoland)
-
-## Indonesian
-
-- [Berkenalan dengan Deno](https://medium.com/@redhajuanda/berkenalan-dengan-dengan-deno-c48cdf3aa31e)
