@@ -210,3 +210,6 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 
 - [Telegram channel](https://t.me/denoland_ru)
 - [Telegram chat](https://t.me/denoland)
+
+## Spanish
+- [Hola Deno! . 🦕](https://medium.com/javascript-espa%C3%B1ol/hola-deno-f31f9f6f2c84)
