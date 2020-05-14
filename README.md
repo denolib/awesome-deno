@@ -21,6 +21,7 @@
   - [Japanese](#japanese)
   - [Korean](#korean)
   - [Russian](#russian)
+  - [Spanish](#spanish)
 
 ## Docs
 
@@ -60,14 +61,14 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [deno-deamon](https://github.com/manyuanrong/deno-deamon) - Make the Deno program run in the background.
 - deno-dotenv
   - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) - Dotenv handling for deno.
-  - [cardosomarcos/deno-dotenv](https://github.com/cardosomarcos/deno-dotenv) - Loads environment variables from .env for deno projects.
+  - [cardosomarcos/deno-dotenv](https://github.com/cardosomarcos/deno-dotenv) - Loads environment variables from .env for Deno projects.
 - [deno-express](https://github.com/NMathar/deno-express) - Node Express ported to Deno.
 - [deno-fnparse](https://github.com/hashrock/deno-fnparse) - An extremely simple parser combinator for JavaScript.
 - [deno-globrex](https://github.com/hayd/deno-globrex) - Port of globrex to deno, glob to regular expression.
 - [deno-mysql](https://github.com/manyuanrong/deno_mysql) - MySQL database driver.
 - [deno_mongo](https://github.com/manyuanrong/deno_mongo) - MongoDB database driver.
 - [deno-opn](https://github.com/hashrock/deno-opn) - Opens stuff like websites, files, executables. Cross-platform.
-- [deno-plugin-prepare](https://github.com/manyuanrong/deno-plugin-prepare) - A library for managing deno native plugin dependencies.
+- [deno-plugin-prepare](https://github.com/manyuanrong/deno-plugin-prepare) - A library for managing Deno native plugin dependencies.
 - [deno-pretty-assert](https://github.com/bokuweb/deno-pretty-assert) - A colorful assertEqual for deno.
 - [deno-prettystring](https://github.com/OnikurYH/deno-prettystring) - Format, trim and remove extra white spaces between characters from string.
 - [deno_random_interval](https://github.com/zekth/deno_random_interval) - Helper to generate random interval.
@@ -82,13 +83,13 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [deno-xml-parser](https://github.com/nekobato/deno-xml-parser) - Deno XML parser ported from segmentio/xml-parser.
 - [denotrain](https://github.com/Caesar2011/denotrain) - All-in-One web framework like express or fastify for Node.js with middleware support.
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
-- [djwt](https://github.com/timonson/djwt) - Make JSON Web Tokens (JWT) on deno based on JWT and JWS specifications.
+- [djwt](https://github.com/timonson/djwt) - Make JSON Web Tokens (JWT) on Deno based on JWT and JWS specifications.
 - [dso](https://github.com/manyuanrong/dso) - A simple ORM library based on mysql.
 - [evt](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
 - [expect](https://github.com/allain/expect) - Helpers for writing jest like expect tests in deno.
 - [flags](https://github.com/denoland/deno_std/tree/master/flags) - Command line arguments parser for Deno based on minimist.
 - [gardens](https://github.com/partheseas/gardens) - A useful logging utility for JavaScript everywhere.
-- [gentleRpc](https://github.com/timonson/gentleRpc) - A JSON-RPC 2.0 TypeScript library for deno and the browser.
+- [gentleRpc](https://github.com/timonson/gentleRpc) - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
 - [http](https://github.com/denoland/deno_std/tree/master/http) - HTTP module including a file server.
 - [http-libs](https://github.com/denoserverless/http-libs) - HTTP modules and typings.
 - [jwt](https://github.com/denoserverless/jwt) - Port of auth0/jsonwebtoken.
@@ -101,7 +102,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [path](https://github.com/denoland/deno_std/tree/master/fs/path) - Deno Path Manipulation Libraries.
 - [pogo](https://github.com/sholladay/pogo) - Server framework for Deno.
 - [postgres](https://github.com/buildondata/deno-postgres) - Driver for PostgreSQL database.
-- [qs](https://github.com/denolib/qs) - A querystring parser with nesting support.
+- [qs](https://github.com/denolib/qs) - A query string parser with nesting support.
 - [sax-ts](https://github.com/Maxim-Mazurok/sax-ts) - SAX-style XML parser ported from [sax-js](https://github.com/isaacs/sax-js).
 - [servest](https://github.com/keroxp/servest) - A progressive HTTP server/router.
 - [sql-builder](https://github.com/manyuanrong/sql-builder) - An sql query builder.
@@ -115,9 +116,9 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 ## Tools
 
 - [clone](https://github.com/ekaragodin/clone) - A simple utility for the convenient clone.
-- [denoget](https://github.com/syumai/denoget) - Denoget installs executable deno script.
+- [denoget](https://github.com/syumai/denoget) - Denoget installs executable Deno script.
 - [denoify](https://github.com/garronej/denoify) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.
-- [denoinit](https://github.com/syumai/deno-libs/tree/master/denoinit) - Denoinit generates useful files for deno project.
+- [denoinit](https://github.com/syumai/deno-libs/tree/master/denoinit) - Denoinit generates useful files for Deno project.
 - [denomander](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
 - [denon](https://github.com/eliassjogreen/denon) - Like Nodemon, but for Deno.
 - [denopkg](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
@@ -130,16 +131,16 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [dev_server](https://github.com/zhmushan/dev_server) - Let TypeScript files be used directly in the script tag.
 - [dpm](https://github.com/BoltDoggy/deno#dpm) - Deno Package Manager, install global command for deno. like denoget.
 - dvm
-  - [justjavac/dvm](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active deno versions.
+  - [justjavac/dvm](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
   - [axetroy/dvm](https://github.com/axetroy/dvm) - Version manger for Deno without runtime dependencies.
 - [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
 - [nessie](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
 - [task-runner](https://github.com/jinjor/deno-task-runner) - Write tasks just like npm scripts.
 - [typescript-deno-plugin](https://github.com/justjavac/typescript-deno-plugin) - Deno language service plugin, providing intellisense in TypeScript files within editors.
-- [udd](https://github.com/hayd/deno-udd) - Update deno dependencies: updates import statements to their latest published version.
+- [udd](https://github.com/hayd/deno-udd) - Update Deno dependencies: updates import statements to their latest published version.
 - [vscode-deno](https://github.com/justjavac/vscode-deno) - VS Code extension that provides Deno support using the typescript-deno-plugin.
 - [packer-provisioner-deno](https://github.com/dontlaugh/packer-provisioner-deno) - A Packer plugin that makes it easy to build virtual machine images with Deno scripts.
-- [pika deno plugin](https://github.com/pikapkg/builders/tree/master/packages/plugin-build-deno/)
+- [pika Deno plugin](https://github.com/pikapkg/builders/tree/master/packages/plugin-build-deno/)
 
 ## Articles
 
@@ -213,5 +214,5 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [Telegram channel](https://t.me/denoland_ru)
 - [Telegram chat](https://t.me/denoland)
 
-## Spanish
+### Spanish
 - [Hola Deno! . 🦕](https://medium.com/javascript-espa%C3%B1ol/hola-deno-f31f9f6f2c84)
