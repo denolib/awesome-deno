@@ -154,6 +154,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [Write a small API using Deno](https://dev.to/kryz/write-a-small-api-using-deno-1cl0)
 - [Deno on AWS Lambda with Architect or SAM](https://blog.begin.com/deno-runtime-support-for-architect-805fcbaa82c3)
 - [Deno on Cloud Run](https://medium.com/google-cloud/deno-on-cloud-run-89ae64d1664d)
+- [Learn Deno: Chat app](https://aralroca.com/blog/learn-deno-chat-app)
 
 ## Presentations
 
