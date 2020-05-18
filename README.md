@@ -198,6 +198,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [Node之父ry：Node中的设计错误](https://mp.weixin.qq.com/s/7XAiYw18c8YZc-fXk0-wrw)
 - [《Deno进阶开发笔记》](https://github.com/chenshenhai/deno_note/)
 - [Deno中文社区](https://denocn.org)
+- [Deno 手册](https://github.com/Nugine/deno-manual-cn/)
 
 ### Hebrew
 
