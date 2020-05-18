@@ -147,6 +147,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [vscode-deno](https://github.com/justjavac/vscode-deno) - VS Code extension that provides Deno support using the typescript-deno-plugin.
 - [packer-provisioner-deno](https://github.com/dontlaugh/packer-provisioner-deno) - A Packer plugin that makes it easy to build virtual machine images with Deno scripts.
 - [pika Deno plugin](https://github.com/pikapkg/builders/tree/master/packages/plugin-build-deno/)
+- [dedep](https://github.com/egoist/dedep) - Manage dependency versions.
 
 ## Articles
 
