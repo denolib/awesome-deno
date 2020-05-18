@@ -125,6 +125,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 ## Tools
 
 - [clone](https://github.com/ekaragodin/clone) - A simple utility for the convenient clone.
+- [dedep](https://github.com/egoist/dedep) - Manage dependency versions.
 - [denoget](https://github.com/syumai/denoget) - Denoget installs executable Deno script.
 - [denoify](https://github.com/garronej/denoify) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [denoinit](https://github.com/syumai/deno-libs/tree/master/denoinit) - Denoinit generates useful files for Deno project.
@@ -145,15 +146,14 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
   - [axetroy/dvm](https://github.com/axetroy/dvm) - Version manger for Deno without runtime dependencies.
 - [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
 - [nessie](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
+- [packer-provisioner-deno](https://github.com/dontlaugh/packer-provisioner-deno) - A Packer plugin that makes it easy to build virtual machine images with Deno scripts.
+- [pika Deno plugin](https://github.com/pikapkg/builders/tree/master/packages/plugin-build-deno/)
+- [starter](https://github.com/denorg/starter) - Deno module starter template with GitHub Actions CI
 - [task-runner](https://github.com/jinjor/deno-task-runner) - Write tasks just like npm scripts.
 - [typescript-deno-plugin](https://github.com/justjavac/typescript-deno-plugin) - Deno language service plugin, providing intellisense in TypeScript files within editors.
 - [udd](https://github.com/hayd/deno-udd) - Update Deno dependencies: updates import statements to their latest published version.
 - [velociraptor](https://github.com/umbopepato/velociraptor) - An npm-style script runner for Deno.
 - [vscode-deno](https://github.com/justjavac/vscode-deno) - VS Code extension that provides Deno support using the typescript-deno-plugin.
-- [packer-provisioner-deno](https://github.com/dontlaugh/packer-provisioner-deno) - A Packer plugin that makes it easy to build virtual machine images with Deno scripts.
-- [pika Deno plugin](https://github.com/pikapkg/builders/tree/master/packages/plugin-build-deno/)
-- [starter](https://github.com/denorg/starter) - Deno module starter template with GitHub Actions CI
-- [dedep](https://github.com/egoist/dedep) - Manage dependency versions.
 
 ## Articles
 
