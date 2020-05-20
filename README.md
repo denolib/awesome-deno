@@ -237,3 +237,8 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 
 ### Spanish
 - [Hola Deno! . 🦕](https://medium.com/javascript-espa%C3%B1ol/hola-deno-f31f9f6f2c84)
+
+### Uzbek
+
+- [Telegram Channel](https://t.me/denoland_uz)
+- [Telegram Group](https://t.me/chisel_deno)
