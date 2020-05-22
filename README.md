@@ -109,6 +109,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [normalize_diacritics](https://github.com/motss/deno_mod/tree/master/normalize_diacritics) - Remove accents/diacritics in string.
 - [oak](https://github.com/oakserver/oak) - A middleware framework for Deno's net server.
 - [online](https://github.com/denorg/online) - Check if you're currently online in Deno.
+- [opine](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework ported from ExpressJS.
 - [path](https://github.com/denoland/deno_std/tree/master/fs/path) - Deno Path Manipulation Libraries.
 - [pogo](https://github.com/sholladay/pogo) - Server framework for Deno.
 - [postgres](https://github.com/buildondata/deno-postgres) - Driver for PostgreSQL database.
