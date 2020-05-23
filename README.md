@@ -60,7 +60,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [csv](https://github.com/hashrock/deno-fnparse/blob/master/parsers/csv.ts) - A simple CSV parser.
 - [dcc](https://github.com/BoltDoggy/deno#dcc) - Deno Cache Clean, reloading deps when next running.
 - [dejs](https://github.com/syumai/dejs) - Ejs template engine for deno.
-- [denon](https://github.com/eliassjogreen/denon/blob/master/watcher.ts) - A file watcher with an for-await generator.
+- [denon](https://github.com/denosaurs/denon/blob/master/mod.ts) - A file watcher with a for-await generator.
 - [deno_case_style](https://github.com/zekth/deno_case_style) - String validator and formater for different case style. eg: camelCase etc.
 - [deno-checksum](https://github.com/manyuanrong/deno-checksum) - SHA1/MD5 algorithms.
 - [deno-context](https://github.com/code-hex/deno-context) - Propagate deadlines, a cancellation and other request-scoped values to multiple promise. The behaviour is like Go's context.
@@ -138,7 +138,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [denoinit](https://github.com/syumai/deno-libs/tree/master/denoinit) - Denoinit generates useful files for Deno project.
 - [denoliver](https://github.com/joakimunge/denoliver) - A simple, dependency free file server with live reload.
 - [denomander](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
-- [denon](https://github.com/eliassjogreen/denon) - Like Nodemon, but for Deno.
+- [denon](https://github.com/denosaurs/denon) - A daemon script runner, like nodemon. Built in and for Deno.
 - [denopkg](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
 - [denoversion](https://github.com/lucascaro/denoversion) - SemVer and git version management for Deno.
 - [denox](https://github.com/BentoumiTech/denox) - Like packages.json scripts, but for Deno with permissions support.
@@ -214,6 +214,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [《Deno进阶开发笔记》](https://github.com/chenshenhai/deno_note/)
 - [Deno中文社区](https://denocn.org)
 - [Deno 手册](https://github.com/Nugine/deno-manual-cn/)
+- [Deno 中文开发者社区](https://deno.js.cn)
 
 ### Hebrew
 
