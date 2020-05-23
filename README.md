@@ -214,6 +214,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [《Deno进阶开发笔记》](https://github.com/chenshenhai/deno_note/)
 - [Deno中文社区](https://denocn.org)
 - [Deno 手册](https://github.com/Nugine/deno-manual-cn/)
+- [Deno 中文开发者社区](https://deno.js.cn)
 
 ### Hebrew
 
