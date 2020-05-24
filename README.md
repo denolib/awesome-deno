@@ -250,3 +250,4 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 
 - [Telegram Channel](https://t.me/denoland_uz)
 - [Telegram Group](https://t.me/chisel_deno)
+- [Deno Translated Website](https://deno.uz)
