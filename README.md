@@ -116,6 +116,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [qrcode](https://github.com/denorg/qrcode) - QR code image generator for Deno.
 - [qs](https://github.com/denolib/qs) - A query string parser with nesting support.
 - [recursive-readdir](https://github.com/denorg/recursive-readdir) - Recursively read directories in Deno.
+- [router](https://github.com/zhmushan/router) - A high-performance basic router works anywhere.
 - [sax-ts](https://github.com/Maxim-Mazurok/sax-ts) - SAX-style XML parser ported from [sax-js](https://github.com/isaacs/sax-js).
 - [servest](https://github.com/keroxp/servest) - A progressive HTTP server/router.
 - [sql-builder](https://github.com/manyuanrong/sql-builder) - An sql query builder.
