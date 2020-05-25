@@ -64,6 +64,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [deno_case_style](https://github.com/zekth/deno_case_style) - String validator and formater for different case style. eg: camelCase etc.
 - [deno-checksum](https://github.com/manyuanrong/deno-checksum) - SHA1/MD5 algorithms.
 - [deno-context](https://github.com/code-hex/deno-context) - Propagate deadlines, a cancellation and other request-scoped values to multiple promise. The behaviour is like Go's context.
+- [deno_cron](https://github.com/rbrahul/deno_cron) - A cron Job scheduler that allows you to write human readable cron syntax with tons of flexibility
 - [deno-deamon](https://github.com/manyuanrong/deno-deamon) - Make the Deno program run in the background.
 - deno-dotenv
   - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) - Dotenv handling for deno.
