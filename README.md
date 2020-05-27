@@ -15,7 +15,6 @@ This list is a collection of the best Deno modules and resources.
 - [Tools](#tools)
 - [Articles](#articles)
 - [Presentations](#presentations)
-- [Newsletters](#newsletters)
 - [Resources in Other Languages](#resources-in-other-languages)
   - [Chinese](#chinese)
   - [Hebrew](#hebrew)
@@ -202,10 +201,6 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [Bartek Iwańczuk - Deno internals, how modern runtime is built - Deno Warsaw](https://www.youtube.com/watch?v=qt7fbmypAFk)
   - [Slides](https://docs.google.com/presentation/d/1LYNGpyjx9PemL-P__7hVC8mSqkX-jL8VQLMhCRehy00/edit?usp=sharing)
 - [Ryan Dahl & Kitson Kelly: Deno is a New Way to JavaScript - TSConf 2019](https://www.youtube.com/watch?v=1gIiZfSbEAE)
-
-## Newsletters
-
-- [Deno Newsletter](https://deno.news)
 
 ## Resources in Other Languages
 
