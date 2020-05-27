@@ -44,6 +44,11 @@ This list is a collection of the best Deno modules and resources.
 - [Deno Playground](https://deno-playground.now.sh)
   - [maman/deno-playground](https://github.com/maman/deno-playground)
 
+### Assistants
+
+- [Telegram Bot Assistant](https://t.me/denoland_bot)
+- [Source code of the bot](https://github.com/genemators/lander.js)
+
 ## Modules
 
 __NOTICE__: Deno has a few official modules that could be found at [deno_std](https://deno.land/std/).
