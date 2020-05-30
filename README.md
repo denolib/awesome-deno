@@ -51,6 +51,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [abc](https://github.com/zhmushan/abc) - A better Deno framework to create web application.
 - [alosaur](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many decorators.
 - [aqua](https://github.com/l2ig/aqua) - A minimal and fast web framework for Deno.
+- [autopilot](https://github.com/divy-work/autopilot-deno) - Autopilot - Cross-platform web automation with Deno.
 - [bytes_formater](https://github.com/manyuanrong/bytes_formater) - Format bytes (Uint8Array, ArrayBufferView, etc) output, useful when debugging IO functions.
 - [cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 - [camelcase](https://github.com/denolib/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
