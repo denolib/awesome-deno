@@ -7,6 +7,7 @@ Deno is a simple, modern and secure runtime for JavaScript and TypeScript that u
 This list is a collection of the best Deno modules and resources.
 
 ## Contents
+
 - [Docs](#docs)
   - [Official Docs](#official-docs)
   - [External Docs](#external-docs)
@@ -166,7 +167,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [typescript-deno-plugin](https://github.com/justjavac/typescript-deno-plugin) - Deno language service plugin, providing intellisense in TypeScript files within editors.
 - [udd](https://github.com/hayd/deno-udd) - Update Deno dependencies: updates import statements to their latest published version.
 - [velociraptor](https://github.com/umbopepato/velociraptor) - An npm-style script runner for Deno.
-- [vscode-deno](https://github.com/justjavac/vscode-deno) - VS Code extension that provides Deno support using the typescript-deno-plugin.
+- [vscode-deno](https://github.com/denoland/vscode_deno) - VS Code extension that provides Deno support using the `TypeScript Deno language service plugin`.
 
 ## Articles
 
@@ -244,6 +245,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [Telegram chat](https://t.me/denoland)
 
 ### Spanish
+
 - [Hola Deno! . 🦕](https://medium.com/javascript-espa%C3%B1ol/hola-deno-f31f9f6f2c84)
 - [Así puedes crear tu primera API REST con Deno](https://medium.com/@mpampols/as%C3%AD-puedes-crear-tu-primera-api-rest-con-deno-a9094ee5c0b2)
 - [Primeros pasos con Deno 🦕 El sucesor de NodeJS desarrollado con Rust y TypeScript](https://medium.com/@manurua/primeros-pasos-con-deno-el-nuevo-nodejs-desarrollado-con-rust-y-typescript-b9ac14f7d0c7)
