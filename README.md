@@ -227,6 +227,8 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 
 - [Berkenalan dengan Deno](https://medium.com/@redhajuanda/berkenalan-dengan-dengan-deno-c48cdf3aa31e)
 - [Perkenalan Deno dan Instalasi](https://youtu.be/V_kpUTJSd9c)
+- [Deno Land Indonesia website](https://denoland.id/)
+- [Deno Land Indonesia Telegram group](https://t.me/deno_id)
 
 ### Japanese
 
