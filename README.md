@@ -58,6 +58,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 - [camelcase](https://github.com/denolib/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
 - [colors](https://deno.land/std/fmt/colors.ts) - A basic console color library intended for Deno.
+- [computed_types](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
 - [cli-spinner](https://github.com/ameerthehacker/cli-spinners) - Show spinners in the terminal while running long tasks.
 - [csv](https://github.com/hashrock/deno-fnparse/blob/master/parsers/csv.ts) - A simple CSV parser.
 - [dcc](https://github.com/BoltDoggy/deno#dcc) - Deno Cache Clean, reloading deps when next running.
