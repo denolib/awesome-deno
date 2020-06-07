@@ -51,6 +51,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 
 - [abc](https://github.com/zhmushan/abc) - A better Deno framework to create web application.
 - [alosaur](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many decorators.
+- [attain](https://github.com/aaronwlee/Attain) - A middleware web framework for Deno which is using http standard library inspired by express and Oak. Fast and stable with proper memory usage.
 - [aqua](https://github.com/l2ig/aqua) - A minimal and fast web framework for Deno.
 - [autopilot](https://github.com/divy-work/autopilot-deno) - Autopilot - Cross-platform web automation with Deno.
 - [bytes_formater](https://github.com/manyuanrong/bytes_formater) - Format bytes (Uint8Array, ArrayBufferView, etc) output, useful when debugging IO functions.
@@ -125,6 +126,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [sql-builder](https://github.com/manyuanrong/sql-builder) - An sql query builder.
 - [status](https://github.com/denosaurs/status) - HTTP codes and status utility for Deno.
 - [textproto](https://github.com/denoland/deno_std/tree/master/textproto)
+- [time.ts](https://github.com/burhanahmeed/time.ts) - Time.ts - A straightforward Deno timezone manipulation
 - [type-fest](https://github.com/denoserverless/type-fest) - A collection of essential TypeScript types (port of sindresorhus/type-fest).
 - [unexpected](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit.
 - [up](https://github.com/denorg/up) - Check if a website is up in Deno.
