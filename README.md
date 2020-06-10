@@ -7,6 +7,7 @@ Deno is a simple, modern and secure runtime for JavaScript and TypeScript that u
 This list is a collection of the best Deno modules and resources.
 
 ## Contents
+
 - [Docs](#docs)
   - [Official Docs](#official-docs)
   - [External Docs](#external-docs)
@@ -15,7 +16,6 @@ This list is a collection of the best Deno modules and resources.
 - [Tools](#tools)
 - [Articles](#articles)
 - [Presentations](#presentations)
-- [Newsletters](#newsletters)
 - [Resources in Other Languages](#resources-in-other-languages)
   - [Chinese](#chinese)
   - [Hebrew](#hebrew)
@@ -43,6 +43,7 @@ This list is a collection of the best Deno modules and resources.
 - [deno.town](https://deno.town)
 - [Deno Playground](https://deno-playground.now.sh)
   - [maman/deno-playground](https://github.com/maman/deno-playground)
+- [DenoBR Playground](https://playground.denobr.com/)
 
 ## Modules
 
@@ -51,18 +52,20 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 
 - [abc](https://github.com/zhmushan/abc) - A better Deno framework to create web application.
 - [alosaur](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many decorators.
+- [attain](https://github.com/aaronwlee/Attain) - A middleware web framework for Deno which is using http standard library inspired by express and Oak. Fast and stable with proper memory usage.
 - [aqua](https://github.com/l2ig/aqua) - A minimal and fast web framework for Deno.
+- [autopilot](https://github.com/divy-work/autopilot-deno) - Autopilot - Cross-platform web automation with Deno.
 - [bytes_formater](https://github.com/manyuanrong/bytes_formater) - Format bytes (Uint8Array, ArrayBufferView, etc) output, useful when debugging IO functions.
 - [cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 - [camelcase](https://github.com/denolib/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
 - [colors](https://deno.land/std/fmt/colors.ts) - A basic console color library intended for Deno.
+- [computed_types](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
 - [cli-spinner](https://github.com/ameerthehacker/cli-spinners) - Show spinners in the terminal while running long tasks.
 - [csv](https://github.com/hashrock/deno-fnparse/blob/master/parsers/csv.ts) - A simple CSV parser.
 - [dcc](https://github.com/BoltDoggy/deno#dcc) - Deno Cache Clean, reloading deps when next running.
 - [dejs](https://github.com/syumai/dejs) - Ejs template engine for deno.
 - [denon](https://github.com/denosaurs/denon/blob/master/mod.ts) - A file watcher with a for-await generator.
 - [deno_case_style](https://github.com/zekth/deno_case_style) - String validator and formater for different case style. eg: camelCase etc.
-- [deno-checksum](https://github.com/manyuanrong/deno-checksum) - SHA1/MD5 algorithms.
 - [deno-context](https://github.com/code-hex/deno-context) - Propagate deadlines, a cancellation and other request-scoped values to multiple promise. The behaviour is like Go's context.
 - [deno_cron](https://github.com/rbrahul/deno_cron) - A cron Job scheduler that allows you to write human readable cron syntax with tons of flexibility
 - [deno-deamon](https://github.com/manyuanrong/deno-deamon) - Make the Deno program run in the background.
@@ -74,6 +77,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [deno-globrex](https://github.com/hayd/deno-globrex) - Port of globrex to deno, glob to regular expression.
 - [deno-mysql](https://github.com/manyuanrong/deno_mysql) - MySQL database driver.
 - [deno_mongo](https://github.com/manyuanrong/deno_mongo) - MongoDB database driver.
+- [deno_notify](https://github.com/PandawanFr/deno_notify) - Send desktop notifications on all platforms.
 - [deno-opn](https://github.com/hashrock/deno-opn) - Opens stuff like websites, files, executables. Cross-platform.
 - [deno-plugin-prepare](https://github.com/manyuanrong/deno-plugin-prepare) - A library for managing Deno native plugin dependencies.
 - [deno-pretty-assert](https://github.com/bokuweb/deno-pretty-assert) - A colorful assertEqual for deno.
@@ -124,10 +128,13 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [sql-builder](https://github.com/manyuanrong/sql-builder) - An sql query builder.
 - [status](https://github.com/denosaurs/status) - HTTP codes and status utility for Deno.
 - [textproto](https://github.com/denoland/deno_std/tree/master/textproto)
+- [time.ts](https://github.com/burhanahmeed/time.ts) - Time.ts - A straightforward Deno timezone manipulation
 - [type-fest](https://github.com/denoserverless/type-fest) - A collection of essential TypeScript types (port of sindresorhus/type-fest).
 - [unexpected](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit.
 - [up](https://github.com/denorg/up) - Check if a website is up in Deno.
+- [wasm-gzip](https://github.com/manyuanrong/wasm_gzip) - Encrypt and decrypt gzip for Deno.
 - [watch](https://github.com/jinjor/deno-watch) - A file watcher.
+- [websocket_server](https://github.com/JohanWinther/websocket_server) - A WebSocket server library. 🔌
 - [webview](https://github.com/eliassjogreen/deno_webview) - Deno bindings for webview, a tiny library for creating web-based desktop GUIs.
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
 - [youtube-deno](https://github.com/akshgpt7/youtube-deno) - A Deno client library for the YouTube Data API for any interaction with YouTube.
@@ -164,7 +171,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [typescript-deno-plugin](https://github.com/justjavac/typescript-deno-plugin) - Deno language service plugin, providing intellisense in TypeScript files within editors.
 - [udd](https://github.com/hayd/deno-udd) - Update Deno dependencies: updates import statements to their latest published version.
 - [velociraptor](https://github.com/umbopepato/velociraptor) - An npm-style script runner for Deno.
-- [vscode-deno](https://github.com/justjavac/vscode-deno) - VS Code extension that provides Deno support using the typescript-deno-plugin.
+- [vscode-deno](https://github.com/denoland/vscode_deno) - VS Code extension that provides Deno support using the `TypeScript Deno language service plugin`.
 
 ## Articles
 
@@ -178,6 +185,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [Learn Deno: Chat app](https://aralroca.com/blog/learn-deno-chat-app)
 - [From Node to Deno](https://dev.to/aralroca/from-node-to-deno-5gpn)
 - [Create a simple Note-taking app with Deno](https://dev.to/jeferson_sb/create-a-simple-note-taking-app-with-deno-3k7g)
+- [Making APIs in Deno](https://medium.com/swlh/making-apis-in-deno-83dedda9dd1f?source=friends_link&sk=396c0dee437989ba3d2c2cc46d7d5933)
 - [Develop and Dockerize a Blogging API With Deno, Oak, and MySQL](https://dev.to/fhsinchy/develop-and-dockerize-a-blogging-api-with-deno-oak-and-mysql-170e)
 
 ## Presentations
@@ -202,10 +210,6 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
   - [Slides](https://docs.google.com/presentation/d/1LYNGpyjx9PemL-P__7hVC8mSqkX-jL8VQLMhCRehy00/edit?usp=sharing)
 - [Ryan Dahl & Kitson Kelly: Deno is a New Way to JavaScript - TSConf 2019](https://www.youtube.com/watch?v=1gIiZfSbEAE)
 
-## Newsletters
-
-- [Deno Newsletter](https://deno.news)
-
 ## Resources in Other Languages
 
 ### Chinese
@@ -228,6 +232,8 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 
 - [Berkenalan dengan Deno](https://medium.com/@redhajuanda/berkenalan-dengan-dengan-deno-c48cdf3aa31e)
 - [Perkenalan Deno dan Instalasi](https://youtu.be/V_kpUTJSd9c)
+- [Deno Land Indonesia website](https://denoland.id/)
+- [Deno Land Indonesia Telegram group](https://t.me/deno_id)
 
 ### Japanese
 
@@ -246,6 +252,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [Telegram chat](https://t.me/denoland)
 
 ### Spanish
+
 - [Hola Deno! . 🦕](https://medium.com/javascript-espa%C3%B1ol/hola-deno-f31f9f6f2c84)
 - [Así puedes crear tu primera API REST con Deno](https://medium.com/@mpampols/as%C3%AD-puedes-crear-tu-primera-api-rest-con-deno-a9094ee5c0b2)
 - [Primeros pasos con Deno 🦕 El sucesor de NodeJS desarrollado con Rust y TypeScript](https://medium.com/@manurua/primeros-pasos-con-deno-el-nuevo-nodejs-desarrollado-con-rust-y-typescript-b9ac14f7d0c7)
