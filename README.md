@@ -20,6 +20,7 @@ This list is a collection of the best Deno modules and resources.
   - [Chinese](#chinese)
   - [Hebrew](#hebrew)
   - [Indonesian](#indonesian)
+  - [Italian](#italian)
   - [Japanese](#japanese)
   - [Korean](#korean)
   - [Russian](#russian)
@@ -234,6 +235,10 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [Perkenalan Deno dan Instalasi](https://youtu.be/V_kpUTJSd9c)
 - [Deno Land Indonesia website](https://denoland.id/)
 - [Deno Land Indonesia Telegram group](https://t.me/deno_id)
+
+### Italian
+
+- [Deno - L'anagramma di Node](https://www.slideshare.net/FrancescoSciuti/deno-lanagramma-di-node)
 
 ### Japanese
 
