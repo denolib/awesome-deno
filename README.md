@@ -191,6 +191,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [Create interactive mail utility CLI Tool using Deno
 ](https://www.soubai.me/posts/create-interactive-mail-utility-cli-with-deno)
 
+
 ## Presentations
 
 - [10 Things I Regret About Node.js - Ryan Dahl - JSConf EU 2018](https://www.youtube.com/watch?v=M3BM9TB-8yA)
@@ -212,6 +213,9 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [Bartek Iwańczuk - Deno internals, how modern runtime is built - Deno Warsaw](https://www.youtube.com/watch?v=qt7fbmypAFk)
   - [Slides](https://docs.google.com/presentation/d/1LYNGpyjx9PemL-P__7hVC8mSqkX-jL8VQLMhCRehy00/edit?usp=sharing)
 - [Ryan Dahl & Kitson Kelly: Deno is a New Way to JavaScript - TSConf 2019](https://www.youtube.com/watch?v=1gIiZfSbEAE)
+
+## Examples 
+- [simple and minimal deno based rest api using oak, typescript] (https://github.com/jay-deshmukh/deno-rest-api)
 
 ## Resources in Other Languages
 
