@@ -186,6 +186,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [From Node to Deno](https://dev.to/aralroca/from-node-to-deno-5gpn)
 - [Create a simple Note-taking app with Deno](https://dev.to/jeferson_sb/create-a-simple-note-taking-app-with-deno-3k7g)
 - [Develop and Dockerize a Blogging API With Deno, Oak, and MySQL](https://dev.to/fhsinchy/develop-and-dockerize-a-blogging-api-with-deno-oak-and-mysql-170e)
+- [Deploy a Deno Application on AWS Using Docker and Travis CI](https://dev.to/fhsinchy/deploy-a-deno-application-on-aws-using-docker-and-travis-ci-4p8o)
 
 ## Presentations
 
