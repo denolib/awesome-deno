@@ -191,6 +191,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [Building API's using Deno, Oak and MYSQL](https://codeforgeek.com/building-api-server-using-deno-and-mysql/)
 - [Create interactive mail utility CLI Tool using Deno
 ](https://www.soubai.me/posts/create-interactive-mail-utility-cli-with-deno)
+- [Create your first News CLI app using Deno](https://medium.com/javascript-in-plain-english/creating-your-first-news-cli-app-using-deno-e1470398c627)
 
 ## Presentations
 
