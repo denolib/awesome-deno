@@ -13,7 +13,7 @@ This list is a collection of the best Deno modules and resources.
   - [External Docs](#external-docs)
   - [Online Playgrounds](#online-playgrounds)
 - [Modules](#modules)
-- [Projects](#projects)
+- [Showcases](#showcases)
 - [Tools](#tools)
 - [Articles](#articles)
 - [Presentations](#presentations)
@@ -142,7 +142,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
 - [youtube-deno](https://github.com/akshgpt7/youtube-deno) - A Deno client library for the YouTube Data API for any interaction with YouTube.
 
-## Projects
+## Showcases
 
 - [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno 🦕.
 
