@@ -148,6 +148,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 
 ## Tools
 
+- [commands](https://github.com/buttercubz/commands) - Create commands shortcuts for node js and deno
 - [clone](https://github.com/ekaragodin/clone) - A simple utility for the convenient clone.
 - [dedep](https://github.com/egoist/dedep) - Manage dependency versions.
 - [denoget](https://github.com/syumai/denoget) - Denoget installs executable Deno script.
@@ -175,6 +176,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [pika Deno plugin](https://github.com/pikapkg/builders/tree/master/packages/plugin-build-deno/)
 - [starter](https://github.com/denorg/starter) - Deno module starter template with GitHub Actions CI
 - [task-runner](https://github.com/jinjor/deno-task-runner) - Write tasks just like npm scripts.
+- [trex](https://github.com/crewdevio/Trex) - Package management like npm for deno.
 - [typescript-deno-plugin](https://github.com/justjavac/typescript-deno-plugin) - Deno language service plugin, providing intellisense in TypeScript files within editors.
 - [udd](https://github.com/hayd/deno-udd) - Update Deno dependencies: updates import statements to their latest published version.
 - [velociraptor](https://github.com/umbopepato/velociraptor) - An npm-style script runner for Deno.
@@ -270,6 +272,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [Hola Deno! . 🦕](https://medium.com/javascript-espa%C3%B1ol/hola-deno-f31f9f6f2c84)
 - [Así puedes crear tu primera API REST con Deno](https://medium.com/@mpampols/as%C3%AD-puedes-crear-tu-primera-api-rest-con-deno-a9094ee5c0b2)
 - [Primeros pasos con Deno 🦕 El sucesor de NodeJS desarrollado con Rust y TypeScript](https://medium.com/@manurua/primeros-pasos-con-deno-el-nuevo-nodejs-desarrollado-con-rust-y-typescript-b9ac14f7d0c7)
+- [Primer vistazo con deno](https://dev.to/buttercubz/first-look-with-deno-spanish-30dh)
 
 ### Uzbek
 
