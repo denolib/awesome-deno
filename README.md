@@ -107,6 +107,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [evt](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
 - [expect](https://github.com/allain/expect) - Helpers for writing jest like expect tests in deno.
 - [flags](https://github.com/denoland/deno_std/tree/master/flags) - Command line arguments parser for Deno based on minimist.
+- [fossil](https://github.com/matteocrippa/fossil) - A value-type validation suite.
 - [gardens](https://github.com/partheseas/gardens) - A useful logging utility for JavaScript everywhere.
 - [gentleRpc](https://github.com/timonson/gentleRpc) - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
 - [http](https://github.com/denoland/deno_std/tree/master/http) - HTTP module including a file server.
