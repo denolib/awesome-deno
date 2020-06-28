@@ -170,7 +170,6 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [denopkg](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
 - [denoversion](https://github.com/lucascaro/denoversion) - SemVer and git version management for Deno.
 - [denox](https://github.com/BentoumiTech/denox) - Like packages.json scripts, but for Deno with permissions support.
-- [dvm](https://github.com/MarkTiedemann/dvm.cmd) - Deno Version Manager for Windows.
 - [deno.mk](https://github.com/MarkTiedemann/deno.mk) - Cross-platform Makefile for installing and running Deno.
 - maxmcd's [deno-docker](https://github.com/maxmcd/deno-docker) A docker image.
 - hayd's [deno-docker](https://github.com/hayd/deno-docker) Several docker images.
@@ -180,6 +179,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - dvm
   - [justjavac/dvm](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
   - [axetroy/dvm](https://github.com/axetroy/dvm) - Version manger for Deno without runtime dependencies.
+  - [dvm.cmd](https://github.com/MarkTiedemann/dvm.cmd) - Deno Version Manager for Windows. Written as a single batch file.
 - [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
 - [nessie](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
 - [packer-provisioner-deno](https://github.com/dontlaugh/packer-provisioner-deno) - A Packer plugin that makes it easy to build virtual machine images with Deno scripts.
