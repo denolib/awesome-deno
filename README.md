@@ -155,6 +155,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 ## Showcases
 
 - [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno 🦕.
+- [denoFn](https://github.com/jeroenptrs/denoFn) - Self hosted FaaS provider, made with Deno.
 
 ## Tools
 
