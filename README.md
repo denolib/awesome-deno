@@ -155,7 +155,6 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 ## Showcases
 
 - [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno 🦕.
-- [denoFn](https://github.com/jeroenptrs/denoFn) - Self hosted FaaS provider, made with Deno.
 
 ## Tools
 
@@ -194,6 +193,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [velociraptor](https://github.com/umbopepato/velociraptor) - An npm-style script runner for Deno.
 - [vscode-deno](https://github.com/denoland/vscode_deno) - VS Code extension that provides Deno support using the `TypeScript Deno language service plugin`.
 - [Update Deno](https://github.com/marketplace/actions/update-deno) - Github Action that puts a file with the latest Deno Version in your repository.
+- [denoFn](https://github.com/jeroenptrs/denoFn) - Self hosted FaaS provider, made with Deno.
 
 ## Articles
 
