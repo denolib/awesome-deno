@@ -250,6 +250,8 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [Deno中文社区](https://denocn.org)
 - [Deno 手册](https://github.com/Nugine/deno-manual-cn/)
 
+<!-- - [Deno 中文开发者社区](https://deno.js.cn) | revisit this after some period of time. See #146 -->
+
 ### Hebrew
 
 - [Deno intro in Hebrew (slides in English)](https://www.youtube.com/watch?v=9tJ_LkI6_qw)
