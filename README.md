@@ -135,6 +135,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [rubico](https://github.com/richytong/rubico) - 🏞 [a]synchronous function composition; it just works.
 - [sax-ts](https://github.com/Maxim-Mazurok/sax-ts) - SAX-style XML parser ported from [sax-js](https://github.com/isaacs/sax-js).
 - [servest](https://github.com/keroxp/servest) - A progressive HTTP server/router.
+- [sockets](https://github.com/drashland/sockets) - A WebSocket library for Deno.
 - [sql-builder](https://github.com/manyuanrong/sql-builder) - An sql query builder.
 - [status](https://github.com/denosaurs/status) - HTTP codes and status utility for Deno.
 - [task-runner-v2](https://github.com/ebebbington/deno-task-runner-v2) - Version 2 of deno-task-runner to fix issues
