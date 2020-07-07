@@ -136,6 +136,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [servest](https://github.com/keroxp/servest) - A progressive HTTP server/router.
 - [sql-builder](https://github.com/manyuanrong/sql-builder) - An sql query builder.
 - [status](https://github.com/denosaurs/status) - HTTP codes and status utility for Deno.
+- [task-runner-v2](https://github.com/ebebbington/deno-task-runner-v2) - Version 2 of deno-task-runner to fix issues
 - [textproto](https://github.com/denoland/deno_std/tree/master/textproto)
 - [time.ts](https://github.com/burhanahmeed/time.ts) - Time.ts - A straightforward Deno timezone manipulation
 - [ts-prometheus](https://github.com/marcopacini/ts-prometheus) - A prometheus client.
