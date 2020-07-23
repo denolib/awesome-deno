@@ -161,6 +161,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 
 ## Showcases
 
+- [Deno Seed](https://github.com/tamasszoke/deno-seed) - Complete boilerplate for development. :seedling:
 - [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno 🦕.
 
 ## Tools
