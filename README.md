@@ -116,9 +116,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [gardens](https://github.com/partheseas/gardens) - A useful logging utility for JavaScript everywhere.
 - [gentleRpc](https://github.com/timonson/gentleRpc) - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
 - [http](https://github.com/denoland/deno_std/tree/master/http) - HTTP module including a file server.
-- [http-libs](https://github.com/denoserverless/http-libs) - HTTP modules and typings.
 - [invert-kv](https://github.com/denorg/invert-kv) - Invert key-value pairs in Deno.
-- [jwt](https://github.com/denoserverless/jwt) - Port of auth0/jsonwebtoken.
 - [lazy](https://github.com/luvies/lazy) - A linq-like lazy-evaluation iteration module.
 - [log](https://github.com/denoland/deno_std/tree/master/log) - Logging module for Deno.
 - [marked](https://github.com/denolib/marked/) - Markdown-to-HTML converter.
@@ -203,7 +201,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [velociraptor](https://github.com/umbopepato/velociraptor) - An npm-style script runner for Deno.
 - [vscode-deno](https://github.com/denoland/vscode_deno) - VS Code extension that provides Deno support using the `TypeScript Deno language service plugin`.
 - [Update Deno](https://github.com/marketplace/actions/update-deno) - Github Action that puts a file with the latest Deno Version in your repository.
-- [denoFn](https://github.com/jeroenptrs/denoFn) - Self hosted FaaS provider, made with Deno.
+- [denofn-selfhosted](https://github.com/denofn/denofn-selfhosted) - Self-hosted Deno functions, made with Deno and Docker.
 
 ## Articles
 
