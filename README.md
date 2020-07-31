@@ -120,6 +120,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [lazy](https://github.com/luvies/lazy) - A linq-like lazy-evaluation iteration module.
 - [log](https://github.com/denoland/deno_std/tree/master/log) - Logging module for Deno.
 - [marked](https://github.com/denolib/marked/) - Markdown-to-HTML converter.
+- [maze_generator](https://github.com/thewizardbear/maze_generator) - Javascript module for generating, solving, analyzing and displaying mazes.
 - [microraptor](https://github.com/matteocrippa/microraptor) - Lightweight framework for easy network routing with validation.
 - [ms](https://github.com/denolib/ms) - Easily convert various time formats to milliseconds.
 - [normalize_diacritics](https://github.com/motss/deno_mod/tree/master/normalize_diacritics) - Remove accents/diacritics in string.
