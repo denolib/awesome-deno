@@ -141,6 +141,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [sax-ts](https://github.com/Maxim-Mazurok/sax-ts) - SAX-style XML parser ported from [sax-js](https://github.com/isaacs/sax-js).
 - [servest](https://github.com/keroxp/servest) - A progressive HTTP server/router.
 - [sockets](https://github.com/drashland/sockets) - A WebSocket library for Deno.
+- [superoak](https://github.com/asos-craigmorten/superoak) - HTTP assertions for Oak made easy via SuperDeno.
 - [superdeno](https://github.com/asos-craigmorten/superdeno) - Super-agent driven library for testing Deno HTTP servers.
 - [sql-builder](https://github.com/manyuanrong/sql-builder) - An sql query builder.
 - [status](https://github.com/denosaurs/status) - HTTP codes and status utility for Deno.
