@@ -127,6 +127,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [ms](https://github.com/denolib/ms) - Easily convert various time formats to milliseconds.
 - [normalize_diacritics](https://github.com/motss/deno_mod/tree/master/normalize_diacritics) - Remove accents/diacritics in string.
 - [oak](https://github.com/oakserver/oak) - A middleware framework for Deno's net server.
+- [oak-http-proxy](https://github.com/asos-craigmorten/oak-http-proxy) - Proxy middleware for Deno Oak HTTP servers.
 - [online](https://github.com/denorg/online) - Check if you're currently online in Deno.
 - [opine](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework ported from ExpressJS.
 - [path](https://github.com/denoland/deno_std/tree/master/fs/path) - Deno Path Manipulation Libraries.
