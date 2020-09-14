@@ -109,6 +109,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [drash](https://github.com/drashland/deno-drash) - A REST microframework for Deno's HTTP server with zero dependencies.
 - [dso](https://github.com/manyuanrong/dso) - A simple ORM library based on mysql.
 - [ensure](https://github.com/eankeen/ensure) - Ensure you are running a minimum version of Deno, Typescript, or V8.
+- [eta](https://github.com/eta-dev/eta) - Fast, lightweight, and configurable embedded template engine.
 - [evt](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
 - [expect](https://github.com/allain/expect) - Helpers for writing jest like expect tests in deno.
 - [flags](https://github.com/denoland/deno_std/tree/master/flags) - Command line arguments parser for Deno based on minimist.
