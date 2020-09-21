@@ -133,6 +133,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [path](https://github.com/denoland/deno_std/tree/master/fs/path) - Deno Path Manipulation Libraries.
 - [pogo](https://github.com/sholladay/pogo) - Server framework for Deno.
 - [postgres](https://github.com/buildondata/deno-postgres) - Driver for PostgreSQL database.
+- [pretty_benching](https://github.com/littletof/prettyBenching) - A small library to make your Deno benchmarking progress and results look pretty.
 - [qrcode](https://github.com/denorg/qrcode) - QR code image generator for Deno.
 - [qs](https://github.com/denolib/qs) - A query string parser with nesting support.
 - [recursive-readdir](https://github.com/denorg/recursive-readdir) - Recursively read directories in Deno.
