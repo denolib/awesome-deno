@@ -66,7 +66,6 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [coffee](https://github.com/irandeno/coffee) - Deno Configuration - a type-safe, easy to use Deno config manager.
 - [colors](https://deno.land/std/fmt/colors.ts) - A basic console color library intended for Deno.
 - [computed_types](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
-- [context-finder](https://github.com/ebebbington/deno-context-finder) - Extract context blocks from a configuration file
 - [cli-spinner](https://github.com/ameerthehacker/cli-spinners) - Show spinners in the terminal while running long tasks.
 - [csv](https://github.com/hashrock/deno-fnparse/blob/master/parsers/csv.ts) - A simple CSV parser.
 - [dcc](https://github.com/BoltDoggy/deno#dcc) - Deno Cache Clean, reloading deps when next running.
@@ -146,7 +145,6 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [superdeno](https://github.com/asos-craigmorten/superdeno) - Super-agent driven library for testing Deno HTTP servers.
 - [sql-builder](https://github.com/manyuanrong/sql-builder) - An sql query builder.
 - [status](https://github.com/denosaurs/status) - HTTP codes and status utility for Deno.
-- [task-runner-v2](https://github.com/ebebbington/deno-task-runner-v2) - Version 2 of deno-task-runner to fix issues
 - [textproto](https://github.com/denoland/deno_std/tree/master/textproto)
 - [time.ts](https://github.com/burhanahmeed/time.ts) - Time.ts - A straightforward Deno timezone manipulation
 - [ts-prometheus](https://github.com/marcopacini/ts-prometheus) - A prometheus client.
