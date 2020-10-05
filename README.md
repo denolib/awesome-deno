@@ -66,7 +66,6 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [coffee](https://github.com/irandeno/coffee) - Deno Configuration - a type-safe, easy to use Deno config manager.
 - [colors](https://deno.land/std/fmt/colors.ts) - A basic console color library intended for Deno.
 - [computed_types](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
-- [context-finder](https://github.com/ebebbington/deno-context-finder) - Extract context blocks from a configuration file
 - [cli-spinner](https://github.com/ameerthehacker/cli-spinners) - Show spinners in the terminal while running long tasks.
 - [csv](https://github.com/hashrock/deno-fnparse/blob/master/parsers/csv.ts) - A simple CSV parser.
 - [dcc](https://github.com/BoltDoggy/deno#dcc) - Deno Cache Clean, reloading deps when next running.
@@ -109,6 +108,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [drash](https://github.com/drashland/deno-drash) - A REST microframework for Deno's HTTP server with zero dependencies.
 - [dso](https://github.com/manyuanrong/dso) - A simple ORM library based on mysql.
 - [ensure](https://github.com/eankeen/ensure) - Ensure you are running a minimum version of Deno, Typescript, or V8.
+- [eta](https://github.com/eta-dev/eta) - Fast, lightweight, and configurable embedded template engine.
 - [evt](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
 - [expect](https://github.com/allain/expect) - Helpers for writing jest like expect tests in deno.
 - [flags](https://github.com/denoland/deno_std/tree/master/flags) - Command line arguments parser for Deno based on minimist.
@@ -132,6 +132,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [path](https://github.com/denoland/deno_std/tree/master/fs/path) - Deno Path Manipulation Libraries.
 - [pogo](https://github.com/sholladay/pogo) - Server framework for Deno.
 - [postgres](https://github.com/buildondata/deno-postgres) - Driver for PostgreSQL database.
+- [pretty_benching](https://github.com/littletof/prettyBenching) - A small library to make your Deno benchmarking progress and results look pretty.
 - [qrcode](https://github.com/denorg/qrcode) - QR code image generator for Deno.
 - [qs](https://github.com/denolib/qs) - A query string parser with nesting support.
 - [recursive-readdir](https://github.com/denorg/recursive-readdir) - Recursively read directories in Deno.
@@ -145,7 +146,6 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [status](https://github.com/denosaurs/status) - HTTP codes and status utility for Deno.
 - [superdeno](https://github.com/asos-craigmorten/superdeno) - Super-agent driven library for testing Deno HTTP servers.
 - [superoak](https://github.com/asos-craigmorten/superoak) - HTTP assertions for Oak made easy via SuperDeno.
-- [task-runner-v2](https://github.com/ebebbington/deno-task-runner-v2) - Version 2 of deno-task-runner to fix issues
 - [textproto](https://github.com/denoland/deno_std/tree/master/textproto)
 - [time.ts](https://github.com/burhanahmeed/time.ts) - Time.ts - A straightforward Deno timezone manipulation
 - [ts-prometheus](https://github.com/marcopacini/ts-prometheus) - A prometheus client.
@@ -167,6 +167,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 
 - [Deno Seed](https://github.com/tamasszoke/deno-seed) - Complete boilerplate for development. :seedling:
 - [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno 🦕.
+- [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
 
 ## Tools
 
@@ -228,6 +229,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [Create your first News CLI app using Deno](https://medium.com/javascript-in-plain-english/creating-your-first-news-cli-app-using-deno-e1470398c627)
 - [Deploy a Deno Application on AWS Using Docker and Travis CI](https://dev.to/fhsinchy/deploy-a-deno-application-on-aws-using-docker-and-travis-ci-4p8o)
 - [Continuous Integration with Deno](https://semaphoreci.com/blog/continuous-integration-with-deno)
+- [How to create and validate JSON Web Tokens in Deno](https://www.loginradius.com/engineering/blog/jwt-authentication-with-deno/)
 
 ## Presentations
 
