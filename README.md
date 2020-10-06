@@ -230,6 +230,8 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [Deploy a Deno Application on AWS Using Docker and Travis CI](https://dev.to/fhsinchy/deploy-a-deno-application-on-aws-using-docker-and-travis-ci-4p8o)
 - [Continuous Integration with Deno](https://semaphoreci.com/blog/continuous-integration-with-deno)
 - [How to create and validate JSON Web Tokens in Deno](https://www.loginradius.com/engineering/blog/jwt-authentication-with-deno/)
+- [Build A Simple Covid19 CLI Tool using Deno](https://www.loginradius.com/engineering/blog/build-a-cli-tool-using-deno/)
+- [Creating a Web Application using Deno](https://www.loginradius.com/engineering/blog/a-webapp-in-deno/)
 
 ## Presentations
 
