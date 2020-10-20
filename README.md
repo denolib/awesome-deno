@@ -56,6 +56,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 
 - [abc](https://github.com/zhmushan/abc) - A better Deno framework to create web application.
+- [aleph.js](https://github.com/postui/aleph.js) - A React framework in Deno, inspired by [Next.js](https://nextjs.org).
 - [alosaur](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many decorators.
 - [attain](https://github.com/aaronwlee/Attain) - A middleware web framework for Deno which is using http standard library inspired by express and Oak. Fast and stable with proper memory usage.
 - [aqua](https://github.com/l2ig/aqua) - A minimal and fast web framework for Deno.
