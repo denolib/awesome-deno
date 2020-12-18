@@ -105,6 +105,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
 - [dinoenv](https://deno.land/x/dinoenv) - tiny library to manage environment variables with deno.
 - [djwt](https://github.com/timonson/djwt) - Make JSON Web Tokens (JWT) on Deno based on JWT and JWS specifications.
+- [dndb](https://github.com/denyncrawford/dndb) - Persistent NoSQL database engine written for Deno 🦕. 
 - [doa](https://github.com/johannlai/doa) - A middleware framework for Deno's http serve🦕. Transplanted from Koa with ❤️
 - [drash](https://github.com/drashland/deno-drash) - A REST microframework for Deno's HTTP server with zero dependencies.
 - [dso](https://github.com/manyuanrong/dso) - A simple ORM library based on mysql.
