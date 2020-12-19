@@ -8,25 +8,28 @@ This list is a collection of the best Deno modules and resources.
 
 ## Contents
 
-- [Docs](#docs)
-  - [Official Docs](#official-docs)
-  - [External Docs](#external-docs)
-  - [Online Playgrounds](#online-playgrounds)
-- [Modules](#modules)
-- [Registries](#registries)
-- [Showcases](#showcases)
-- [Tools](#tools)
-- [Articles](#articles)
-- [Presentations](#presentations)
-- [Resources in Other Languages](#resources-in-other-languages)
-  - [Chinese](#chinese)
-  - [Hebrew](#hebrew)
-  - [Indonesian](#indonesian)
-  - [Italian](#italian)
-  - [Japanese](#japanese)
-  - [Korean](#korean)
-  - [Russian](#russian)
-  - [Spanish](#spanish)
+- [Awesome Deno ![Awesome](https://awesome.re)](#awesome-deno-)
+  - [Contents](#contents)
+  - [Docs](#docs)
+    - [Official Docs](#official-docs)
+    - [External Docs](#external-docs)
+    - [Online Playgrounds](#online-playgrounds)
+  - [Modules](#modules)
+  - [Registries](#registries)
+  - [Showcases](#showcases)
+  - [Tools](#tools)
+  - [Articles](#articles)
+  - [Presentations](#presentations)
+  - [Resources in Other Languages](#resources-in-other-languages)
+    - [Chinese](#chinese)
+    - [Hebrew](#hebrew)
+    - [Indonesian](#indonesian)
+    - [Italian](#italian)
+    - [Japanese](#japanese)
+    - [Korean](#korean)
+    - [Russian](#russian)
+    - [Spanish](#spanish)
+    - [Uzbek](#uzbek)
 
 ## Docs
 
@@ -107,6 +110,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [djwt](https://github.com/timonson/djwt) - Make JSON Web Tokens (JWT) on Deno based on JWT and JWS specifications.
 - [doa](https://github.com/johannlai/doa) - A middleware framework for Deno's http serve🦕. Transplanted from Koa with ❤️
 - [drash](https://github.com/drashland/deno-drash) - A REST microframework for Deno's HTTP server with zero dependencies.
+- [dsddb](https://github.com/MaximilianHeidenreich/DsDDB) - A dead simple persistant key-value database utilizing the JSON format.
 - [dso](https://github.com/manyuanrong/dso) - A simple ORM library based on mysql.
 - [ensure](https://github.com/eankeen/ensure) - Ensure you are running a minimum version of Deno, Typescript, or V8.
 - [eta](https://github.com/eta-dev/eta) - Fast, lightweight, and configurable embedded template engine.
