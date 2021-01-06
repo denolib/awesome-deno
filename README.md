@@ -116,6 +116,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [fossil](https://github.com/matteocrippa/fossil) - A value-type validation suite.
 - [gardens](https://github.com/partheseas/gardens) - A useful logging utility for JavaScript everywhere.
 - [garn-validator](https://github.com/jupegarnica/garn-validator) - Create validations with ease.
+- [garn-yaml](https://deno.land/x/garn_yaml) - read or write yaml interpolating env variables
 - [gentleRpc](https://github.com/timonson/gentleRpc) - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
 - [http](https://github.com/denoland/deno_std/tree/master/http) - HTTP module including a file server.
 - [invert-kv](https://github.com/denorg/invert-kv) - Invert key-value pairs in Deno.
