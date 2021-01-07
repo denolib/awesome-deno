@@ -136,6 +136,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [oak-http-proxy](https://github.com/asos-craigmorten/oak-http-proxy) - Proxy middleware for Deno Oak HTTP servers.
 - [online](https://github.com/denorg/online) - Check if you're currently online in Deno.
 - [opine](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework ported from ExpressJS.
+- [opine-http-proxy](https://github.com/asos-craigmorten/opine-http-proxy) - Proxy middleware for Deno Opine HTTP servers.
 - [path](https://github.com/denoland/deno_std/tree/master/fs/path) - Deno Path Manipulation Libraries.
 - [pogo](https://github.com/sholladay/pogo) - Server framework for Deno.
 - [postcss](https://github.com/postcss/postcss-deno) - A tool for transforming styles with JS plugins.
