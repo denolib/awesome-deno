@@ -27,6 +27,7 @@ This list is a collection of the best Deno modules and resources.
   - [Korean](#korean)
   - [Russian](#russian)
   - [Spanish](#spanish)
+  - [Uzbek](#uzbek)
 
 ## Docs
 
@@ -109,6 +110,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [dndb](https://github.com/denyncrawford/dndb) - Persistent and embedable NoSQL database engine written for Deno 🦕. 
 - [doa](https://github.com/johannlai/doa) - A middleware framework for Deno's http serve🦕. Transplanted from Koa with ❤️
 - [drash](https://github.com/drashland/deno-drash) - A REST microframework for Deno's HTTP server with zero dependencies.
+- [dsddb](https://github.com/MaximilianHeidenreich/DsDDB) - A dead simple persistant key-value database utilizing the JSON format.
 - [dso](https://github.com/manyuanrong/dso) - A simple ORM library based on mysql.
 - [ensure](https://github.com/eankeen/ensure) - Ensure you are running a minimum version of Deno, Typescript, or V8.
 - [eta](https://github.com/eta-dev/eta) - Fast, lightweight, and configurable embedded template engine.
