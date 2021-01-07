@@ -139,6 +139,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [normalize_diacritics](https://github.com/motss/deno_mod/tree/master/normalize_diacritics) - Remove accents/diacritics in string.
 - [oak](https://github.com/oakserver/oak) - A middleware framework for Deno's net server.
 - [oak-http-proxy](https://github.com/asos-craigmorten/oak-http-proxy) - Proxy middleware for Deno Oak HTTP servers.
+- [obsidian](https://github.com/oslabs-beta/obsidian) - A native GraphQL caching client and server module.
 - [online](https://github.com/denorg/online) - Check if you're currently online in Deno.
 - [opine](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework ported from ExpressJS.
 - [opine-http-proxy](https://github.com/asos-craigmorten/opine-http-proxy) - Proxy middleware for Deno Opine HTTP servers.
