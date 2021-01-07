@@ -13,4 +13,4 @@ jobs:
           ruby-version: 2.6.x
       - run: |
           gem install awesome_bot
-          awesome_bot README.md --allow 429 --allow-redirect -w https://deno.land/x/,https://deno.land/std/,https://deno.land,https://deno.js.cn
+          awesome_bot README.md --allow 429 --allow-redirect -w https://deno.land/x/,https://deno.land/std/,https://deno.land,https://deno.js.cn,https://www.soubai.me
