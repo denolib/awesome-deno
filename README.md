@@ -27,6 +27,7 @@ This list is a collection of the best Deno modules and resources.
   - [Korean](#korean)
   - [Russian](#russian)
   - [Spanish](#spanish)
+  - [Uzbek](#uzbek)
 
 ## Docs
 
@@ -48,7 +49,13 @@ This list is a collection of the best Deno modules and resources.
 - [Deno Playground](https://deno-playground.now.sh)
   - [maman/deno-playground](https://github.com/maman/deno-playground)
 - [DenoBR Playground](https://playground.denobr.com/)
+- [myCompiler.io](https://www.mycompiler.io/new/deno)
 - [Repl.it](https://repl.it/languages/deno)
+
+### Assistants
+
+- [Telegram Bot Assistant](https://t.me/denoland_bot)
+- [Source code of the bot](https://github.com/genemators/lander.js)
 
 ## Modules
 
@@ -108,7 +115,9 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [dndb](https://github.com/denyncrawford/dndb) - Persistent and embedable NoSQL database engine written for Deno 🦕. 
 - [doa](https://github.com/johannlai/doa) - A middleware framework for Deno's http serve🦕. Transplanted from Koa with ❤️
 - [drash](https://github.com/drashland/deno-drash) - A REST microframework for Deno's HTTP server with zero dependencies.
+- [dragon](https://github.com/xanny-projects/dragon) - ⚡A powerful HTTP router and URL matcher for building Deno web servers with dragon 🐲.
 - [dropper](https://github.com/denyncrawford/dropper-deno) - Custom event-based WebSockets framework for building real-time apps on Deno 🦕
+- [dsddb](https://github.com/MaximilianHeidenreich/DsDDB) - A dead simple persistant key-value database utilizing the JSON format.
 - [dso](https://github.com/manyuanrong/dso) - A simple ORM library based on mysql.
 - [ensure](https://github.com/eankeen/ensure) - Ensure you are running a minimum version of Deno, Typescript, or V8.
 - [eta](https://github.com/eta-dev/eta) - Fast, lightweight, and configurable embedded template engine.
@@ -117,6 +126,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [flags](https://github.com/denoland/deno_std/tree/master/flags) - Command line arguments parser for Deno based on minimist.
 - [fossil](https://github.com/matteocrippa/fossil) - A value-type validation suite.
 - [gardens](https://github.com/partheseas/gardens) - A useful logging utility for JavaScript everywhere.
+- [garn-yaml](https://github.com/jupegarnica/garn-yaml) - Read or write yaml interpolating env variables.
 - [garn-validator](https://github.com/jupegarnica/garn-validator) - Create validations with ease.
 - [gentleRpc](https://github.com/timonson/gentleRpc) - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
 - [http](https://github.com/denoland/deno_std/tree/master/http) - HTTP module including a file server.
@@ -130,8 +140,11 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [ms](https://github.com/denolib/ms) - Easily convert various time formats to milliseconds.
 - [normalize_diacritics](https://github.com/motss/deno_mod/tree/master/normalize_diacritics) - Remove accents/diacritics in string.
 - [oak](https://github.com/oakserver/oak) - A middleware framework for Deno's net server.
+- [oak-http-proxy](https://github.com/asos-craigmorten/oak-http-proxy) - Proxy middleware for Deno Oak HTTP servers.
+- [obsidian](https://github.com/oslabs-beta/obsidian) - A native GraphQL caching client and server module.
 - [online](https://github.com/denorg/online) - Check if you're currently online in Deno.
 - [opine](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework ported from ExpressJS.
+- [opine-http-proxy](https://github.com/asos-craigmorten/opine-http-proxy) - Proxy middleware for Deno Opine HTTP servers.
 - [path](https://github.com/denoland/deno_std/tree/master/fs/path) - Deno Path Manipulation Libraries.
 - [pogo](https://github.com/sholladay/pogo) - Server framework for Deno.
 - [postcss](https://github.com/postcss/postcss-deno) - A tool for transforming styles with JS plugins.
@@ -169,9 +182,10 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 
 ## Showcases
 
+- [Deno Rest](https://github.com/vicky-gonsalves/deno_rest) - A Boilerplate for deno RESTful apis.
 - [Deno Seed](https://github.com/tamasszoke/deno-seed) - Complete boilerplate for development. :seedling:
-- [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno 🦕.
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
+- [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno 🦕.
 
 ## Tools
 
@@ -199,6 +213,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
   - [axetroy/dvm](https://github.com/axetroy/dvm) - Version manger for Deno without runtime dependencies.
   - [dvm.cmd](https://github.com/MarkTiedemann/dvm.cmd) - Deno Version Manager for Windows. Written as a single batch file.
 - [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
+- [lume](https://github.com/lumeland/lume) - A static site generator similar to Jekyll or Eleventy with support for multiple file formats.
 - [make-deno-edition](https://github.com/bevry/make-deno-edition) - Automatically makes package.json projects (such as npm packages and node.js modules) compatible with Deno.
 - [nessie](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
 - [packer-provisioner-deno](https://github.com/dontlaugh/packer-provisioner-deno) - A Packer plugin that makes it easy to build virtual machine images with Deno scripts.
@@ -237,6 +252,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [Build A Simple Covid19 CLI Tool using Deno](https://www.loginradius.com/engineering/blog/build-a-cli-tool-using-deno/)
 - [Creating a Web Application using Deno](https://www.loginradius.com/engineering/blog/a-webapp-in-deno/)
 - [Read and Write in a local file with Deno](https://www.loginradius.com/engineering/blog/read-and-write-in-a-local-file-with-deno/)
+- [The Hidden Superpower of Deno: xeval](https://stefanbuck.com/blog/hidden-superpower-deno-xeval)
 
 ## Presentations
 
