@@ -96,6 +96,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [deno-plugin-prepare](https://github.com/manyuanrong/deno-plugin-prepare) - A library for managing Deno native plugin dependencies.
 - [deno-pretty-assert](https://github.com/bokuweb/deno-pretty-assert) - A colorful assertEqual for deno.
 - [deno-prettystring](https://github.com/OnikurYH/deno-prettystring) - Format, trim and remove extra white spaces between characters from string.
+- [deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) - A library which provides a high-level API to control Chromium or Chrome over the DevTools Protocol.
 - [deno_random_interval](https://github.com/zekth/deno_random_interval) - Helper to generate random interval.
 - [deno-redis](https://github.com/keroxp/deno-redis) - An experimental implementation of redis client for deno.
 - [deno-slugify](https://github.com/jcardama/deno_slugify) - A string slugifier for deno.
