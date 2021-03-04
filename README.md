@@ -180,6 +180,8 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 
 ## Registries
 
+- [crux.land](https://crux.land/) - A free registry service meant for hosting small ( < 10kB) single deno scripts.
+- [Deno PKG](https://denopkg.com/) - An easier way to use code from GitHub in your Deno project.
 - [nest.land](https://nest.land) - An immutable, blockchain powered Deno package registry. 🥚
 
 ## Showcases
