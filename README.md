@@ -244,11 +244,11 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [Learn Deno: Chat app](https://aralroca.com/blog/learn-deno-chat-app)
 - [From Node to Deno](https://dev.to/aralroca/from-node-to-deno-5gpn)
 - [Create a simple Note-taking app with Deno](https://dev.to/jeferson_sb/create-a-simple-note-taking-app-with-deno-3k7g)
+- [Develop and Dockerize a Blogging API With Deno, Oak, and MySQL](https://dev.to/fhsinchy/develop-and-dockerize-a-blogging-api-with-deno-oak-and-mysql-170e)
 - [Building API's using Deno, Oak and MYSQL](https://codeforgeek.com/building-api-server-using-deno-and-mysql/)
 - [Create interactive mail utility CLI Tool using Deno
 ](https://www.soubai.me/posts/create-interactive-mail-utility-cli-with-deno)
 - [Create your first News CLI app using Deno](https://medium.com/javascript-in-plain-english/creating-your-first-news-cli-app-using-deno-e1470398c627)
-- [Deploy a Deno Application on AWS Using Docker and Travis CI](https://dev.to/fhsinchy/deploy-a-deno-application-on-aws-using-docker-and-travis-ci-4p8o)
 - [Continuous Integration with Deno](https://semaphoreci.com/blog/continuous-integration-with-deno)
 - [How to create and validate JSON Web Tokens in Deno](https://www.loginradius.com/engineering/blog/jwt-authentication-with-deno/)
 - [Build A Simple Covid19 CLI Tool using Deno](https://www.loginradius.com/engineering/blog/build-a-cli-tool-using-deno/)
