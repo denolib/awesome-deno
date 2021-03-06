@@ -175,6 +175,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [watch](https://github.com/jinjor/deno-watch) - A file watcher.
 - [websocket_server](https://github.com/JohanWinther/websocket_server) - A WebSocket server library. 🔌
 - [webview](https://github.com/eliassjogreen/deno_webview) - Deno bindings for webview, a tiny library for creating web-based desktop GUIs.
+- [wizard](https://github.com/deno-libs/wizard) - Minimal Jest-like wrapper for unit tests.
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
 - [youtube-deno](https://github.com/akshgpt7/youtube-deno) - A Deno client library for the YouTube Data API for any interaction with YouTube.
 
