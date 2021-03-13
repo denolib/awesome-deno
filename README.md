@@ -165,6 +165,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [status](https://github.com/denosaurs/status) - HTTP codes and status utility for Deno.
 - [superdeno](https://github.com/asos-craigmorten/superdeno) - Super-agent driven library for testing Deno HTTP servers.
 - [superoak](https://github.com/asos-craigmorten/superoak) - HTTP assertions for Oak made easy via SuperDeno.
+- [terminal_images)(https://github.com/mjrlowe/terminal_images) -  A Deno module and CLI tool for displaying images in the terminal. 
 - [textproto](https://github.com/denoland/deno_std/tree/master/textproto)
 - [time.ts](https://github.com/burhanahmeed/time.ts) - Time.ts - A straightforward Deno timezone manipulation
 - [ts-prometheus](https://github.com/marcopacini/ts-prometheus) - A prometheus client.
