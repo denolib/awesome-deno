@@ -126,6 +126,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [evt](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
 - [expect](https://github.com/allain/expect) - Helpers for writing jest like expect tests in deno.
 - [flags](https://github.com/denoland/deno_std/tree/master/flags) - Command line arguments parser for Deno based on minimist.
+- [forwarded](https://github.com/deno-libs/forwarded) - Deno port of `forwarded` library.
 - [fossil](https://github.com/matteocrippa/fossil) - A value-type validation suite.
 - [gardens](https://github.com/partheseas/gardens) - A useful logging utility for JavaScript everywhere.
 - [garn-yaml](https://github.com/jupegarnica/garn-yaml) - Read or write yaml interpolating env variables.
