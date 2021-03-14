@@ -132,6 +132,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [garn-yaml](https://github.com/jupegarnica/garn-yaml) - Read or write yaml interpolating env variables.
 - [garn-validator](https://github.com/jupegarnica/garn-validator) - Create validations with ease.
 - [gentleRpc](https://github.com/timonson/gentleRpc) - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
+- [gql](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware.
 - [http](https://github.com/denoland/deno_std/tree/master/http) - HTTP module including a file server.
 - [invert-kv](https://github.com/denorg/invert-kv) - Invert key-value pairs in Deno.
 - [lazy](https://github.com/luvies/lazy) - A linq-like lazy-evaluation iteration module.
