@@ -71,6 +71,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [bytes_formater](https://github.com/manyuanrong/bytes_formater) - Format bytes (Uint8Array, ArrayBufferView, etc) output, useful when debugging IO functions.
 - [cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 - [camelcase](https://github.com/denolib/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
+- [charmd](https://github.com/littletof/charmd) - A simple, extendable markdown renderer for your terminal.
 - [chart](https://github.com/maximousblk/chart) - Console ASCII line charts with no dependencies.
 - [coffee](https://github.com/irandeno/coffee) - Deno Configuration - a type-safe, easy to use Deno config manager.
 - [colors](https://deno.land/std/fmt/colors.ts) - A basic console color library intended for Deno.
@@ -223,6 +224,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
   - [axetroy/dvm](https://github.com/axetroy/dvm) - Version manger for Deno without runtime dependencies.
   - [dvm.cmd](https://github.com/MarkTiedemann/dvm.cmd) - Deno Version Manager for Windows. Written as a single batch file.
 - [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
+- [kopo-cli](https://github.com/littletof/kopo-cli) - A Deno registry browser in the terminal.
 - [lume](https://github.com/lumeland/lume) - A static site generator similar to Jekyll or Eleventy with support for multiple file formats.
 - [make-deno-edition](https://github.com/bevry/make-deno-edition) - Automatically makes package.json projects (such as npm packages and node.js modules) compatible with Deno.
 - [nessie](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
