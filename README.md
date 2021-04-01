@@ -145,6 +145,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [merlin](https://github.com/crewdevio/merlin) - Testing and Benchmarking framework for deno 🧙‍♂️
 - [microraptor](https://github.com/matteocrippa/microraptor) - Lightweight framework for easy network routing with validation.
 - [ms](https://github.com/denolib/ms) - Easily convert various time formats to milliseconds.
+- [nats](https://github.com/nats-io/nats.deno) - A Deno client for the [NATS messaging system](https://nats.io/).
 - [normalize_diacritics](https://github.com/motss/deno_mod/tree/master/normalize_diacritics) - Remove accents/diacritics in string.
 - [oak](https://github.com/oakserver/oak) - A middleware framework for Deno's net server.
 - [oak-http-proxy](https://github.com/asos-craigmorten/oak-http-proxy) - Proxy middleware for Deno Oak HTTP servers.
