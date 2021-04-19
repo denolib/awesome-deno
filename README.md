@@ -343,4 +343,3 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 ### Uzbek
 
 - [Telegram](https://t.me/denolanduz)
-- [Deno Translated Website](https://deno.uz)
