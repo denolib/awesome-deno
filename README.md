@@ -138,6 +138,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [graphql-tag](https://github.com/deno-libs/graphql-tag) - GraphQL schema AST from template literal. 
 - [http](https://github.com/denoland/deno_std/tree/master/http) - HTTP module including a file server.
 - [invert-kv](https://github.com/denorg/invert-kv) - Invert key-value pairs in Deno.
+- [kia](https://github.com/HarryPeach/kia) - Simple terminal spinners for Deno 🦕
 - [lazy](https://github.com/luvies/lazy) - A linq-like lazy-evaluation iteration module.
 - [log](https://github.com/denoland/deno_std/tree/master/log) - Logging module for Deno.
 - [marked](https://github.com/denolib/marked/) - Markdown-to-HTML converter.
