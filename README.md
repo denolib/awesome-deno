@@ -52,11 +52,6 @@ This list is a collection of the best Deno modules and resources.
 - [myCompiler.io](https://www.mycompiler.io/new/deno)
 - [Repl.it](https://repl.it/languages/deno)
 
-### Assistants
-
-- [Telegram Bot Assistant](https://t.me/denoland_bot)
-- [Source code of the bot](https://github.com/genemators/lander.js)
-
 ## Modules
 
 __NOTICE__: Deno has a few official modules that could be found at [deno_std](https://deno.land/std/).
