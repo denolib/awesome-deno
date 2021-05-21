@@ -170,6 +170,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [terminal_images](https://github.com/mjrlowe/terminal_images) -  A Deno module and CLI tool for displaying images in the terminal. 
 - [textproto](https://github.com/denoland/deno_std/tree/master/textproto)
 - [time.ts](https://github.com/burhanahmeed/time.ts) - Time.ts - A straightforward Deno timezone manipulation
+- [tincan](https://github.com/gcaptn/tincan) - A Jest-like testing library for Deno.
 - [ts-prometheus](https://github.com/marcopacini/ts-prometheus) - A prometheus client.
 - [type-fest](https://github.com/denoserverless/type-fest) - A collection of essential TypeScript types (port of sindresorhus/type-fest).
 - [unexpected](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit.
