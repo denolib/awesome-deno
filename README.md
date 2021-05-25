@@ -70,6 +70,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [chart](https://github.com/maximousblk/chart) - Console ASCII line charts with no dependencies.
 - [coffee](https://github.com/irandeno/coffee) - Deno Configuration - a type-safe, easy to use Deno config manager.
 - [colors](https://deno.land/std/fmt/colors.ts) - A basic console color library intended for Deno.
+- [compression](https://github.com/deno-libs/compression) - Deno HTTP compression middleware.
 - [computed_types](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
 - [cli-spinner](https://github.com/ameerthehacker/cli-spinners) - Show spinners in the terminal while running long tasks.
 - [cliffy](https://github.com/c4spar/deno-cliffy) - The complete solution for building interactive command-line tools.
