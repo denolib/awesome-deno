@@ -35,7 +35,7 @@ This list is a collection of the best Deno modules and resources.
 
 - [Official Site](https://deno.land)
 - [Deno API Reference](https://doc.deno.land/builtin/stable)
-  - [Deno Unstable API Reference](https://doc.deno.land/builtin/stable)
+  - [Deno Unstable API Reference](https://doc.deno.land/builtin/unstable)
 - [Deno Manual](https://deno.land/manual)
 
 ### External Docs
