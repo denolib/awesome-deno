@@ -138,6 +138,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [unexpected](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit.
 
 ### Utils
+- [buckets](https://github.com/jacoborus/deno-buckets) - Bundle assets and scripts in a single executable file.
 - [bytes_formater](https://github.com/manyuanrong/bytes_formater) - Format bytes (Uint8Array, ArrayBufferView, etc) output, useful when debugging IO functions.
 - [coffee](https://github.com/irandeno/coffee) - Deno Configuration - a type-safe, easy to use Deno config manager.
 - [computed_types](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
