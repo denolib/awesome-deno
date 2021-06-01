@@ -89,12 +89,13 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 ### Database
 - [deno_mysql](https://github.com/denodrivers/mysql) - MySQL database driver.
 - [deno_mongo](https://github.com/denodrivers/deno_mongo) - MongoDB database driver.
-- [redis](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
 - [denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno.
 - [dndb](https://github.com/denyncrawford/dndb) - Persistent and embedable NoSQL database engine written for Deno 🦕. 
 - [dsddb](https://github.com/MaximilianHeidenreich/DsDDB) - A dead simple persistant key-value database utilizing the JSON format.
 - [dso](https://github.com/manyuanrong/dso) - A simple ORM library based on mysql.
+- [nessie](https://github.com/halvardssm/deno-nessie) - A modular database migration tool for Deno, supports PostgreSQL, MySQL, MariaDB and SQLite.
 - [postgres](https://github.com/denodrivers/postgres) - Driver for PostgreSQL database.
+- [redis](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
 - [sql-builder](https://github.com/manyuanrong/sql-builder) - An sql query builder.
 - [maxminddb](https://github.com/josh-hemphill/maxminddb-deno) - A library that enables the usage of MaxmindDB geoIP database files
 
