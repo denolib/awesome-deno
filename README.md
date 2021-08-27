@@ -97,6 +97,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [postgres](https://github.com/denodrivers/postgres) - Driver for PostgreSQL database.
 - [sql-builder](https://github.com/manyuanrong/sql-builder) - An sql query builder.
 - [maxminddb](https://github.com/josh-hemphill/maxminddb-deno) - A library that enables the usage of MaxmindDB geoIP database files
+- [cotton](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for deno
 
 ### Frontend development
 - [postcss](https://github.com/postcss/postcss-deno) - A tool for transforming styles with JS plugins.
@@ -124,6 +125,8 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [dejs](https://github.com/syumai/dejs) - Ejs template engine for deno.
 - [deno_tiny_templates](https://github.com/zekth/deno_tiny_templates) - Template renderer for deno.
 - [eta](https://github.com/eta-dev/eta) - Fast, lightweight, and configurable embedded template engine.
+- [handlebars](https://github.com/alosaur/handlebars) - Handlebars template engine for deno
+- [mustache](https://github.com/alosaur/mustache) - Mustache template engine for deno
 
 ### Testing
 - [deno-pretty-assert](https://github.com/bokuweb/deno-pretty-assert) - A colorful assertEqual for deno.
