@@ -315,6 +315,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - Deno REST API with Oak Tutorial Series [0](https://www.robinwieruch.de/deno-tutorial), [1](https://www.robinwieruch.de/deno-oak), [2](https://www.robinwieruch.de/deno-oak-rest-api)
 - [Runtime permissions in Deno](https://findthedifficult.com/runtime-permissions-in-deno/)
 - [Using Webstorage in Deno](https://findthedifficult.com/deno-1-10-released-support-for-webstorage/)
+- [Dissecting Deno](https://fettblog.eu/dissecting-deno/)
 ## Presentations
 
 - [10 Things I Regret About Node.js - Ryan Dahl - JSConf EU 2018](https://www.youtube.com/watch?v=M3BM9TB-8yA)
