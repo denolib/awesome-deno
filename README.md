@@ -105,6 +105,9 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 ### Frontend framework
 - [aleph.js](https://github.com/postui/aleph.js) - A React framework in Deno, inspired by [Next.js](https://nextjs.org).
 
+### Image
+- [ImageScript](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+
 ### Logging
 - [gardens](https://github.com/partheseas/gardens) - A useful logging utility for JavaScript everywhere.
 
