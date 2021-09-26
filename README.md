@@ -91,13 +91,14 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [deno_mongo](https://github.com/denodrivers/deno_mongo) - MongoDB database driver.
 - [redis](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
 - [denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno.
-- [dndb](https://github.com/denyncrawford/dndb) - Persistent and embedable NoSQL database engine written for Deno 🦕. 
+- [dndb](https://github.com/denyncrawford/dndb) - Persistent and embedable NoSQL database engine written for Deno 🦕.
 - [dsddb](https://github.com/MaximilianHeidenreich/DsDDB) - A dead simple persistant key-value database utilizing the JSON format.
 - [dso](https://github.com/manyuanrong/dso) - A simple ORM library based on mysql.
 - [postgres](https://github.com/denodrivers/postgres) - Driver for PostgreSQL database.
 - [sql-builder](https://github.com/manyuanrong/sql-builder) - An sql query builder.
 - [maxminddb](https://github.com/josh-hemphill/maxminddb-deno) - A library that enables the usage of MaxmindDB geoIP database files
 - [cotton](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for deno
+- [yongo](https://github.com/yooneskh/yongo) - Subset of Mongoose api in deno (like populate) but will not fully copy mongoose
 
 ### Frontend development
 - [postcss](https://github.com/postcss/postcss-deno) - A tool for transforming styles with JS plugins.
@@ -214,7 +215,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [forwarded](https://github.com/deno-libs/forwarded) - Deno port of `forwarded` library.
 - [gentleRpc](https://github.com/timonson/gentleRpc) - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
 - [gql](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware.
-- [graphql-tag](https://github.com/deno-libs/graphql-tag) - GraphQL schema AST from template literal. 
+- [graphql-tag](https://github.com/deno-libs/graphql-tag) - GraphQL schema AST from template literal.
 - [nats](https://github.com/nats-io/nats.deno) - A Deno client for the [NATS messaging system](https://nats.io/).
 - [obsidian](https://github.com/oslabs-beta/obsidian) - A native GraphQL caching client and server module.
 - [qs](https://github.com/denolib/qs) - A query string parser with nesting support.
