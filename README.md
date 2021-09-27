@@ -183,6 +183,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [wasm-gzip](https://github.com/manyuanrong/wasm_gzip) - Encrypt and decrypt gzip for Deno.
 - [watch](https://github.com/jinjor/deno-watch) - A file watcher.
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
+- [deno-config](https://github.com/yooneskh/deno-config) - Utility to streamline deno app configuration management through cli, .env and json files
 
 ### Web framework
 - [abc](https://github.com/zhmushan/abc) - A better Deno framework to create web application.
