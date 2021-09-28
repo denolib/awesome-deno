@@ -179,6 +179,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [qrcode](https://github.com/denorg/qrcode) - QR code image generator for Deno.
 - [recursive-readdir](https://github.com/denorg/recursive-readdir) - Recursively read directories in Deno.
 - [rubico](https://github.com/richytong/rubico) - 🏞 [a]synchronous function composition; it just works.
+- [solc](https://github.com/deno-web3/solc) - 💎 Solidity bindings for Deno.
 - [type-fest](https://github.com/denoserverless/type-fest) - A collection of essential TypeScript types (port of sindresorhus/type-fest).
 - [wasm-gzip](https://github.com/manyuanrong/wasm_gzip) - Encrypt and decrypt gzip for Deno.
 - [watch](https://github.com/jinjor/deno-watch) - A file watcher.
