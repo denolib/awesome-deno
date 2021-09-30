@@ -16,6 +16,7 @@ This list is a collection of the best Deno modules and resources.
   - [Automation](#automation)
   - [CLI utils](#cli-utils)
   - [Database](#database)
+  - [Editor framework](#editor-framework)
   - [Frontend development](#frontend-development)
   - [Frontend framework](#frontend-framework)
   - [Logging](#logging)
@@ -99,6 +100,10 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [maxminddb](https://github.com/josh-hemphill/maxminddb-deno) - A library that enables the usage of MaxmindDB geoIP database files
 - [cotton](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for deno
 - [yongo](https://github.com/yooneskh/yongo) - Subset of Mongoose api in deno (like populate) but will not fully copy mongoose
+
+### Editor framework
+
+- [Denops](https://github.com/vim-denops/denops.vim) - 🐜 An ecosystem to write Vim/Neovim plugins with Deno.
 
 ### Frontend development
 - [postcss](https://github.com/postcss/postcss-deno) - A tool for transforming styles with JS plugins.
