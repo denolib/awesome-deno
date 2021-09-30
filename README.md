@@ -31,6 +31,7 @@ This list is a collection of the best Deno modules and resources.
   - [Webview](#webview)
   - [XML](#xml)
 - [Registries](#registries)
+- [Ecosystems](#ecosystems)
 - [Showcases](#showcases)
 - [Tools](#tools)
 - [Articles](#articles)
@@ -240,6 +241,10 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [Deno PKG](https://denopkg.com/) - An easier way to use code from GitHub in your Deno project.
 - [deno.land/x/](https://deno.land/x/) - The official 3rd party module registry.
 - [nest.land](https://nest.land) - An immutable, blockchain powered Deno package registry. 🥚
+
+## Ecosystems
+
+- [Denops](https://github.com/vim-denops/denops.vim) - 🐜 An ecosystem to write Vim/Neovim plugins with Deno.
 
 ## Showcases
 
