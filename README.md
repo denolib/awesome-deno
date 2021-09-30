@@ -16,6 +16,7 @@ This list is a collection of the best Deno modules and resources.
   - [Automation](#automation)
   - [CLI utils](#cli-utils)
   - [Database](#database)
+  - [Editor framework](#editor-framework)
   - [Frontend development](#frontend-development)
   - [Frontend framework](#frontend-framework)
   - [Logging](#logging)
@@ -31,7 +32,6 @@ This list is a collection of the best Deno modules and resources.
   - [Webview](#webview)
   - [XML](#xml)
 - [Registries](#registries)
-- [Ecosystems](#ecosystems)
 - [Showcases](#showcases)
 - [Tools](#tools)
 - [Articles](#articles)
@@ -100,6 +100,10 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [maxminddb](https://github.com/josh-hemphill/maxminddb-deno) - A library that enables the usage of MaxmindDB geoIP database files
 - [cotton](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for deno
 - [yongo](https://github.com/yooneskh/yongo) - Subset of Mongoose api in deno (like populate) but will not fully copy mongoose
+
+### Editor framework
+
+- [Denops](https://github.com/vim-denops/denops.vim) - 🐜 An ecosystem to write Vim/Neovim plugins with Deno.
 
 ### Frontend development
 - [postcss](https://github.com/postcss/postcss-deno) - A tool for transforming styles with JS plugins.
@@ -241,10 +245,6 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [Deno PKG](https://denopkg.com/) - An easier way to use code from GitHub in your Deno project.
 - [deno.land/x/](https://deno.land/x/) - The official 3rd party module registry.
 - [nest.land](https://nest.land) - An immutable, blockchain powered Deno package registry. 🥚
-
-## Ecosystems
-
-- [Denops](https://github.com/vim-denops/denops.vim) - 🐜 An ecosystem to write Vim/Neovim plugins with Deno.
 
 ## Showcases
 
