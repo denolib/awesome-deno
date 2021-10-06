@@ -182,6 +182,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [maze_generator](https://github.com/mjrlowe/maze_generator) - Javascript module for generating, solving, analyzing and displaying mazes.
 - [ms](https://github.com/denolib/ms) - Easily convert various time formats to milliseconds.
 - [online](https://github.com/denorg/online) - Check if you're currently online in Deno.
+- [optionals](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options with exhaustive pattern matching.
 - [qrcode](https://github.com/denorg/qrcode) - QR code image generator for Deno.
 - [recursive-readdir](https://github.com/denorg/recursive-readdir) - Recursively read directories in Deno.
 - [rubico](https://github.com/richytong/rubico) - 🏞 [a]synchronous function composition; it just works.
