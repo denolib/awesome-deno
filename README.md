@@ -307,7 +307,6 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [Getting started with Deno](https://dev.to/wuz/getting-started-with-deno-e1m)
 - [What's Deno, and how is it different from Node.js?](https://dev.to/bnevilleoneill/what-s-deno-and-how-is-it-different-from-node-js-366g)
 - [Write a small API using Deno](https://dev.to/kryz/write-a-small-api-using-deno-1cl0)
-- [Deno on AWS Lambda with Architect or SAM](https://blog.begin.com/deno-runtime-support-for-architect-805fcbaa82c3)
 - [Deno on Cloud Run](https://medium.com/google-cloud/deno-on-cloud-run-89ae64d1664d)
 - [Learn Deno: Chat app](https://aralroca.com/blog/learn-deno-chat-app)
 - [From Node to Deno](https://dev.to/aralroca/from-node-to-deno-5gpn)
