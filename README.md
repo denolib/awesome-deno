@@ -174,6 +174,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [dinoenv](https://deno.land/x/dinoenv) - tiny library to manage environment variables with deno.
 - [ensure](https://github.com/eankeen/ensure) - Ensure you are running a minimum version of Deno, Typescript, or V8.
 - [evt](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
+- [fastest-validator](https://github.com/icebob/fastest-validator) - Schema validator for all javascript platforms 
 - [fossil](https://github.com/matteocrippa/fossil) - A value-type validation suite.
 - [garn-yaml](https://github.com/jupegarnica/garn-yaml) - Read or write yaml interpolating env variables.
 - [garn-validator](https://github.com/jupegarnica/garn-validator) - Create validations with ease.
