@@ -326,8 +326,6 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [The Hidden Superpower of Deno: xeval](https://stefanbuck.com/blog/hidden-superpower-deno-xeval)
 - [Test coverage in Deno with Codecov and GitHub Actions](https://v1rtl.site/blog/coverage-in-deno)
 - Deno REST API with Oak Tutorial Series [0](https://www.robinwieruch.de/deno-tutorial), [1](https://www.robinwieruch.de/deno-oak), [2](https://www.robinwieruch.de/deno-oak-rest-api)
-- [Runtime permissions in Deno](https://findthedifficult.com/runtime-permissions-in-deno/)
-- [Using Webstorage in Deno](https://findthedifficult.com/deno-1-10-released-support-for-webstorage/)
 - [Dissecting Deno](https://fettblog.eu/dissecting-deno/)
 ## Presentations
 
