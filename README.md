@@ -291,6 +291,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [packer-provisioner-deno](https://github.com/dontlaugh/packer-provisioner-deno) - A Packer plugin that makes it easy to build virtual machine images with Deno scripts.
 - [pagic](https://github.com/xcatliu/pagic) - The easiest way to generate static html page from markdown, built with Deno.
 - [pika Deno plugin](https://github.com/pikapkg/builders/tree/master/packages/plugin-build-deno/)
+- [pre-commit-deno](https://github.com/nozaq/pre-commit-deno) - pre-commit git hooks for Deno projects.
 - [starter](https://github.com/denorg/starter) - Deno module starter template with GitHub Actions CI
 - [task-runner](https://github.com/jinjor/deno-task-runner) - Write tasks just like npm scripts.
 - [trex](https://github.com/crewdevio/Trex) - Package management like npm for deno.
