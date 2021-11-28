@@ -327,6 +327,9 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [Test coverage in Deno with Codecov and GitHub Actions](https://v1rtl.site/blog/coverage-in-deno)
 - Deno REST API with Oak Tutorial Series [0](https://www.robinwieruch.de/deno-tutorial), [1](https://www.robinwieruch.de/deno-oak), [2](https://www.robinwieruch.de/deno-oak-rest-api)
 - [Dissecting Deno](https://fettblog.eu/dissecting-deno/)
+- [Getting Started with Deno](https://sabe.io/tutorials/getting-started-with-deno)
+- [How to deploy a Deno app using Docker](https://sabe.io/tutorials/how-to-deploy-deno-app-docker)
+
 ## Presentations
 
 - [10 Things I Regret About Node.js - Ryan Dahl - JSConf EU 2018](https://www.youtube.com/watch?v=M3BM9TB-8yA)
