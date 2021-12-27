@@ -45,7 +45,6 @@ This list is a collection of the best Deno modules and resources.
   - [Korean](#korean)
   - [Russian](#russian)
   - [Spanish](#spanish)
-  - [Uzbek](#uzbek)
 
 ## Docs
 
@@ -403,7 +402,3 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [Así puedes crear tu primera API REST con Deno](https://medium.com/@mpampols/as%C3%AD-puedes-crear-tu-primera-api-rest-con-deno-a9094ee5c0b2)
 - [Primeros pasos con Deno 🦕 El sucesor de NodeJS desarrollado con Rust y TypeScript](https://medium.com/@manurua/primeros-pasos-con-deno-el-nuevo-nodejs-desarrollado-con-rust-y-typescript-b9ac14f7d0c7)
 - [Primer vistazo con deno](https://dev.to/buttercubz/first-look-with-deno-spanish-30dh)
-
-### Uzbek
-
-- [Telegram](https://t.me/denolanduz)
