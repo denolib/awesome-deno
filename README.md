@@ -262,6 +262,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [clone](https://github.com/ekaragodin/clone) - A simple utility for the convenient clone.
 - [decense](https://github.com/vinliao/decense) - Generate a license with one `deno run` command.
 - [dedep](https://github.com/egoist/dedep) - Manage dependency versions.
+- [denoflow](https://github.com/denoflow/denoflow) - Configuration as code, use YAML to write automated workflows that run on Deno, with any Deno modules, Typescript/Javascript codes
 - [denoget](https://github.com/syumai/denoget) - Denoget installs executable Deno script.
 - [denoify](https://github.com/garronej/denoify) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [denoinit](https://github.com/syumai/deno-libs/tree/master/denoinit) - Denoinit generates useful files for Deno project.
