@@ -216,7 +216,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [deno-websocket](https://github.com/ryo-ma/deno-websocket) - 🦕A simple WebSocket library like ws of node.js library.
 - [dropper](https://github.com/denyncrawford/dropper-deno) - Custom event-based WebSockets framework for building real-time apps on Deno 🦕
 - [websocket_server](https://github.com/JohanWinther/websocket_server) - A WebSocket server library.
-- [sockets](https://github.com/drashland/sockets) - A WebSocket library for Deno.
+- [wocket](https://github.com/drashland/wocket) - A WebSocket library for Deno.
 
 ### Web utils
 - [compression](https://github.com/deno-libs/compression) - Deno HTTP compression middleware.
