@@ -390,10 +390,6 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [Design Mistakes in Node & Deno #kng5 / deno](https://speakerdeck.com/masashi/deno)
 - [Dive into Deno：プロセス起動からTypeScriptが実行されるまで](https://blog.leko.jp/post/code-reading-of-deno-boot-process/)
 
-### Korean
-
-- [denoland.kr/](https://denoland.kr/)
-
 ### Russian
 
 - [Telegram channel](https://t.me/denoland_ru)
