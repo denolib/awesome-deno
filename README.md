@@ -42,10 +42,10 @@ This list is a collection of the best Deno modules and resources.
   - [Indonesian](#indonesian)
   - [Italian](#italian)
   - [Japanese](#japanese)
-  - [Korean](#korean)
   - [Russian](#russian)
   - [Spanish](#spanish)
   - [Darija (Arabe marocain)](#darija)
+  - [Kurdish (Central)](#kurdish-central)
 
 ## Docs
 
@@ -405,3 +405,8 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 ### Darija
 
 - [A first look at Deno | BlaBlaConf 2021 🇲🇦](https://www.youtube.com/watch?v=Y_etUvzAa4s) 
+
+### Kurdish (Central)
+
+- [deno.land](https://deno-ckb.vercel.app)
+- [A short introduction to Deno](https://devs.krd/about-deno).
