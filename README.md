@@ -86,6 +86,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [cliffy](https://github.com/c4spar/deno-cliffy) - The complete solution for building interactive command-line tools.
 - [kia](https://github.com/HarryPeach/kia) - Simple terminal spinners for Deno 🦕
 - [terminal_images](https://github.com/mjrlowe/terminal_images) -  A Deno module and CLI tool for displaying images in the terminal.
+- [with-env](https://github.com/bcheidemann/with-env) - Simple command line utilty for executing commands with one or more .env files.
 
 ### Database
 - [deno_mysql](https://github.com/denodrivers/mysql) - MySQL database driver.
