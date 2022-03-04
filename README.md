@@ -411,5 +411,5 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 
 ### Kurdish (Central)
 
-- [deno.land](https://deno-ckb.vercel.app)
+- [deno.land](https://denoland-ckb.deno.dev/)
 - [A short introduction to Deno](https://devs.krd/about-deno).
