@@ -87,6 +87,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [kia](https://github.com/HarryPeach/kia) - Simple terminal spinners for Deno 🦕
 - [terminal_images](https://github.com/mjrlowe/terminal_images) -  A Deno module and CLI tool for displaying images in the terminal.
 - [with-env](https://github.com/bcheidemann/with-env) - Simple command line utilty for executing commands with one or more .env files.
+- [yargs](https://github.com/yargs/yargs) - The modern, pirate-themed successor to optimist.
 
 ### Database
 - [deno_mysql](https://github.com/denodrivers/mysql) - MySQL database driver.
