@@ -191,7 +191,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [recursive-readdir](https://github.com/denorg/recursive-readdir) - Recursively read directories in Deno.
 - [rubico](https://github.com/richytong/rubico) - 🏞 [a]synchronous function composition; it just works.
 - [solc](https://github.com/deno-web3/solc) - 💎 Solidity bindings for Deno.
-- [tryify]('https://github.com/twilsoft/tryify') - Functional error handling; never throw/try/catch/finally again.
+- [tryify]('https://github.com/twilsoft/tryify') - Functional style error handling; never throw/try/catch/finally again.
 - [type-fest](https://github.com/denoserverless/type-fest) - A collection of essential TypeScript types (port of sindresorhus/type-fest).
 - [wasm-gzip](https://github.com/manyuanrong/wasm_gzip) - Encrypt and decrypt gzip for Deno.
 - [watch](https://github.com/jinjor/deno-watch) - A file watcher.
