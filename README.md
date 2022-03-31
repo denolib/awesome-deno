@@ -199,6 +199,10 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [watch](https://github.com/jinjor/deno-watch) - A file watcher.
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
 
+### Validation
+
+- [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
+
 ### Web framework
 - [abc](https://github.com/zhmushan/abc) - A better Deno framework to create web application.
 - [alosaur](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many decorators.
