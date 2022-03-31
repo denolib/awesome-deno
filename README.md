@@ -368,6 +368,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [Kitson P. Kelly - Deno, and The Future of JavaScript Runtimes - CityJS Conf 2020](https://www.youtube.com/watch?v=2eRyZpX4qvI)
 - [Matías Insaurralde - Deno: an experimental approach on V8 interoperability [EN subtitles] - NodeConf Argentina 2019](https://www.youtube.com/watch?v=N0BRE-0n2cU)
   - [Slides](https://speakerdeck.com/matiasinsaurralde/deno-an-experimental-approach-on-v8-interoperability)
+
 ## Resources in Other Languages
 
 ### Chinese
@@ -380,6 +381,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [《Deno进阶开发笔记》](https://github.com/chenshenhai/deno_note/)
 - [Deno 手册](https://github.com/Nugine/deno-manual-cn/)
 - [Deno 中文开发者社区](https://deno.js.cn)
+- [Node之父 - Deno，一个新的JS运行时](https://www.bilibili.com/video/av52038617)
 
 ### Hebrew
 
