@@ -203,6 +203,10 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 
 - [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
 
+### Video
+
+- [Fast Forward](https://github.com/c4spar/deno-fast-forward) - An easy to use ffmpeg module for Deno. 🦕
+
 ### Web framework
 - [abc](https://github.com/zhmushan/abc) - A better Deno framework to create web application.
 - [alosaur](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many decorators.
