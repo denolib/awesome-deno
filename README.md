@@ -112,6 +112,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 
 ### Frontend framework
 - [aleph.js](https://github.com/postui/aleph.js) - A React framework in Deno, inspired by [Next.js](https://nextjs.org).
+- [fresh](https://github.com/lucacasonato/fresh) - Preact, but super edgy. The next-gen web framework.
 - [ultra](https://github.com/exhibitionist-digital/ultra) - 💎 Modern Streaming React Framework in Deno.
 
 ### Image
