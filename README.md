@@ -180,7 +180,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [durationjs](https://github.com/retraigo/duration.js) - Get time duration from a timestamp or a human-readable string.
 - [ensure](https://github.com/eankeen/ensure) - Ensure you are running a minimum version of Deno, Typescript, or V8.
 - [evt](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
-- [fastest-validator](https://github.com/icebob/fastest-validator) - Schema validator for all javascript platforms 
+- [fastest-validator](https://github.com/icebob/fastest-validator) - Schema validator for all javascript platforms
 - [fortuna](https://github.com/queenochaos/fortuna) - Weighted gacha system.
 - [fossil](https://github.com/matteocrippa/fossil) - A value-type validation suite.
 - [garn-yaml](https://github.com/jupegarnica/garn-yaml) - Read or write yaml interpolating env variables.
@@ -200,6 +200,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [wasm-gzip](https://github.com/manyuanrong/wasm_gzip) - Perform gzip operations for Deno.
 - [watch](https://github.com/jinjor/deno-watch) - A file watcher.
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
+- [unified-deno-lock](https://github.com/yooneskh/unified-deno-lock) - Powerful and simple lock (mutex) library to handle race conditions with zero dependencies
 
 ### Validation
 
@@ -422,7 +423,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 
 ### Darija
 
-- [A first look at Deno | BlaBlaConf 2021 🇲🇦](https://www.youtube.com/watch?v=Y_etUvzAa4s) 
+- [A first look at Deno | BlaBlaConf 2021 🇲🇦](https://www.youtube.com/watch?v=Y_etUvzAa4s)
 
 ### Kurdish (Central)
 
