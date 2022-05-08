@@ -133,6 +133,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [deno-prettystring](https://github.com/OnikurYH/deno-prettystring) - Format, trim and remove extra white spaces between characters from string.
 - [deno-slugify](https://github.com/jcardama/deno_slugify) - A string slugifier for deno.
 - [normalize_diacritics](https://github.com/motss/deno_mod/tree/master/normalize_diacritics) - Remove accents/diacritics in string.
+- [written](https://github.com/vixalien/written) - A provides a set of utilities for manipulating text, with a focus on providing typographic tools rather than pure string manipulation.
 
 ### Template engine
 - [dejs](https://github.com/syumai/dejs) - Ejs template engine for deno.
