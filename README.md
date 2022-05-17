@@ -20,8 +20,10 @@ This list is a collection of the best Deno modules and resources.
   - [Frontend development](#frontend-development)
   - [Frontend framework](#frontend-framework)
   - [Logging](#logging)
+  - [Machine Learning](#machine-learning)
   - [Mail](#mail)
   - [Markdown](#markdown)
+  - [Math](#math)
   - [String utils](#string-utils)
   - [Template engine](#template-engine)
   - [Testing](#testing)
@@ -121,11 +123,18 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 ### Logging
 - [gardens](https://github.com/partheseas/gardens) - A useful logging utility for JavaScript everywhere.
 
+### Machine learning
+- [netsaur](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
+- [synaptic](https://github.com/load1n9/synaptic) - Dependency-less neural network library ported to deno
+
 ### Mail
 - [deno-smtp](https://github.com/manyuanrong/deno-smtp) - A smtp mail sender for deno.
 
 ### Markdown
 - [marked](https://github.com/denolib/marked/) - Markdown-to-HTML converter.
+
+### Math
+- [neo](https://github.com/denosaurs/neo/) - Matrix and other math, accelerated by WebGPU
 
 ### String utils
 - [camelcase](https://github.com/denolib/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
