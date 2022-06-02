@@ -105,6 +105,9 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [cotton](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for deno
 - [yongo](https://github.com/yooneskh/yongo) - Subset of Mongoose api in deno (like populate) but will not fully copy mongoose
 
+### Discord
+- [discordeno](https://discordeno.mod.land/) - Discord API library for Deno
+
 ### Editor framework
 
 - [Denops](https://github.com/vim-denops/denops.vim) - 🐜 An ecosystem to write Vim/Neovim plugins with Deno.
