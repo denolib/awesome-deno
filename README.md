@@ -96,6 +96,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [deno_mysql](https://github.com/denodrivers/mysql) - MySQL database driver.
 - [deno_mongo](https://github.com/denodrivers/deno_mongo) - MongoDB database driver.
 - [redis](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
+- [dangoDB](https://github.com/oslabs-beta/dangoDB) - A MongoDB ODM for Deno.
 - [denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno.
 - [dndb](https://github.com/denyncrawford/dndb) - Persistent and embedable NoSQL database engine written for Deno 🦕.
 - [dsddb](https://github.com/MaximilianHeidenreich/DsDDB) - A dead simple persistant key-value database utilizing the JSON format.
