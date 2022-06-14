@@ -93,18 +93,18 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [yargs](https://github.com/yargs/yargs) - The modern, pirate-themed successor to optimist.
 
 ### Database
-- [deno_mysql](https://github.com/denodrivers/mysql) - MySQL database driver.
-- [deno_mongo](https://github.com/denodrivers/deno_mongo) - MongoDB database driver.
-- [redis](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
+- [cotton](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for deno
 - [dangoDB](https://github.com/oslabs-beta/dangoDB) - A MongoDB ODM for Deno.
 - [denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno.
+- [deno_mongo](https://github.com/denodrivers/deno_mongo) - MongoDB database driver.
+- [deno_mysql](https://github.com/denodrivers/mysql) - MySQL database driver.
 - [dndb](https://github.com/denyncrawford/dndb) - Persistent and embedable NoSQL database engine written for Deno 🦕.
 - [dsddb](https://github.com/MaximilianHeidenreich/DsDDB) - A dead simple persistant key-value database utilizing the JSON format.
 - [dso](https://github.com/manyuanrong/dso) - A simple ORM library based on mysql.
-- [postgres](https://github.com/denodrivers/postgres) - Driver for PostgreSQL database.
-- [sql-builder](https://github.com/manyuanrong/sql-builder) - An sql query builder.
 - [maxminddb](https://github.com/josh-hemphill/maxminddb-deno) - A library that enables the usage of MaxmindDB geoIP database files
-- [cotton](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for deno
+- [postgres](https://github.com/denodrivers/postgres) - Driver for PostgreSQL database.
+- [redis](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
+- [sql-builder](https://github.com/manyuanrong/sql-builder) - An sql query builder.
 - [yongo](https://github.com/yooneskh/yongo) - Subset of Mongoose api in deno (like populate) but will not fully copy mongoose
 
 ### Discord
