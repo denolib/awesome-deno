@@ -199,7 +199,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [deno_tokenizer](https://github.com/eliassjogreen/deno_tokenizer) - A simple tokenizer for deno.
 - [deno-using](https://github.com/hayd/deno-using) - An python-style with statements for deno.
 - [dinoenv](https://deno.land/x/dinoenv) - tiny library to manage environment variables with deno.
-- [durationjs](https://github.com/retraigo/duration.js) - Get time duration from a timestamp or a human-readable string.
+- [durationjs](https://github.com/nekooftheabyss/duration.js) - Get time duration from a timestamp or a human-readable string.
 - [ensure](https://github.com/eankeen/ensure) - Ensure you are running a minimum version of Deno, Typescript, or V8.
 - [evt](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
 - [fastest-validator](https://github.com/icebob/fastest-validator) - Schema validator for all javascript platforms
