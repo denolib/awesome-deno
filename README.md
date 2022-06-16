@@ -175,6 +175,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [unexpected](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit.
 
 ### Utils
+- [bettermap](https://github.com/nekooftheabyss/bettermap) - A TypeScript extension of the JavaScript Map with Array-like features.
 - [buckets](https://github.com/jacoborus/deno-buckets) - Bundle assets and scripts in a single executable file.
 - [bytes_formater](https://github.com/manyuanrong/bytes_formater) - Format bytes (Uint8Array, ArrayBufferView, etc) output, useful when debugging IO functions.
 - [canonify](https://github.com/truestamp/truestamp-canonify) - Stringify data structures to deterministically ordered JSON for consistent hashing and digital signatures per JCS [RFC8785](https://datatracker.ietf.org/doc/html/rfc8785).
@@ -198,7 +199,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [deno_tokenizer](https://github.com/eliassjogreen/deno_tokenizer) - A simple tokenizer for deno.
 - [deno-using](https://github.com/hayd/deno-using) - An python-style with statements for deno.
 - [dinoenv](https://deno.land/x/dinoenv) - tiny library to manage environment variables with deno.
-- [durationjs](https://github.com/retraigo/duration.js) - Get time duration from a timestamp or a human-readable string.
+- [durationjs](https://github.com/nekooftheabyss/duration.js) - Get time duration from a timestamp or a human-readable string.
 - [ensure](https://github.com/eankeen/ensure) - Ensure you are running a minimum version of Deno, Typescript, or V8.
 - [evt](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
 - [fastest-validator](https://github.com/icebob/fastest-validator) - Schema validator for all javascript platforms
