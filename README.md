@@ -242,6 +242,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
 - [doa](https://github.com/johannlai/doa) - A middleware framework for Deno's http serve🦕. Transplanted from Koa with ❤️
 - [drash](https://github.com/drashland/deno-drash) - A REST microframework for Deno's HTTP server with zero dependencies.
+- [fast](https://github.com/danteissaias/fast) - Small web framework with near-native performance.
 - [faster](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
 - [microraptor](https://github.com/matteocrippa/microraptor) - Lightweight framework for easy network routing with validation.
 - [oak](https://github.com/oakserver/oak) - A middleware framework for Deno's net server.
