@@ -96,6 +96,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 ### Cloud APIs
 - [aws-api](https://aws-api.deno.dev/) - From-scratch Typescript AWS API client built for Deno.
 - [googleapis](https://googleapis.deno.dev/) - Auto-generated Google API clients for Deno.
+- [twi](https://github.com/roj1512/twi) - Twitter API v2 client for Deno.
 
 ### Database
 - [cotton](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for deno
