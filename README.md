@@ -15,6 +15,7 @@ This list is a collection of the best Deno modules and resources.
 - [Modules](#modules)
   - [Automation](#automation)
   - [CLI utils](#cli-utils)
+  - [Cloud APIs](cloud-apis)
   - [Database](#database)
   - [Editor framework](#editor-framework)
   - [Frontend development](#frontend-development)
