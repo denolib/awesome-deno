@@ -92,6 +92,10 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [with-env](https://github.com/bcheidemann/with-env) - Simple command line utilty for executing commands with one or more .env files.
 - [yargs](https://github.com/yargs/yargs) - The modern, pirate-themed successor to optimist.
 
+### Cloud APIs
+- [aws-api](https://aws-api.deno.dev/) - From-scratch Typescript AWS API client built for Deno.
+- [googleapis](https://googleapis.deno.dev/) - Auto-generated Google API clients for Deno.
+
 ### Database
 - [cotton](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for deno
 - [dangoDB](https://github.com/oslabs-beta/dangoDB) - A MongoDB ODM for Deno.
