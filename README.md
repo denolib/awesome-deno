@@ -15,7 +15,7 @@ This list is a collection of the best Deno modules and resources.
 - [Modules](#modules)
   - [Automation](#automation)
   - [CLI utils](#cli-utils)
-  - [Cloud APIs](cloud-apis)
+  - [Cloud APIs](#cloud-apis)
   - [Database](#database)
   - [Editor framework](#editor-framework)
   - [Frontend development](#frontend-development)
@@ -96,7 +96,9 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 ### Cloud APIs
 - [aws-api](https://aws-api.deno.dev/) - From-scratch Typescript AWS API client built for Deno.
 - [googleapis](https://googleapis.deno.dev/) - Auto-generated Google API clients for Deno.
+- [grammY](https://github.com/grammyjs/grammy) - Telegram Bot API framework for Deno.
 - [grm](https://github.com/dcdunkan/grm) - Telegram MTProto client for Deno.
+- [twi](https://github.com/roj1512/twi) - Twitter API v2 client for Deno.
 
 ### Database
 - [cotton](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for deno
