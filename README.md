@@ -97,6 +97,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [aws-api](https://aws-api.deno.dev/) - From-scratch Typescript AWS API client built for Deno.
 - [googleapis](https://googleapis.deno.dev/) - Auto-generated Google API clients for Deno.
 - [grammY](https://github.com/grammyjs/grammy) - Telegram Bot API framework for Deno.
+- [grm](https://github.com/dcdunkan/grm) - Telegram MTProto client for Deno.
 - [twi](https://github.com/roj1512/twi) - Twitter API v2 client for Deno.
 
 ### Database
