@@ -27,6 +27,7 @@ This list is a collection of the best Deno modules and resources.
   - [Markdown](#markdown)
   - [Math](#math)
   - [String utils](#string-utils)
+  - [Social Platform APIs](#social-platform-apis)
   - [Template engine](#template-engine)
   - [Testing](#testing)
   - [Utils](#utils)
@@ -96,9 +97,6 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 ### Cloud APIs
 - [aws-api](https://aws-api.deno.dev/) - From-scratch Typescript AWS API client built for Deno.
 - [googleapis](https://googleapis.deno.dev/) - Auto-generated Google API clients for Deno.
-- [grammY](https://github.com/grammyjs/grammy) - Telegram Bot API framework for Deno.
-- [grm](https://github.com/dcdunkan/grm) - Telegram MTProto client for Deno.
-- [twi](https://github.com/roj1512/twi) - Twitter API v2 client for Deno.
 
 ### Database
 - [cotton](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for deno
@@ -114,9 +112,6 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [redis](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
 - [sql-builder](https://github.com/manyuanrong/sql-builder) - An sql query builder.
 - [yongo](https://github.com/yooneskh/yongo) - Subset of Mongoose api in deno (like populate) but will not fully copy mongoose
-
-### Discord
-- [discordeno](https://discordeno.mod.land/) - Discord API library for Deno
 
 ### Editor framework
 
@@ -162,6 +157,13 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [deno-slugify](https://github.com/jcardama/deno_slugify) - A string slugifier for deno.
 - [normalize_diacritics](https://github.com/motss/deno_mod/tree/master/normalize_diacritics) - Remove accents/diacritics in string.
 - [written](https://github.com/vixalien/written) - A provides a set of utilities for manipulating text, with a focus on providing typographic tools rather than pure string manipulation.
+
+### Social Platform APIs
+- [grammY](https://github.com/grammyjs/grammy) - Telegram Bot API framework for Deno.
+- [grm](https://github.com/dcdunkan/grm) - Telegram MTProto client for Deno.
+- [twi](https://github.com/roj1512/twi) - Twitter API v2 client for Deno.
+- [discordeno](https://discordeno.mod.land/) - Discord API library for Deno
+
 
 ### Template engine
 - [dejs](https://github.com/syumai/dejs) - Ejs template engine for deno.
