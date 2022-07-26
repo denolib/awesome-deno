@@ -99,6 +99,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [grammY](https://github.com/grammyjs/grammy) - Telegram Bot API framework for Deno.
 - [grm](https://github.com/dcdunkan/grm) - Telegram MTProto client for Deno.
 - [twi](https://github.com/roj1512/twi) - Twitter API v2 client for Deno.
+- [discordeno](https://discordeno.mod.land/) - Discord API library for Deno.
 
 ### Database
 - [cotton](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for deno
@@ -114,9 +115,6 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [redis](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
 - [sql-builder](https://github.com/manyuanrong/sql-builder) - An sql query builder.
 - [yongo](https://github.com/yooneskh/yongo) - Subset of Mongoose api in deno (like populate) but will not fully copy mongoose
-
-### Discord
-- [discordeno](https://discordeno.mod.land/) - Discord API library for Deno
 
 ### Editor framework
 
