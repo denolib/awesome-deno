@@ -136,6 +136,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 
 ### Logging
 - [gardens](https://github.com/partheseas/gardens) - A useful logging utility for JavaScript everywhere.
+- [sentry_deno](https://github.com/GJZwiers/sentry_deno) - Unofficial port of the Sentry SDK for JavaScript to Deno.
 
 ### Machine learning
 - [netsaur](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
