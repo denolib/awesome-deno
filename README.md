@@ -312,6 +312,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [Edrys](https://github.com/edrys-org/edrys) - Remote Teaching Software
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
 - [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno 🦕.
+- [Saleor Deno Merch](https://github.com/saleor/deno-merch) - A fork of the original Deno Merch e-commerce website, rebuilt with [Saleor](https://github.com/saleor/saleor). 
 
 ## Tools
 
