@@ -112,6 +112,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [redis](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
 - [sql-builder](https://github.com/manyuanrong/sql-builder) - An sql query builder.
 - [yongo](https://github.com/yooneskh/yongo) - Subset of Mongoose api in deno (like populate) but will not fully copy mongoose
+- [aloedb](https://github.com/Kirlovon/AloeDB) - Light, Embeddable, NoSQL database for Deno without dependencies.
 
 ### Editor framework
 
