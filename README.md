@@ -41,6 +41,8 @@ This list is a collection of the best Deno modules and resources.
 - [Tools](#tools)
 - [Articles](#articles)
 - [Presentations](#presentations)
+- [Resources](#resources)
+  - [Books](#books)
 - [Resources in Other Languages](#resources-in-other-languages)
   - [Chinese](#chinese)
   - [Hebrew](#hebrew)
@@ -415,6 +417,11 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [Kitson P. Kelly - Deno, and The Future of JavaScript Runtimes - CityJS Conf 2020](https://www.youtube.com/watch?v=2eRyZpX4qvI)
 - [Matías Insaurralde - Deno: an experimental approach on V8 interoperability [EN subtitles] - NodeConf Argentina 2019](https://www.youtube.com/watch?v=N0BRE-0n2cU)
   - [Slides](https://speakerdeck.com/matiasinsaurralde/deno-an-experimental-approach-on-v8-interoperability)
+
+## Resources
+
+### Books
+- [Modern Web Development with Deno](https://bpbonline.com/products/modern-web-development-with-deno)
 
 ## Resources in Other Languages
 
