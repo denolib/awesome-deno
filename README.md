@@ -323,7 +323,6 @@ This list is a collection of the best Deno modules and resources.
 
 ## Tools
 
-- [commands](https://github.com/buttercubz/commands) - Create commands shortcuts for node js and deno
 - [clone](https://github.com/ekaragodin/clone) - A simple utility for the convenient clone.
 - [decense](https://github.com/vinliao/decense) - Generate a license with one `deno run` command.
 - [dedep](https://github.com/egoist/dedep) - Manage dependency versions.
