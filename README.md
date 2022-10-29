@@ -39,6 +39,7 @@ This list is a collection of the best Deno modules and resources.
 - [Registries](#registries)
 - [Showcases](#showcases)
 - [Tools](#tools)
+- [Integrations](#integrations)
 - [Articles](#articles)
 - [Presentations](#presentations)
 - [Resources](#resources)
@@ -367,6 +368,13 @@ This list is a collection of the best Deno modules and resources.
 - [vscode-deno-starter](https://github.com/twilsoft/vscode-deno-starter) - VS Code project boilerplate to get started with Deno.
 - [Update Deno](https://github.com/marketplace/actions/update-deno) - Github Action that puts a file with the latest Deno Version in your repository.
 - [denofn-selfhosted](https://github.com/denofn/denofn-selfhosted) - Self-hosted Deno functions, made with Deno and Docker.
+
+## Integrations
+
+- [Slack Custom Functions](https://api.slack.com/future/functions/custom) - Build custom Run On Slack functions using Deno.
+- [Netlify Edge Functions](https://docs.netlify.com/edge-functions/overview/) - Edge Functions connect the Netlify platform and workflow.
+- [Supabase Edge Functions](https://supabase.com/docs/guides/functions) - Edge Functions are server-side TypeScript functions, distributed globally at the edge.
+- [Astro](https://docs.astro.build/en/guides/deploy/deno/) - Deploy a server-side rendered Astro site to Deno Deploy.
 
 ## Articles
 
