@@ -174,7 +174,6 @@ This list is a collection of the best Deno modules and resources.
 - [mustache](https://github.com/alosaur/mustache) - Mustache template engine for deno
 
 ### Testing
-- [deno-pretty-assert](https://github.com/bokuweb/deno-pretty-assert) - A colorful assertEqual for deno.
 - [deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) - A library which provides a high-level API to control Chromium or Chrome over the DevTools Protocol.
 - [expect](https://github.com/allain/expect) - Helpers for writing jest like expect tests in deno.
 - [merlin](https://github.com/crewdevio/merlin) - Testing and Benchmarking framework for deno 🧙‍♂️
