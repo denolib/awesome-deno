@@ -66,7 +66,6 @@ This list is a collection of the best Deno modules and resources.
 ### External Docs
 
 - [V8 Docs for Deno](https://denolib.github.io/v8-docs/)
-- [DenoBeginner.com](https://DenoBeginner.com) - A completely free crash course on deno for beginners.
 
 ### Online Playgrounds
 
