@@ -331,6 +331,7 @@ This list is a collection of the best Deno modules and resources.
 - [denoliver](https://github.com/joakimunge/denoliver) - A simple, dependency free file server with live reload.
 - [denomander](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
 - [denon](https://github.com/denosaurs/denon) - A daemon script runner, like nodemon. Built in and for Deno.
+- [denopendabot](https://github.com/apps/denopendabot) - Dependabot for Deno projects.
 - [denopkg](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
 - [denoversion](https://github.com/lucascaro/denoversion) - SemVer and git version management for Deno.
 - [denox](https://github.com/BentoumiTech/denox) - Like packages.json scripts, but for Deno with permissions support.
