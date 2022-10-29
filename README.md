@@ -313,9 +313,11 @@ This list is a collection of the best Deno modules and resources.
 - [Deno Rest](https://github.com/vicky-gonsalves/deno_rest) - A Boilerplate for deno RESTful apis.
 - [Deno Seed](https://github.com/tamasszoke/deno-seed) - Complete boilerplate for development. :seedling:
 - [Edrys](https://github.com/edrys-org/edrys) - Remote Teaching Software
+- [Fresh Showcase](https://fresh.deno.dev/showcase) - The official showcase of Fresh apps.
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
+- [Saleor Deno Merch](https://github.com/saleor/deno-merch) - A fork of the original Deno Merch e-commerce website, rebuilt with [Saleor](https://github.com/saleor/saleor).
+- [The Official Showcase](https://deno.land/showcase) - The official showcase of Deno.
 - [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno 🦕.
-- [Saleor Deno Merch](https://github.com/saleor/deno-merch) - A fork of the original Deno Merch e-commerce website, rebuilt with [Saleor](https://github.com/saleor/saleor). 
 
 ## Tools
 
