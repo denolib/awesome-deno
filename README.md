@@ -280,6 +280,7 @@ This list is a collection of the best Deno modules and resources.
 - [compression](https://github.com/deno-libs/compression) - Deno HTTP compression middleware.
 - [djwt](https://github.com/timonson/djwt) - Make JSON Web Tokens (JWT) on Deno based on JWT and JWS specifications.
 - [forwarded](https://github.com/deno-libs/forwarded) - Deno port of `forwarded` library.
+- [fresh_chart](https://github.com/denoland/fresh_charts) - A server-side-rendered charting library for Fresh.
 - [gentleRpc](https://github.com/timonson/gentleRpc) - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
 - [gql](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware.
 - [graphql-tag](https://github.com/deno-libs/graphql-tag) - GraphQL schema AST from template literal.
