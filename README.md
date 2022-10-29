@@ -134,7 +134,6 @@ This list is a collection of the best Deno modules and resources.
 - [ImageScript](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
 ### Logging
-- [gardens](https://github.com/partheseas/gardens) - A useful logging utility for JavaScript everywhere.
 - [sentry_deno](https://github.com/GJZwiers/sentry_deno) - Unofficial port of the Sentry SDK for JavaScript to Deno.
 - [dlog](https://github.com/dpmland/dlog) - A ussefull logger for the prompt with icons or simple version!
 
