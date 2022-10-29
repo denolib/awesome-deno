@@ -59,9 +59,9 @@ This list is a collection of the best Deno modules and resources.
 ### Official Docs
 
 - [Official Site](https://deno.land)
-- [Deno API Reference](https://doc.deno.land/builtin/stable)
-  - [Deno Unstable API Reference](https://doc.deno.land/builtin/unstable)
 - [Deno Manual](https://deno.land/manual)
+- [Deno API Reference](https://deno.land/api)
+- [Deno Standard Modules](https://deno.land/std)
 
 ### External Docs
 
@@ -77,9 +77,6 @@ This list is a collection of the best Deno modules and resources.
 - [Repl.it](https://repl.it/languages/deno)
 
 ## Modules
-
-__NOTICE__: Deno has a few official modules that could be found at [deno_std](https://deno.land/std/).
-Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 
 ### Automation
 - [autopilot](https://github.com/divy-work/autopilot-deno) - Autopilot - Cross-platform web automation with Deno.
