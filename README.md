@@ -288,6 +288,7 @@ This list is a collection of the best Deno modules and resources.
 - [qs](https://github.com/denolib/qs) - A query string parser with nesting support.
 - [router](https://github.com/zhmushan/router) - A high-performance basic router works anywhere.
 - [status](https://github.com/denosaurs/status) - HTTP codes and status utility for Deno.
+- [squishy_cookies](https://github.com/omar2205/squishy_cookies) - Easily sign and verify cookies.
 - [ts-prometheus](https://github.com/marcopacini/ts-prometheus) - A prometheus client.
 - [up](https://github.com/denorg/up) - Check if a website is up in Deno.
 - [youtube-deno](https://github.com/akshgpt7/youtube-deno) - A Deno client library for the YouTube Data API for any interaction with YouTube.
