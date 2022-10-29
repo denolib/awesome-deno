@@ -265,7 +265,6 @@ This list is a collection of the best Deno modules and resources.
 - [opine](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework ported from ExpressJS.
   - [opine-http-proxy](https://github.com/asos-craigmorten/opine-http-proxy) - Proxy middleware for Deno Opine HTTP servers.
 - [pogo](https://github.com/sholladay/pogo) - Server framework for Deno.
-- [servest](https://github.com/keroxp/servest) - A progressive HTTP server/router.
 
 ### WebSocket
 - [deno-websocket](https://github.com/ryo-ma/deno-websocket) - 🦕A simple WebSocket library like ws of node.js library.
