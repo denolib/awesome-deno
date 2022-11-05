@@ -41,6 +41,7 @@ This list is a collection of the best Deno modules and resources.
 - [Tools](#tools)
 - [Integrations](#integrations)
 - [Articles](#articles)
+- [Blogs/Newsletters](#blogsnewsletters)
 - [Presentations](#presentations)
 - [Resources](#resources)
   - [Books](#books)
@@ -374,6 +375,11 @@ This list is a collection of the best Deno modules and resources.
 - [Netlify Edge Functions](https://docs.netlify.com/edge-functions/overview/) - Edge Functions connect the Netlify platform and workflow.
 - [Supabase Edge Functions](https://supabase.com/docs/guides/functions) - Edge Functions are server-side TypeScript functions, distributed globally at the edge.
 - [Astro](https://docs.astro.build/en/guides/deploy/deno/) - Deploy a server-side rendered Astro site to Deno Deploy.
+
+## Blogs/Newsletters
+- [Craig's Deno Diary](https://deno-blog.com) - A blog focussing on Deno tech & lib howtos.
+- [Deno Blog](https://deno.com/blog) - The official blog of the Deno Company.
+- [Deno News](https://deno.news) - A newsletter of Deno articles, news and cool projects.
 
 ## Articles
 
