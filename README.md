@@ -14,6 +14,7 @@ This list is a collection of the best Deno modules and resources.
   - [Online Playgrounds](#online-playgrounds)
 - [Modules](#modules)
   - [Automation](#automation)
+  - [Backend framework](#backend-framework)
   - [CLI utils](#cli-utils)
   - [Cloud APIs](#cloud-apis)
   - [Database](#database)
@@ -81,6 +82,9 @@ This list is a collection of the best Deno modules and resources.
 
 ### Automation
 - [autopilot](https://github.com/divy-work/autopilot-deno) - Autopilot - Cross-platform web automation with Deno.
+
+### Backend framework
+- [danet](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest](https://nestjs.com).
 
 ### CLI utils
 - [cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
