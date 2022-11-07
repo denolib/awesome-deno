@@ -253,6 +253,7 @@ This list is a collection of the best Deno modules and resources.
 - [alosaur](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many decorators.
 - [attain](https://github.com/aaronwlee/Attain) - A middleware web framework for Deno which is using http standard library inspired by express and Oak. Fast and stable with proper memory usage.
 - [aqua](https://github.com/l2ig/aqua) - A minimal and fast web framework for Deno.
+- [danet](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
 - [deno-express](https://github.com/NMathar/deno-express) - Node Express ported to Deno.
 - [denotrain](https://github.com/Caesar2011/denotrain) - All-in-One web framework like express or fastify for Node.js with middleware support.
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
