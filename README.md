@@ -184,6 +184,7 @@ This list is a collection of the best Deno modules and resources.
 - [superoak](https://github.com/asos-craigmorten/superoak) - HTTP assertions for Oak made easy via SuperDeno.
 - [tincan](https://github.com/gcaptn/tincan) - A Jest-like testing library for Deno.
 - [unexpected](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit.
+- [tepi](https://deno.land/x/tepi) - A .http Test Runner
 
 ### Utils
 - [bettermap](https://github.com/retraigo/bettermap) - A TypeScript extension of the JavaScript Map with Array-like features.
