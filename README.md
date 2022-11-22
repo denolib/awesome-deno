@@ -122,7 +122,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Frontend framework
 - [aleph.js](https://github.com/postui/aleph.js) - A React framework in Deno, inspired by [Next.js](https://nextjs.org).
-- [fresh](https://github.com/lucacasonato/fresh) - Preact, but super edgy. The next-gen web framework.
+- [fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [packup](https://github.com/kt3k/packup) - Zero-config web application packager for Deno.
 - [ultra](https://github.com/exhibitionist-digital/ultra) - 💎 Modern Streaming React Framework in Deno.
 
