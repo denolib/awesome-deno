@@ -226,6 +226,7 @@ This list is a collection of the best Deno modules and resources.
 - [invert-kv](https://github.com/denorg/invert-kv) - Invert key-value pairs in Deno.
 - [lazy](https://github.com/luvies/lazy) - A linq-like lazy-evaluation iteration module.
 - [maze_generator](https://github.com/mjrlowe/maze_generator) - Javascript module for generating, solving, analyzing and displaying mazes.
+- [monke](https://github.com/retraigo/monke) - Color quantization and dithering in TypeScript.
 - [ms](https://github.com/denolib/ms) - Easily convert various time formats to milliseconds.
 - [online](https://github.com/denorg/online) - Check if you're currently online in Deno.
 - [optionals](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options with exhaustive pattern matching.
