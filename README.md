@@ -71,7 +71,6 @@ This list is a collection of the best Deno modules and resources.
 
 ### Online Playgrounds
 
-- [DenoBR Playground](https://playground.denobr.com/)
 - [myCompiler.io](https://www.mycompiler.io/new/deno)
 - [Repl.it](https://repl.it/languages/deno)
 
