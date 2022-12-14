@@ -1,18 +1,14 @@
 name: ci
 on:
   push:
-    branches: [main]
+    branches: main
   pull_request:
-    branches: [main]
+    branches: main
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-ruby@v1
+      - uses: actions/checkout@v3
+      - uses: ruzickap/action-my-markdown-link-checker@v1
         with:
-          ruby-version: 2.6.x
-      - run: |
-          gem install awesome_bot
-          awesome_bot README.md --allow 429 --allow-redirect -w https://deno.land/x/,https://deno.land/std/,https://deno.land,https://deno.js.cn,https://www.soubai.me
+          config_file: .github/.mlc_config.json
