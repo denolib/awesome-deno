@@ -10,3 +10,5 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: ruzickap/action-my-markdown-link-checker@v1
+        with:
+          config_file: .github/.mlc_config.json
