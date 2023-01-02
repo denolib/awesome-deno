@@ -222,6 +222,7 @@ This list is a collection of the best Deno modules and resources.
 - [garn-validator](https://github.com/jupegarnica/garn-validator) - Create validations with ease.
 - [invert-kv](https://github.com/denorg/invert-kv) - Invert key-value pairs in Deno.
 - [lazy](https://github.com/luvies/lazy) - A linq-like lazy-evaluation iteration module.
+- [locale-kit](https://deno.land/x/localekit) ([GitHub](https://github.com/locale-kit/locale-kit)) - A internationalisation/localisation/translation (i18n/l10n/t9n) library with a wrapper for Fresh and support for plurals and dynamic replacement.
 - [maze_generator](https://github.com/mjrlowe/maze_generator) - Javascript module for generating, solving, analyzing and displaying mazes.
 - [monke](https://github.com/retraigo/monke) - Color quantization and dithering in TypeScript.
 - [ms](https://github.com/denolib/ms) - Easily convert various time formats to milliseconds.
