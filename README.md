@@ -189,6 +189,7 @@ This list is a collection of the best Deno modules and resources.
 - [tepi](https://deno.land/x/tepi) - A .http Test Runner
 - [tincan](https://github.com/gcaptn/tincan) - A Jest-like testing library for Deno.
 - [unexpected](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit.
+- [unitest](https://github.com/TomokiMiyauci/unitest) - Deno-first universal unit testing framework.
 
 ### Utils
 - [bettermap](https://github.com/retraigo/bettermap) - A TypeScript extension of the JavaScript Map with Array-like features.
