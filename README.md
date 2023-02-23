@@ -26,6 +26,7 @@ This list is a collection of the best Deno modules and resources.
   - [Mail](#mail)
   - [Markdown](#markdown)
   - [Math](#math)
+  - [Static site generator](#static-site-generator)
   - [String utils](#string-utils)
   - [Social Platform APIs](#social-platform-apis)
   - [Template engine](#template-engine)
@@ -149,6 +150,10 @@ This list is a collection of the best Deno modules and resources.
 
 ### Math
 - [neo](https://github.com/denosaurs/neo/) - Matrix and other math, accelerated by WebGPU
+
+### Static site generator
+- [lume](https://github.com/lumeland/lume) - A static site generator similar to Jekyll or Eleventy with support for multiple file formats.
+- [pagic](https://github.com/xcatliu/pagic) - The easiest way to generate static html page from markdown, built with Deno.
 
 ### String utils
 - [camelcase](https://github.com/denolib/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
@@ -350,10 +355,8 @@ This list is a collection of the best Deno modules and resources.
   - [dvm.cmd](https://github.com/MarkTiedemann/dvm.cmd) - Deno Version Manager for Windows. Written as a single batch file.
   - [ghosind/dvm](https://github.com/ghosind/dvm) - A lightweight Deno Version Manager for Linux/MacOS.
 - [kopo-cli](https://github.com/littletof/kopo-cli) - A Deno registry browser in the terminal.
-- [lume](https://github.com/lumeland/lume) - A static site generator similar to Jekyll or Eleventy with support for multiple file formats.
 - [make-deno-edition](https://github.com/bevry/make-deno-edition) - Automatically makes package.json projects (such as npm packages and node.js modules) compatible with Deno.
 - [packer-provisioner-deno](https://github.com/dontlaugh/packer-provisioner-deno) - A Packer plugin that makes it easy to build virtual machine images with Deno scripts.
-- [pagic](https://github.com/xcatliu/pagic) - The easiest way to generate static html page from markdown, built with Deno.
 - [pre-commit-deno](https://github.com/nozaq/pre-commit-deno) - pre-commit git hooks for Deno projects.
 - [starter](https://github.com/denorg/starter) - Deno module starter template with GitHub Actions CI
 - [trex](https://github.com/crewdevio/Trex) - Package management like npm for deno.
