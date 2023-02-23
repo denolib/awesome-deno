@@ -337,7 +337,6 @@ This list is a collection of the best Deno modules and resources.
 - [deno.mk](https://github.com/MarkTiedemann/deno.mk) - Cross-platform Makefile for installing and running Deno.
 - maxmcd's [deno-docker](https://github.com/maxmcd/deno-docker) A docker image.
 - hayd's [deno-docker](https://github.com/hayd/deno-docker) Several docker images.
-- [deno-vscode](https://github.com/ameerthehacker/deno-vscode) - Leverage the typedef and intellisense built into vscode using this extension.
 - [dev_server](https://github.com/zhmushan/dev_server) - Let TypeScript files be used directly in the script tag.
 - [dmm](https://github.com/drashland/dmm) - Lightweight Deno Module Manager
 - [dnt](https://github.com/denoland/dnt) - Deno to npm package build tool.
