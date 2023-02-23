@@ -341,8 +341,7 @@ This list is a collection of the best Deno modules and resources.
 - [denoversion](https://github.com/lucascaro/denoversion) - SemVer and git version management for Deno.
 - [denox](https://github.com/BentoumiTech/denox) - Like packages.json scripts, but for Deno with permissions support.
 - [deno.mk](https://github.com/MarkTiedemann/deno.mk) - Cross-platform Makefile for installing and running Deno.
-- maxmcd's [deno-docker](https://github.com/maxmcd/deno-docker) A docker image.
-- hayd's [deno-docker](https://github.com/hayd/deno-docker) Several docker images.
+- [deno_docker](https://github.com/denoland/deno_docker) - Latest dockerfiles and images for Deno - alpine, centos, debian, ubuntu.
 - [dev_server](https://github.com/zhmushan/dev_server) - Let TypeScript files be used directly in the script tag.
 - [dmm](https://github.com/drashland/dmm) - Lightweight Deno Module Manager
 - [dnt](https://github.com/denoland/dnt) - Deno to npm package build tool.
