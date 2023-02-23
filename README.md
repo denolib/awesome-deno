@@ -354,7 +354,6 @@ This list is a collection of the best Deno modules and resources.
 - [nessie](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
 - [packer-provisioner-deno](https://github.com/dontlaugh/packer-provisioner-deno) - A Packer plugin that makes it easy to build virtual machine images with Deno scripts.
 - [pagic](https://github.com/xcatliu/pagic) - The easiest way to generate static html page from markdown, built with Deno.
-- [pika Deno plugin](https://github.com/pikapkg/builders/tree/master/packages/plugin-build-deno/)
 - [pre-commit-deno](https://github.com/nozaq/pre-commit-deno) - pre-commit git hooks for Deno projects.
 - [starter](https://github.com/denorg/starter) - Deno module starter template with GitHub Actions CI
 - [trex](https://github.com/crewdevio/Trex) - Package management like npm for deno.
