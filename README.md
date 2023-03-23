@@ -352,6 +352,8 @@ This list is a collection of the best Deno modules and resources.
   - [BoltDoggy/deno#dpm](https://github.com/BoltDoggy/deno#dpm) - Deno Package Manager, install global command for deno. like denoget.
   - [dpmland/dpm](https://github.com/dpmland/dpm) - Deno Package Manager, a NPM | Yarn Experience for Deno
 - dvm
+  - [asdf-community/asdf-deno](https://github.com/asdf-community/asdf-deno.git
+) - Deno plugin for [asdf](https://asdf-vm.com/)
   - [justjavac/dvm](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
   - [axetroy/dvm](https://github.com/axetroy/dvm) - Version manger for Deno without runtime dependencies.
   - [dvm.cmd](https://github.com/MarkTiedemann/dvm.cmd) - Deno Version Manager for Windows. Written as a single batch file.
