@@ -295,6 +295,7 @@ This list is a collection of the best Deno modules and resources.
 - [obsidian](https://github.com/oslabs-beta/obsidian) - A native GraphQL caching client and server module.
 - [qs](https://github.com/denolib/qs) - A query string parser with nesting support.
 - [router](https://github.com/zhmushan/router) - A high-performance basic router works anywhere.
+- [rpc](https://github.com/deno-libs/rpc) - JSONRPC server implementation for Deno.
 - [status](https://github.com/denosaurs/status) - HTTP codes and status utility for Deno.
 - [squishy_cookies](https://github.com/omar2205/squishy_cookies) - Easily sign and verify cookies.
 - [ts-prometheus](https://github.com/marcopacini/ts-prometheus) - A prometheus client.
