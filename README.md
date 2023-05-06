@@ -263,6 +263,7 @@ This list is a collection of the best Deno modules and resources.
 - [alosaur](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many decorators.
 - [attain](https://github.com/aaronwlee/Attain) - A middleware web framework for Deno which is using http standard library inspired by express and Oak. Fast and stable with proper memory usage.
 - [aqua](https://github.com/l2ig/aqua) - A minimal and fast web framework for Deno.
+- [cheetah](https://github.com/azurystudio/cheetah) - 🐈 A blazing fast framework for the modern web.
 - [danet](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
 - [deno-express](https://github.com/NMathar/deno-express) - Node Express ported to Deno.
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
@@ -278,7 +279,7 @@ This list is a collection of the best Deno modules and resources.
 - [wren](https://github.com/zaiste/wren) - A small, but powerful HTTP library with a functional spin for creating composable web apps, built for convenience and simplicity
 
 ### WebSocket
-- [deno-websocket](https://github.com/ryo-ma/deno-websocket) - 🦕A simple WebSocket library like ws of node.js library.
+- [deno-websocket](https://github.com/ryo-ma/deno-websocket) - 🦕 A simple WebSocket library like ws of node.js library.
 - [dropper](https://github.com/denyncrawford/dropper-deno) - Custom event-based WebSockets framework for building real-time apps on Deno 🦕
 - [websocket_server](https://github.com/JohanWinther/websocket_server) - A WebSocket server library.
 - [wocket](https://github.com/drashland/wocket) - A WebSocket library for Deno.
