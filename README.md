@@ -211,6 +211,7 @@ This list is a collection of the best Deno modules and resources.
 - deno-dotenv
   - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) - Dotenv handling for deno.
   - [cardosomarcos/deno-dotenv](https://github.com/cardosomarcos/deno-dotenv) - Loads environment variables from .env for Deno projects.
+- [deno-envconfig](https://github.com/fernandolguevara/deno-envconfig) - Configuration management utility.
 - [deno-fnparse](https://github.com/hashrock/deno-fnparse) - An extremely simple parser combinator for JavaScript.
 - [deno-globrex](https://github.com/hayd/deno-globrex) - Port of globrex to deno, glob to regular expression.
 - [deno_notify](https://github.com/PandawanFr/deno_notify) - Send desktop notifications on all platforms.
