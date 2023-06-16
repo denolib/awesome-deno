@@ -303,6 +303,7 @@ This list is a collection of the best Deno modules and resources.
 - [ts-prometheus](https://github.com/marcopacini/ts-prometheus) - A prometheus client.
 - [up](https://github.com/denorg/up) - Check if a website is up in Deno.
 - [youtube-deno](https://github.com/akshgpt7/youtube-deno) - A Deno client library for the YouTube Data API for any interaction with YouTube.
+- [react-icons](https://react-icons.deno.dev/) - React Icons converted to preact for deno fresh
 
 ### Webview
 - [Astrodon](https://github.com/astrodon/astrodon) - Modular framework for building native multi-platform apps with Deno and webview.
