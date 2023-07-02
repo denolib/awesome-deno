@@ -104,6 +104,7 @@ This list is a collection of the best Deno modules and resources.
 - [deno_mongo](https://github.com/denodrivers/deno_mongo) - MongoDB database driver.
 - [deno_mysql](https://github.com/denodrivers/mysql) - MySQL database driver.
 - [dndb](https://github.com/denyncrawford/dndb) - Persistent and embedable NoSQL database engine written for Deno 🦕.
+- [dongoose](https://github.com/roonie007/dongoose) - A simple and easy to use ORM for Deno KV.
 - [dsddb](https://github.com/MaximilianHeidenreich/DsDDB) - A dead simple persistant key-value database utilizing the JSON format.
 - [dso](https://github.com/manyuanrong/dso) - A simple ORM library based on mysql.
 - [maxminddb](https://github.com/josh-hemphill/maxminddb-deno) - A library that enables the usage of MaxmindDB geoIP database files
