@@ -297,6 +297,7 @@ This list is a collection of the best Deno modules and resources.
 - [nats](https://github.com/nats-io/nats.deno) - A Deno client for the [NATS messaging system](https://nats.io/).
 - [obsidian](https://github.com/oslabs-beta/obsidian) - A native GraphQL caching client and server module.
 - [qs](https://github.com/denolib/qs) - A query string parser with nesting support.
+- [react-icons](https://react-icons.deno.dev/) - React Icons converted to preact for deno fresh.
 - [router](https://github.com/zhmushan/router) - A high-performance basic router works anywhere.
 - [rpc](https://github.com/deno-libs/rpc) - JSONRPC server implementation for Deno.
 - [status](https://github.com/denosaurs/status) - HTTP codes and status utility for Deno.
@@ -304,7 +305,6 @@ This list is a collection of the best Deno modules and resources.
 - [ts-prometheus](https://github.com/marcopacini/ts-prometheus) - A prometheus client.
 - [up](https://github.com/denorg/up) - Check if a website is up in Deno.
 - [youtube-deno](https://github.com/akshgpt7/youtube-deno) - A Deno client library for the YouTube Data API for any interaction with YouTube.
-- [react-icons](https://react-icons.deno.dev/) - React Icons converted to preact for deno fresh
 
 ### Webview
 - [Astrodon](https://github.com/astrodon/astrodon) - Modular framework for building native multi-platform apps with Deno and webview.
