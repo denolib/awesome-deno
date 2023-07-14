@@ -203,7 +203,6 @@ This list is a collection of the best Deno modules and resources.
 - [colors](https://github.com/retraigo/colors) - Color conversions and operations in TypeScript.
 - [croner](https://github.com/hexagon/croner) - Cron library with advanced scheduling features, well-documented API, and zero dependencies.
 - [computed_types](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
-- [cubic-bezier](https://github.com/retraigo/cubic-bezier) - Get an array of points in a cubic bezier curve or visualize in a canvas.
 - [dcc](https://github.com/BoltDoggy/deno#dcc) - Deno Cache Clean, reloading deps when next running.
 - [denon](https://github.com/denosaurs/denon/blob/master/mod.ts) - A file watcher with a for-await generator.
 - [deno-config](https://github.com/yooneskh/deno-config) - Utility to streamline deno app configuration management through cli, .env and json files
