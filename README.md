@@ -81,6 +81,7 @@ This list is a collection of the best Deno modules and resources.
 ### Automation
 - [autopilot](https://github.com/divy-work/autopilot-deno) - Autopilot - Cross-platform web automation with Deno.
 - [swissknife](https://github.com/fakoua/SwissKnife) - SwissKnife - Deno Swiss Knife tools for Windows.
+- [denopilot](https://github.com/fakoua/denopilot) - DenoPilot - Windows desktop automation module for Deno.
 
 ### CLI utils
 - [cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
