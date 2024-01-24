@@ -88,6 +88,7 @@ This list is a collection of the best Deno modules and resources.
 - [chart](https://github.com/maximousblk/chart) - Console ASCII line charts with no dependencies.
 - [cli-spinner](https://github.com/ameerthehacker/cli-spinners) - Show spinners in the terminal while running long tasks.
 - [cliffy](https://github.com/c4spar/deno-cliffy) - The complete solution for building interactive command-line tools.
+- [clite-parser](https://github.com/jersou/clite-parser) - Automatic CLI generation from a class.
 - [kia](https://github.com/HarryPeach/kia) - Simple terminal spinners for Deno 🦕
 - [terminal_images](https://github.com/mjrlowe/terminal_images) -  A Deno module and CLI tool for displaying images in the terminal.
 - [tui](https://github.com/Im-Beast/deno_tui) - Module which allows easy creation of Terminal User Interfaces.
