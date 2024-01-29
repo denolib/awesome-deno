@@ -144,10 +144,10 @@ This list is a collection of the best Deno modules and resources.
 - [dlog](https://github.com/dpmland/dlog) - A ussefull logger for the prompt with icons or simple version!
 
 ### Machine learning
-- [classy-lala](https://github.com/retraigo/classy-lala) - Regression and Classification library.
+- [classy-lala](https://github.com/retraigo/la-classy) - Single-layer perceptrons for supervised learning tasks.
 - [netsaur](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
 - [synaptic](https://github.com/load1n9/synaptic) - Dependency-less neural network library ported to deno
-- [vectorizer](https://github.com/retraigo/vectorizer) - Convert text into vectors.
+- [appraisal](https://github.com/retraigo/appraisal) - Feature extraction and conversion.
 
 ### Mail
 - [deno-smtp](https://github.com/manyuanrong/deno-smtp) - A smtp mail sender for deno.
