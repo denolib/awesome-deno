@@ -265,23 +265,15 @@ This list is a collection of the best Deno modules and resources.
 - [Fast Forward](https://github.com/c4spar/deno-fast-forward) - An easy to use ffmpeg module for Deno. 🦕
 
 ### Web framework
-- [abc](https://github.com/zhmushan/abc) - A better Deno framework to create web application.
-- [alosaur](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many decorators.
-- [attain](https://github.com/aaronwlee/Attain) - A middleware web framework for Deno which is using http standard library inspired by express and Oak. Fast and stable with proper memory usage.
 - [aqua](https://github.com/l2ig/aqua) - A minimal and fast web framework for Deno.
-- [cheetah](https://github.com/azurystudio/cheetah) - 🐈 A blazing fast framework for the modern web.
 - [danet](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
-- [deno-express](https://github.com/NMathar/deno-express) - Node Express ported to Deno.
-- [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
 - [drash](https://github.com/drashland/deno-drash) - A REST microframework for Deno's HTTP server with zero dependencies.
-- [fast](https://github.com/danteissaias/fast) - Small web framework with near-native performance.
 - [faster](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
 - [hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
 - [oak](https://github.com/oakserver/oak) - A middleware framework for Deno's net server.
   - [oak-http-proxy](https://github.com/asos-craigmorten/oak-http-proxy) - Proxy middleware for Deno Oak HTTP servers.
 - [opine](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework ported from ExpressJS.
   - [opine-http-proxy](https://github.com/asos-craigmorten/opine-http-proxy) - Proxy middleware for Deno Opine HTTP servers.
-- [pogo](https://github.com/sholladay/pogo) - Server framework for Deno.
 - [wren](https://github.com/zaiste/wren) - A small, but powerful HTTP library with a functional spin for creating composable web apps, built for convenience and simplicity
 
 ### WebSocket
