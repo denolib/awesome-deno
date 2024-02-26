@@ -266,6 +266,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Web framework
 - [aqua](https://github.com/l2ig/aqua) - A minimal and fast web framework for Deno.
+- [alosaur](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many ES Decorators.
 - [danet](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
 - [drash](https://github.com/drashland/deno-drash) - A REST microframework for Deno's HTTP server with zero dependencies.
 - [faster](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
