@@ -489,5 +489,4 @@ This list is a collection of the best Deno modules and resources.
 
 ### Kurdish (Central)
 
-- [deno.land](https://denoland-ckb.deno.dev/)
-- [A short introduction to Deno](https://devs.krd/about-deno).
+- [A short introduction to Deno](https://devs.krd/about-deno)
