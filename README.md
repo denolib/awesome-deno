@@ -176,6 +176,7 @@ This list is a collection of the best Deno modules and resources.
 - [grm](https://github.com/dcdunkan/grm) - Telegram MTProto client for Deno.
 - [twi](https://github.com/roj1512/twi) - Twitter API v2 client for Deno.
 - [discordeno](https://discordeno.mod.land/) - Discord API library for Deno
+- [MTKruto](https://github.com/MTKruto/MTKruto) - Deno-first, cross-runtime client library for Telegram's MTProto API.
 
 
 ### Template engine
