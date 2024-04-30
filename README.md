@@ -52,6 +52,7 @@ This list is a collection of the best Deno modules and resources.
   - [Indonesian](#indonesian)
   - [Italian](#italian)
   - [Japanese](#japanese)
+  - [Korean](#korean)
   - [Russian](#russian)
   - [Spanish](#spanish)
   - [Darija (Arabe marocain)](#darija)
@@ -472,6 +473,10 @@ This list is a collection of the best Deno modules and resources.
 - [mizchi/deno_code_reading.md](https://gist.github.com/mizchi/31e5628751330b624a0e8ada9e739b1e)
 - [Design Mistakes in Node & Deno #kng5 / deno](https://speakerdeck.com/masashi/deno)
 - [Dive into Deno：プロセス起動からTypeScriptが実行されるまで](https://blog.leko.jp/post/code-reading-of-deno-boot-process/)
+
+### Korean
+
+- [Deno Korea](https://deno.kr/) - Deno Korean User Group.
 
 ### Russian
 
