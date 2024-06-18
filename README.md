@@ -280,6 +280,7 @@ This list is a collection of the best Deno modules and resources.
 - [opine](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework ported from ExpressJS.
   - [opine-http-proxy](https://github.com/asos-craigmorten/opine-http-proxy) - Proxy middleware for Deno Opine HTTP servers.
 - [wren](https://github.com/zaiste/wren) - A small, but powerful HTTP library with a functional spin for creating composable web apps, built for convenience and simplicity
+- [primate](https://primatejs.com) - A polymorphic development platform
 
 ### WebSocket
 - [deno-websocket](https://github.com/ryo-ma/deno-websocket) - 🦕 A simple WebSocket library like ws of node.js library.
@@ -333,6 +334,7 @@ This list is a collection of the best Deno modules and resources.
 - [Saleor Deno Merch](https://github.com/saleor/deno-merch) - A fork of the original Deno Merch e-commerce website, rebuilt with [Saleor](https://github.com/saleor/saleor).
 - [The Official Showcase](https://deno.land/showcase) - The official showcase of Deno.
 - [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno 🦕.
+- [FastestEngineer](https://fastest.engineer) - A SaaS boilerplate that works with Deno.
 
 ## Tools
 
