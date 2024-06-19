@@ -334,7 +334,6 @@ This list is a collection of the best Deno modules and resources.
 - [Saleor Deno Merch](https://github.com/saleor/deno-merch) - A fork of the original Deno Merch e-commerce website, rebuilt with [Saleor](https://github.com/saleor/saleor).
 - [The Official Showcase](https://deno.land/showcase) - The official showcase of Deno.
 - [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno 🦕.
-- [FastestEngineer](https://fastest.engineer) - A SaaS boilerplate that works with Deno.
 
 ## Tools
 
