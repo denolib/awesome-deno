@@ -13,6 +13,7 @@ This list is a collection of the best Deno modules and resources.
   - [External Docs](#external-docs)
   - [Online Playgrounds](#online-playgrounds)
 - [Modules](#modules)
+  - [AI](#ai)
   - [Automation](#automation)
   - [CLI utils](#cli-utils)
   - [Cloud APIs](#cloud-apis)
@@ -79,6 +80,9 @@ This list is a collection of the best Deno modules and resources.
 - [Repl.it](https://repl.it/languages/deno)
 
 ## Modules
+
+### AI
+- [mastra](https://github.com/mastra-ai/mastra) - Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly.
 
 ### Automation
 - [autopilot](https://github.com/divy-work/autopilot-deno) - Autopilot - Cross-platform web automation with Deno.
