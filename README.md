@@ -289,6 +289,7 @@ This list is a collection of the best Deno modules and resources.
   - [opine-http-proxy](https://github.com/asos-craigmorten/opine-http-proxy) - Proxy middleware for Deno Opine HTTP servers.
 - [wren](https://github.com/zaiste/wren) - A small, but powerful HTTP library with a functional spin for creating composable web apps, built for convenience and simplicity
 - [primate](https://primatejs.com) - A polymorphic development platform
+- [Yelix](https://docs.yelix.dev/) - Yelix is a [Hono](https://github.com/honojs/hono) based Deno web server framework that simplifies backend development with built-in tools and automation.
 
 ### WebSocket
 - [deno-websocket](https://github.com/ryo-ma/deno-websocket) - 🦕 A simple WebSocket library like ws of node.js library.
