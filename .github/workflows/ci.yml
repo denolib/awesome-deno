@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: ruzickap/action-my-markdown-link-checker@v1
+      - uses: filiph/linkcheck@2.0.23
         with:
-          config_file: .github/.mlc_config.json
+          arguments: ./README.md
