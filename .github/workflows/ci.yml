@@ -9,6 +9,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: ruzickap/action-my-markdown-link-checker@v1
-        with:
-          config_file: .github/.mlc_config.json
+      - uses: denoland/setup-deno@v2
+      - run: deno -A npm:markdown-link-check README.md
