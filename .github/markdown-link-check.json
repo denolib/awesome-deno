@@ -1,0 +1,10 @@
+{
+  "httpHeaders": [
+    {
+      "urls": ["https://"],
+      "headers": {
+        "Accept": "text/html"
+      }
+    }
+  ]
+}

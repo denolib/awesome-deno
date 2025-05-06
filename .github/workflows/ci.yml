@@ -10,4 +10,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: denoland/setup-deno@v2
-      - run: deno -A npm:markdown-link-check@3.12.2 README.md
+      - run: deno -A npm:markdown-link-check@3.12.2 --config .github/markdown-link-check.json README.md
