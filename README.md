@@ -63,10 +63,10 @@ This list is a collection of the best Deno modules and resources.
 
 ### Official Docs
 
-- [Official Site](https://deno.land)
-- [Deno Manual](https://deno.land/manual)
-- [Deno API Reference](https://deno.land/api)
-- [Deno Standard Modules](https://deno.land/std)
+- [Official Site](https://deno.com)
+- [Deno Manual](https://docs.deno.com)
+- [Deno API Reference](https://docs.deno.com/api)
+- [Deno Standard Library](https://jsr.io/@std)
 
 ### External Docs
 
@@ -257,7 +257,6 @@ This list is a collection of the best Deno modules and resources.
 - [rubico](https://github.com/richytong/rubico) - 🏞 [a]synchronous function composition; it just works.
 - [solc](https://github.com/deno-web3/solc) - 💎 Solidity bindings for Deno.
 - [switcher4deno](https://github.com/switcherapi/switcher-client-deno) - Feature Flag Deno SDK client for Switcher-API.
-- [tryify](https://github.com/twilsoft/tryify) - Functional style error handling; never throw/try/catch/finally again.
 - [type-fest](https://github.com/denoserverless/type-fest) - A collection of essential TypeScript types (port of sindresorhus/type-fest).
 - [unified-deno-lock](https://github.com/yooneskh/unified-deno-lock) - Powerful and simple lock (mutex) library to handle race conditions with zero dependencies
 - [wasm-gzip](https://github.com/manyuanrong/wasm_gzip) - Perform gzip operations for Deno.
@@ -386,7 +385,6 @@ This list is a collection of the best Deno modules and resources.
 - [udd](https://github.com/hayd/deno-udd) - Update Deno dependencies: updates import statements to their latest published version.
 - [velociraptor](https://github.com/umbopepato/velociraptor) - An npm-style script runner for Deno.
 - [vscode-deno](https://github.com/denoland/vscode_deno) - VS Code extension that provides Deno support using the `TypeScript Deno language service plugin`.
-- [vscode-deno-starter](https://github.com/twilsoft/vscode-deno-starter) - VS Code project boilerplate to get started with Deno.
 - [denofn-selfhosted](https://github.com/denofn/denofn-selfhosted) - Self-hosted Deno functions, made with Deno and Docker.
 
 ## Integrations
