@@ -6,5 +6,13 @@
         "Accept": "text/html"
       }
     }
+  ],
+  "ignorePatterns": [
+    {
+      "pattern": "https://www.mycompiler.io/new/deno"
+    },
+    {
+      "pattern": "https://zhuanlan.zhihu.com/p/37637923"
+    }
   ]
 }
