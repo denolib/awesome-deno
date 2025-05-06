@@ -112,10 +112,10 @@ This list is a collection of the best Deno modules and resources.
 - [dongoose](https://github.com/roonie007/dongoose) - A simple and easy to use ORM for Deno KV.
 - [dsddb](https://github.com/MaximilianHeidenreich/DsDDB) - A dead simple persistant key-value database utilizing the JSON format.
 - [dso](https://github.com/manyuanrong/dso) - A simple ORM library based on mysql.
+- [@iuioiua/redis](https://jsr.io/@iuioiua/redis) - Fast, lightweight Redis client built upon the Web Streams API.
 - [maxminddb](https://github.com/josh-hemphill/maxminddb-deno) - A library that enables the usage of MaxmindDB geoIP database files
 - [nessie](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
 - [postgres](https://github.com/denodrivers/postgres) - Driver for PostgreSQL database.
-- [r2d2](https://github.com/iuioiua/r2d2) - Fast, lightweight Redis client library for Deno.
 - [redis](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
 - [sql-builder](https://github.com/manyuanrong/sql-builder) - An sql query builder.
 - [yongo](https://github.com/yooneskh/yongo) - Subset of Mongoose api in deno (like populate) but will not fully copy mongoose
