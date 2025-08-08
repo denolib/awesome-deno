@@ -240,6 +240,7 @@ This list is a collection of the best Deno modules and resources.
 - [durationjs](https://github.com/retraigo/duration.js) - Get formatted time duration from a timestamp or a human-readable string.
 - [draco](https://github.com/dpmland/draco) - File and folder multiplatform utils for Deno!
 - [ensure](https://github.com/eankeen/ensure) - Ensure you are running a minimum version of Deno, Typescript, or V8.
+- [esm-itter](https://github.com/tillsanders/esm-itter) – A strongly typed fork of the popular EventEmitter3 with a focus on EcmaScript module syntax, TypeScript and modern tooling.
 - [evt](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
 - [fastest-validator](https://github.com/icebob/fastest-validator) - Schema validator for all javascript platforms
 - [fortuna](https://github.com/retraigo/fortuna) - Weighted gacha system.
