@@ -193,6 +193,7 @@ This list is a collection of the best Deno modules and resources.
 - [eta](https://github.com/eta-dev/eta) - Fast, lightweight, and configurable embedded template engine.
 - [handlebars](https://github.com/alosaur/handlebars) - Handlebars template engine for deno
 - [mustache](https://github.com/alosaur/mustache) - Mustache template engine for deno
+- [athena](https://github.com/dext7r/athena.git) - Modern full stack development template
 
 ### Testing
 - [deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) - A library which provides a high-level API to control Chromium or Chrome over the DevTools Protocol.
