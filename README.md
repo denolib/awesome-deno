@@ -101,6 +101,7 @@ This list is a collection of the best Deno modules and resources.
 ### Cloud APIs
 - [aws-api](https://aws-api.deno.dev/) - From-scratch Typescript AWS API client built for Deno.
 - [googleapis](https://googleapis.deno.dev/) - Auto-generated Google API clients for Deno.
+- [Vedika API](https://vedika.io) - AI-powered Vedic astrology REST API.
 
 ### Database
 - [aloedb](https://github.com/Kirlovon/AloeDB) - Light, Embeddable, NoSQL database for Deno without dependencies.
