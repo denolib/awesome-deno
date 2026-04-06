@@ -6,6 +6,7 @@ Deno is a simple, modern and secure runtime for JavaScript and TypeScript that u
 
 This list is a collection of the best Deno modules and resources.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Deno-based multi-agent orchestration, automated task management, and TypeScript-native coordination. MIT licensed.
 ## Contents
 
 - [Docs](#docs)
