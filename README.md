@@ -161,6 +161,7 @@ This list is a collection of the best Deno modules and resources.
 - [deno-smtp](https://github.com/manyuanrong/deno-smtp) - A smtp mail sender for deno.
 
 ### Markdown
+- [LiteMarkup](https://github.com/tuures/LiteMarkup) - AST-first parser. Under 3 KB gzipped, zero dependencies.
 - [marked](https://github.com/denolib/marked/) - Markdown-to-HTML converter.
 
 ### Math
