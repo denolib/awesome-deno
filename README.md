@@ -11,7 +11,6 @@ This list is a collection of the best Deno modules and resources.
 - [Docs](#docs)
   - [Official Docs](#official-docs)
   - [External Docs](#external-docs)
-  - [Online Playgrounds](#online-playgrounds)
 - [Modules](#modules)
   - [Automation](#automation)
   - [CLI utils](#cli-utils)
