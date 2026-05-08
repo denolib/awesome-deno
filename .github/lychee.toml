@@ -1,0 +1,12 @@
+exclude = [
+  "^https://medium\\.com/",
+  "^https://segmentfault\\.com/a/1190000015151287$",
+  "^https://www\\.mycompiler\\.io/new/deno$",
+  "^https://zhuanlan\\.zhihu\\.com/p/37637923$",
+  "^https://www\\.bilibili\\.com/video/av52038617$",
+  "^https://mp\\.weixin\\.qq\\.com/s/7XAiYw18c8YZc-fXk0-wrw$",
+]
+
+max_retries = 3
+retry_wait_time = 2
+timeout = 20
