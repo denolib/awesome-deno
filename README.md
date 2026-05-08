@@ -17,10 +17,8 @@ This list is a collection of the best Deno modules and resources.
   - [Cloud APIs](#cloud-apis)
   - [Database](#database)
   - [Editor framework](#editor-framework)
-  - [Frontend development](#frontend-development)
   - [Frontend framework](#frontend-framework)
   - [Game engine](#game-engine)
-  - [LLM](#llm)
   - [Logging](#logging)
   - [Machine Learning](#machine-learning)
   - [Mail](#mail)
@@ -107,8 +105,6 @@ This list is a collection of the best Deno modules and resources.
 
 - [Denops](https://github.com/vim-denops/denops.vim) - 🐜 An ecosystem to write Vim/Neovim plugins with Deno.
 
-### Frontend development
-
 ### Frontend framework
 - [fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [packup](https://github.com/kt3k/packup) - Zero-config web application packager for Deno.
@@ -121,8 +117,6 @@ This list is a collection of the best Deno modules and resources.
 ### Image
 - [ImageScript](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 - [monke](https://github.com/retraigo/monke) - Color quantization and dithering library with extra image filters (blur, invert, etc).
-
-### LLM
 
 ### Logging
 - [LogTape](https://github.com/dahlia/logtape) - Simple logging library with zero dependencies for Deno/Node.js/Bun/browsers.
@@ -195,9 +189,6 @@ This list is a collection of the best Deno modules and resources.
 ### Validation
 
 - [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
-
-### Video
-
 
 ### Web framework
 - [aqua](https://github.com/l2ig/aqua) - A minimal and fast web framework for Deno.
