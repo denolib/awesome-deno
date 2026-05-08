@@ -184,7 +184,6 @@ This list is a collection of the best Deno modules and resources.
 - [grammY](https://github.com/grammyjs/grammy) - Telegram Bot API framework for Deno.
 - [grm](https://github.com/dcdunkan/grm) - Telegram MTProto client for Deno.
 - [twi](https://github.com/roj1512/twi) - Twitter API v2 client for Deno.
-- [discordeno](https://discordeno.mod.land/) - Discord API library for Deno
 - [MTKruto](https://github.com/MTKruto/MTKruto) - Deno-first, cross-runtime client library for Telegram's MTProto API.
 
 
@@ -236,7 +235,6 @@ This list is a collection of the best Deno modules and resources.
 - [deno_random_interval](https://github.com/zekth/deno_random_interval) - Helper to generate random interval.
 - [deno_tokenizer](https://github.com/eliassjogreen/deno_tokenizer) - A simple tokenizer for deno.
 - [deno-using](https://github.com/hayd/deno-using) - An python-style with statements for deno.
-- [deno-validation](https://github.com/ethandunford/deno-validation) - A general purpose validation library for Deno.
 - [dinoenv](https://deno.land/x/dinoenv) - tiny library to manage environment variables with deno.
 - [durationjs](https://github.com/retraigo/duration.js) - Get formatted time duration from a timestamp or a human-readable string.
 - [draco](https://github.com/dpmland/draco) - File and folder multiplatform utils for Deno!
@@ -290,8 +288,6 @@ This list is a collection of the best Deno modules and resources.
 - [opine](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework ported from ExpressJS.
   - [opine-http-proxy](https://github.com/asos-craigmorten/opine-http-proxy) - Proxy middleware for Deno Opine HTTP servers.
 - [wren](https://github.com/zaiste/wren) - A small, but powerful HTTP library with a functional spin for creating composable web apps, built for convenience and simplicity
-- [primate](https://primatejs.com) - A polymorphic development platform
-- [Yelix](https://docs.yelix.dev/) - Yelix is a [Hono](https://github.com/honojs/hono) based Deno web server framework that simplifies backend development with built-in tools and automation.
 
 ### WebSocket
 - [deno-websocket](https://github.com/ryo-ma/deno-websocket) - 🦕 A simple WebSocket library like ws of node.js library.
@@ -339,7 +335,6 @@ This list is a collection of the best Deno modules and resources.
 - [Deno Rest](https://github.com/vicky-gonsalves/deno_rest) - A Boilerplate for deno RESTful apis.
 - [Deno Seed](https://github.com/tamasszoke/deno-seed) - Complete boilerplate for development. :seedling:
 - [Edrys](https://github.com/edrys-org/edrys) - Remote Teaching Software
-- [Fresh Showcase](https://fresh.deno.dev/showcase) - The official showcase of Fresh apps.
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
 - [Saleor Deno Merch](https://github.com/saleor/deno-merch) - A fork of the original Deno Merch e-commerce website, rebuilt with [Saleor](https://github.com/saleor/saleor).
 - [ShopSavvy Deno Deploy](https://github.com/shopsavvy/deno-deploy-shopsavvy) - Deno Deploy router with Hono for product search, real-time pricing, and price history.
@@ -461,7 +456,6 @@ This list is a collection of the best Deno modules and resources.
 - [Node之父ry：Node中的设计错误](https://mp.weixin.qq.com/s/7XAiYw18c8YZc-fXk0-wrw)
 - [《Deno进阶开发笔记》](https://github.com/chenshenhai/deno_note/)
 - [Deno 手册](https://github.com/Nugine/deno-manual-cn/)
-- [Deno 中文开发者社区](https://deno.js.cn)
 - [Node之父 - Deno，一个新的JS运行时](https://www.bilibili.com/video/av52038617)
 
 ### Hebrew
