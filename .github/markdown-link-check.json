@@ -9,6 +9,9 @@
   ],
   "ignorePatterns": [
     {
+      "pattern": "^https://medium\\.com/"
+    },
+    {
       "pattern": "https://www.mycompiler.io/new/deno"
     },
     {
