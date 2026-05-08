@@ -258,8 +258,7 @@ This list is a collection of the best Deno modules and resources.
 - [deno_docker](https://github.com/denoland/deno_docker) - Latest dockerfiles and images for Deno - alpine, centos, debian, ubuntu.
 - [dmm](https://github.com/drashland/dmm) - Lightweight Deno Module Manager
 - [dnt](https://github.com/denoland/dnt) - Deno to npm package build tool.
-- dpm
-  - [dpmland/dpm](https://github.com/dpmland/dpm) - Deno Package Manager, a NPM | Yarn Experience for Deno
+- [dpm](https://github.com/dpmland/dpm) - Deno Package Manager, a NPM | Yarn Experience for Deno
 - dvm
   - [asdf-community/asdf-deno](https://github.com/asdf-community/asdf-deno.git
 ) - Deno plugin for [asdf](https://asdf-vm.com/)
