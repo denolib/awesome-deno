@@ -10,3 +10,6 @@ exclude = [
 max_retries = 3
 retry_wait_time = 2
 timeout = 20
+
+[header]
+Accept = "text/html"
