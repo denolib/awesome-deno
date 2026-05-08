@@ -72,12 +72,6 @@ This list is a collection of the best Deno modules and resources.
 
 - [V8 Docs for Deno](https://denolib.github.io/v8-docs/)
 
-### Online Playgrounds
-
-- [Deno Starter in Codesandbox](https://codesandbox.io/s/y56n2)
-- [myCompiler.io](https://www.mycompiler.io/new/deno)
-- [Repl.it](https://repl.it/languages/deno)
-
 ## Modules
 
 ### Automation
