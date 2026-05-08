@@ -60,10 +60,10 @@ This list is a collection of the best Deno modules and resources.
 
 ### Official Docs
 
-- [Official Site](https://deno.com)
-- [Deno Manual](https://docs.deno.com)
 - [Deno API Reference](https://docs.deno.com/api)
+- [Deno Manual](https://docs.deno.com)
 - [Deno Standard Library](https://jsr.io/@std)
+- [Official Site](https://deno.com)
 
 ### External Docs
 
@@ -89,12 +89,12 @@ This list is a collection of the best Deno modules and resources.
 - [googleapis](https://googleapis.deno.dev/) - Auto-generated Google API clients for Deno.
 
 ### Database
+- [@iuioiua/redis](https://jsr.io/@iuioiua/redis) - Fast, lightweight Redis client built upon the Web Streams API.
 - [aloedb](https://github.com/Kirlovon/aloedb) - Light, Embeddable, NoSQL database for Deno without dependencies.
-- [denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno.
 - [deno_mongo](https://github.com/denodrivers/mongo) - MongoDB database driver.
 - [deno_mysql](https://github.com/denodrivers/mysql) - MySQL database driver.
+- [denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno.
 - [dongoose](https://github.com/roonie007/dongoose) - A simple and easy to use ORM for Deno KV.
-- [@iuioiua/redis](https://jsr.io/@iuioiua/redis) - Fast, lightweight Redis client built upon the Web Streams API.
 - [maxminddb](https://github.com/josh-hemphill/maxminddb-wasm) - A library that enables the usage of MaxmindDB geoIP database files
 - [nessie](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
 - [postgres](https://github.com/denodrivers/postgres) - Driver for PostgreSQL database.
@@ -122,9 +122,9 @@ This list is a collection of the best Deno modules and resources.
 - [LogTape](https://github.com/dahlia/logtape) - Simple logging library with zero dependencies for Deno/Node.js/Bun/browsers.
 
 ### Machine learning
+- [appraisal](https://github.com/retraigo/appraisal) - Feature extraction and conversion.
 - [classy-lala](https://github.com/retraigo/la-classy) - Single-layer perceptrons for supervised learning tasks.
 - [netsaur](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
-- [appraisal](https://github.com/retraigo/appraisal) - Feature extraction and conversion.
 
 ### Mail
 - [deno-smtp](https://github.com/manyuanrong/deno-smtp) - A smtp mail sender for deno.
@@ -143,8 +143,8 @@ This list is a collection of the best Deno modules and resources.
 - [written](https://github.com/vixalien/written) - A provides a set of utilities for manipulating text, with a focus on providing typographic tools rather than pure string manipulation.
 
 ### Social Platform APIs
-- [grammY](https://github.com/grammyjs/grammY) - Telegram Bot API framework for Deno.
 - [discordeno](https://github.com/discordeno/discordeno) - Discord API library for Deno
+- [grammY](https://github.com/grammyjs/grammY) - Telegram Bot API framework for Deno.
 - [MTKruto](https://github.com/MTKruto/MTKruto) - Deno-first, cross-runtime client library for Telegram's MTProto API.
 
 
@@ -165,10 +165,11 @@ This list is a collection of the best Deno modules and resources.
 ### Utils
 - [buckets](https://github.com/jacoborus/deno-buckets) - Bundle assets and scripts in a single executable file.
 - [colors](https://github.com/retraigo/colors) - Color conversions and operations in TypeScript.
-- [croner](https://github.com/Hexagon/croner) - Cron library with advanced scheduling features, well-documented API, and zero dependencies.
 - [computed_types](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
-- [denon](https://github.com/denosaurs/denon/blob/master/mod.ts) - A file watcher with a for-await generator.
+- [croner](https://github.com/Hexagon/croner) - Cron library with advanced scheduling features, well-documented API, and zero dependencies.
 - [deno-config](https://github.com/yooneskh/deno-unified-config) - Utility to streamline deno app configuration management through cli, .env and json files
+- [deno_kv_fs](https://github.com/hviana/deno_kv_fs) Deno KV file system, compatible with Deno deploy. Makes use of Web Streams API.
+- [denon](https://github.com/denosaurs/denon/blob/master/mod.ts) - A file watcher with a for-await generator.
 - [dinoenv](https://deno.land/x/dinoenv) - tiny library to manage environment variables with deno.
 - [durationjs](https://github.com/retraigo/duration.js) - Get formatted time duration from a timestamp or a human-readable string.
 - [esm-itter](https://github.com/tillsanders/esm-itter) – A strongly typed fork of the popular EventEmitter3 with a focus on EcmaScript module syntax, TypeScript and modern tooling.
@@ -178,21 +179,20 @@ This list is a collection of the best Deno modules and resources.
 - [garn-validator](https://github.com/jupegarnica/garn-validator) - Create validations with ease.
 - [locale-kit](https://deno.land/x/localekit) ([GitHub](https://github.com/locale-kit/locale-kit)) - A internationalisation/localisation/translation (i18n/l10n/t9n) library with a wrapper for Fresh and support for plurals and dynamic replacement.
 - [optionals](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options with exhaustive pattern matching.
+- [PLS](https://github.com/xorgram/pls) - Use 2 lines to persist localStorage in any database, including, but not limited to, MongoDB, PostgreSQL and Redis.
 - [qrcode](https://github.com/denorg/qrcode) - QR code image generator for Deno.
 - [rubico](https://github.com/a-synchronous/rubico) - 🏞 [a]synchronous function composition; it just works.
 - [solc](https://github.com/deno-web3/solc) - 💎 Solidity bindings for Deno.
 - [switcher4deno](https://github.com/switcherapi/switcher-client-deno) - Feature Flag Deno SDK client for Switcher-API.
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
-- [PLS](https://github.com/xorgram/pls) - Use 2 lines to persist localStorage in any database, including, but not limited to, MongoDB, PostgreSQL and Redis.
-- [deno_kv_fs](https://github.com/hviana/deno_kv_fs) Deno KV file system, compatible with Deno deploy. Makes use of Web Streams API.
 
 ### Validation
 
 - [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
 
 ### Web framework
-- [aqua](https://github.com/predetermined/aqua) - A minimal and fast web framework for Deno.
 - [alosaur](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many ES Decorators.
+- [aqua](https://github.com/predetermined/aqua) - A minimal and fast web framework for Deno.
 - [danet](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
 - [drash](https://github.com/drashland/drash) - A REST microframework for Deno's HTTP server with zero dependencies.
 - [faster](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.

@@ -6,7 +6,7 @@ Ensure your pull request adheres to the following guidelines:
 - Suggested packages should be tested and documented.
 - Make an individual pull request for each suggestion.
 - Use the following format: `[package](link) - Description.`
-- Additions should be ordered in the alphabetical order in the section.
+- Additions should be ordered in the alphabetical order in the section. Article and resource sections (Articles, Books, Resources in Other Languages) are an exception and are ordered chronologically.
 - Link to the GitHub repo.
 - Keep descriptions short and simple, but descriptive.
 - Start the description with a capital and end with a full stop/period.
