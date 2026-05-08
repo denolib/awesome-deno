@@ -12,6 +12,9 @@
       "pattern": "^https://medium\\.com/"
     },
     {
+      "pattern": "https://segmentfault.com/a/1190000015151287"
+    },
+    {
       "pattern": "https://www.mycompiler.io/new/deno"
     },
     {
