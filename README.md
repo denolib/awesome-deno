@@ -87,6 +87,7 @@ This list is a collection of the best Deno modules and resources.
 ### Cloud APIs
 - [aws-api](https://aws-api.deno.dev/) - From-scratch Typescript AWS API client built for Deno.
 - [googleapis](https://googleapis.deno.dev/) - Auto-generated Google API clients for Deno.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and x402 micropayment verification for AI agents on Solana. Works with Deno's native fetch; zero-install MCP endpoint.
 
 ### Database
 - [@iuioiua/redis](https://jsr.io/@iuioiua/redis) - Fast, lightweight Redis client built upon the Web Streams API.
