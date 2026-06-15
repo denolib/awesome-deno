@@ -211,6 +211,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Web utils
 - [djwt](https://github.com/Zaubrik/djwt) - Make JSON Web Tokens (JWT) on Deno based on JWT and JWS specifications.
+- [ccurl](https://github.com/ivp5/ccurl) - Curl that learns. Adaptive HTTP client with per-(exit, domain) proxy rotation and caching.
 - [forwarded](https://github.com/deno-libs/forwarded) - Deno port of `forwarded` library.
 - [fresh_chart](https://github.com/denoland/fresh_charts) - A server-side-rendered charting library for Fresh.
 - [gentleRpc](https://github.com/timonson/gentle_rpc) - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
