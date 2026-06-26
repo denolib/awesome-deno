@@ -244,7 +244,6 @@ This list is a collection of the best Deno modules and resources.
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
 - [ShopSavvy Deno Deploy](https://github.com/shopsavvy/deno-deploy-shopsavvy) - Deno Deploy router with Hono for product search, real-time pricing, and price history.
 - [The Official Showcase](https://deno.land/showcase) - The official showcase of Deno.
-- [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno 🦕.
 
 ## Tools
 
