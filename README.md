@@ -72,6 +72,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Automation
 - [swissknife](https://github.com/fakoua/SwissKnife) - SwissKnife - Deno Swiss Knife tools for Windows.
+- [zuke](https://github.com/zuke-build/zuke) - Code-first, strongly-typed build automation system where builds are defined as TypeScript classes.
 
 ### CLI utils
 - [cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
