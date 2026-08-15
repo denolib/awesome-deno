@@ -244,6 +244,7 @@ This list is a collection of the best Deno modules and resources.
 
 ## Tools
 
+- [bare-devcontainer/templates](https://github.com/bare-devcontainer/templates/tree/main/src/deno) - Security-focused Deno dev container for JS/TS with hardened defaults and cached modules. The base image is available at [bare-devcontainer/images](https://github.com/bare-devcontainer/images/tree/main/deno).
 - [clone](https://github.com/ekaragodin/clone) - A simple utility for the convenient clone.
 - [denoflow](https://github.com/denoflow/denoflow) - Configuration as code, use YAML to write automated workflows that run on Deno, with any Deno modules, Typescript/Javascript codes
 - [denoify](https://github.com/garronej/denoify) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.
