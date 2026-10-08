@@ -247,6 +247,7 @@ This list is a collection of the best Deno modules and resources.
 ## Tools
 
 - [clone](https://github.com/ekaragodin/clone) - A simple utility for the convenient clone.
+- [CompatLab](https://github.com/siddiksawani/CompatLab) - Check npm package loading across pinned Deno, Node.js and Bun versions with shareable reports.
 - [denoflow](https://github.com/denoflow/denoflow) - Configuration as code, use YAML to write automated workflows that run on Deno, with any Deno modules, Typescript/Javascript codes
 - [denoify](https://github.com/garronej/denoify) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [denoliver](https://github.com/joakimunge/denoliver) - A simple, dependency free file server with live reload.
