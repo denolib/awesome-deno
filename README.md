@@ -241,6 +241,7 @@ This list is a collection of the best Deno modules and resources.
 - [Deno Rest](https://github.com/Prolifode/deno_rest) - A Boilerplate for deno RESTful apis.
 - [Edrys](https://github.com/edrys-org/edrys) - Remote Teaching Software
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
+- [globnotes](https://github.com/alexindigo/globnotes) - Self-hosted Markdown note-taking app for Obsidian vaults and nested folders, with full-text search and sandboxed plugins.
 - [ShopSavvy Deno Deploy](https://github.com/shopsavvy/deno-deploy-shopsavvy) - Deno Deploy router with Hono for product search, real-time pricing, and price history.
 - [The Official Showcase](https://deno.land/showcase) - The official showcase of Deno.
 
