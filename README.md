@@ -90,6 +90,7 @@ This list is a collection of the best Deno modules and resources.
 ### Database
 - [@iuioiua/redis](https://jsr.io/@iuioiua/redis) - Fast, lightweight Redis client built upon the Web Streams API.
 - [aloedb](https://github.com/Kirlovon/aloedb) - Light, Embeddable, NoSQL database for Deno without dependencies.
+- [deno-kv-workers](https://github.com/CyberNative-AI/deno-kv-workers) - Deno KV client on a Cloudflare Durable Object, with a TTL-preserving data import and a verify diff for moving apps off Deno Deploy.
 - [deno_mongo](https://github.com/denodrivers/mongo) - MongoDB database driver.
 - [deno_mysql](https://github.com/denodrivers/mysql) - MySQL database driver.
 - [denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno.
