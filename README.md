@@ -192,6 +192,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Validation
 
+- [is-kit](https://github.com/nyaomaru/is-kit) - Build small, composable type guards with natural TypeScript narrowing and zero dependencies.
 - [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
 
 ### Web framework
