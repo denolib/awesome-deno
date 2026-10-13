@@ -7,6 +7,7 @@ exclude = [
   "^https://mp\\.weixin\\.qq\\.com/s/7XAiYw18c8YZc-fXk0-wrw$",
 ]
 
+accept = ["100..=103", "200..=299", "429"]
 max_retries = 3
 retry_wait_time = 2
 timeout = 20
