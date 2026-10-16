@@ -86,6 +86,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Cloud APIs
 - [aws-api](https://aws-api.deno.dev/) - From-scratch Typescript AWS API client built for Deno.
+- [emaki](https://github.com/hanshs474/emaki-ts) - Client for the emaki video generation API (Seedance 2.5 and 2.0, text-to-video and image-to-video) with zero dependencies.
 
 ### Database
 - [@iuioiua/redis](https://jsr.io/@iuioiua/redis) - Fast, lightweight Redis client built upon the Web Streams API.
