@@ -86,6 +86,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Cloud APIs
 - [aws-api](https://aws-api.deno.dev/) - From-scratch Typescript AWS API client built for Deno.
+- [sigflint](https://github.com/bompus/sigflint) - AWS Signature Version 4 and SigV4a request signing with no dependencies, for use with `fetch`.
 
 ### Database
 - [@iuioiua/redis](https://jsr.io/@iuioiua/redis) - Fast, lightweight Redis client built upon the Web Streams API.
