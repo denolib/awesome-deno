@@ -209,6 +209,7 @@ This list is a collection of the best Deno modules and resources.
   - [oak-routing-ctrl](https://github.com/Thesephi/oak-routing-ctrl) - TypeScript Decorators for easy scaffolding API services with the oak framework.
 - [opine](https://github.com/cmorten/opine) - Fast, minimalist web framework ported from ExpressJS.
   - [opine-http-proxy](https://github.com/cmorten/opine-http-proxy) - Proxy middleware for Deno Opine HTTP servers.
+- [orpc](https://github.com/middleapi/orpc) - End-to-end typesafe APIs with RPC and OpenAPI support, without code generation.
 
 ### WebSocket
 - [dropper](https://github.com/denyncrawford/dropper-deno) - Custom event-based WebSockets framework for building real-time apps on Deno 🦕
