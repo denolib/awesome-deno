@@ -146,6 +146,7 @@ This list is a collection of the best Deno modules and resources.
 - [written](https://github.com/vixalien/written) - A provides a set of utilities for manipulating text, with a focus on providing typographic tools rather than pure string manipulation.
 
 ### Social Platform APIs
+- [Circe](https://github.com/sxnnyside-project/circe) - Inversion-of-control framework for discord.js bots with file-system routing, guards and Gateway or HTTP transport.
 - [discordeno](https://github.com/discordeno/discordeno) - Discord API library for Deno
 - [grammY](https://github.com/grammyjs/grammY) - Telegram Bot API framework for Deno.
 - [MTKruto](https://github.com/MTKruto/MTKruto) - Deno-first, cross-runtime client library for Telegram's MTProto API.
