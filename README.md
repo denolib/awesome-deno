@@ -200,6 +200,7 @@ This list is a collection of the best Deno modules and resources.
 ### Web framework
 - [alosaur](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many ES Decorators.
 - [aqua](https://github.com/predetermined/aqua) - A minimal and fast web framework for Deno.
+- [copilotz](https://github.com/copilotzhq/copilotz) - TypeScript runtime for apps used by people, the app's own agents and AI assistants over MCP, with one set of Actions, access rules and audit record for every caller.
 - [danet](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
 - [drash](https://github.com/drashland/drash) - A REST microframework for Deno's HTTP server with zero dependencies.
 - [faster](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
