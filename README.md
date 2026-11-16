@@ -223,6 +223,7 @@ This list is a collection of the best Deno modules and resources.
 - [gentleRpc](https://github.com/timonson/gentle_rpc) - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
 - [gql](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware.
 - [graphql-tag](https://github.com/deno-libs/graphql_tag) - GraphQL schema AST from template literal.
+- [linkpeek](https://github.com/thegruber/linkpeek) - Extract Open Graph, Twitter Card and JSON-LD link-preview metadata from a URL.
 - [nats](https://github.com/nats-io/nats.deno) - A Deno client for the [NATS messaging system](https://nats.io/).
 - [obsidian](https://github.com/open-source-labs/obsidian) - A native GraphQL caching client and server module.
 - [router](https://github.com/zhmushan/router) - A high-performance basic router works anywhere.
