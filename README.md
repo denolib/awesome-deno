@@ -95,6 +95,7 @@ This list is a collection of the best Deno modules and resources.
 - [deno_mysql](https://github.com/denodrivers/mysql) - MySQL database driver.
 - [denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno.
 - [dongoose](https://github.com/roonie007/dongoose) - A simple and easy to use ORM for Deno KV.
+- [kvdock](https://github.com/zisam-glitch/kvdock) - Zero-dependency key-value and multi-tier caching engine with native Deno KV support and single-flight stampede protection.
 - [maxminddb](https://github.com/josh-hemphill/maxminddb-wasm) - A library that enables the usage of MaxmindDB geoIP database files
 - [nessie](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
 - [postgres](https://github.com/denodrivers/postgres) - Driver for PostgreSQL database.
@@ -115,6 +116,7 @@ This list is a collection of the best Deno modules and resources.
 - [sdl2](https://github.com/littledivy/deno_sdl2) - SDL2 module for Deno
 
 ### Image
+- [aigifmaker](https://github.com/hanshs474/aigifmaker-ts) - Turn text prompts into animated GIFs with the AI GIF Maker API.
 - [ImageScript](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 - [kavel](https://github.com/hanshs474/kavel-ts) - Generate and edit images with AI without an API key or account.
 - [monke](https://github.com/retraigo/monke) - Color quantization and dithering library with extra image filters (blur, invert, etc).
@@ -146,6 +148,7 @@ This list is a collection of the best Deno modules and resources.
 - [written](https://github.com/vixalien/written) - A provides a set of utilities for manipulating text, with a focus on providing typographic tools rather than pure string manipulation.
 
 ### Social Platform APIs
+- [Circe](https://github.com/sxnnyside-project/circe) - Inversion-of-control framework for discord.js bots with file-system routing, guards and Gateway or HTTP transport.
 - [discordeno](https://github.com/discordeno/discordeno) - Discord API library for Deno
 - [grammY](https://github.com/grammyjs/grammY) - Telegram Bot API framework for Deno.
 - [MTKruto](https://github.com/MTKruto/MTKruto) - Deno-first, cross-runtime client library for Telegram's MTProto API.
@@ -183,6 +186,7 @@ This list is a collection of the best Deno modules and resources.
 - [fastest-validator](https://github.com/icebob/fastest-validator) - Schema validator for all javascript platforms
 - [fortuna](https://github.com/retraigo/fortuna) - Weighted gacha system.
 - [garn-validator](https://github.com/jupegarnica/garn-validator) - Create validations with ease.
+- [injecute](https://github.com/Masyaka/injecute) - Type-safe dependency injection container with explicit wiring and no decorators.
 - [json-schema-for-llms](https://github.com/carmenaresearch/json-schema-for-llms) - Turn a JSON document too large for an LLM context window into a short JSON Schema with counts, ranges and example records.
 - [locale-kit](https://deno.land/x/localekit) ([GitHub](https://github.com/locale-kit/locale-kit)) - A internationalisation/localisation/translation (i18n/l10n/t9n) library with a wrapper for Fresh and support for plurals and dynamic replacement.
 - [optionals](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options with exhaustive pattern matching.
@@ -224,6 +228,7 @@ This list is a collection of the best Deno modules and resources.
 - [gentleRpc](https://github.com/timonson/gentle_rpc) - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
 - [gql](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware.
 - [graphql-tag](https://github.com/deno-libs/graphql_tag) - GraphQL schema AST from template literal.
+- [linkpeek](https://github.com/thegruber/linkpeek) - Extract Open Graph, Twitter Card and JSON-LD link-preview metadata from a URL.
 - [nats](https://github.com/nats-io/nats.deno) - A Deno client for the [NATS messaging system](https://nats.io/).
 - [obsidian](https://github.com/open-source-labs/obsidian) - A native GraphQL caching client and server module.
 - [router](https://github.com/zhmushan/router) - A high-performance basic router works anywhere.
@@ -254,8 +259,10 @@ This list is a collection of the best Deno modules and resources.
 
 ## Tools
 
+- [bare-devcontainer/templates](https://github.com/bare-devcontainer/templates/tree/main/src/deno) - Security-focused Deno dev container for JS/TS with hardened defaults and cached modules. The base image is available at [bare-devcontainer/images](https://github.com/bare-devcontainer/images/tree/main/src/deno).
 - [clone](https://github.com/ekaragodin/clone) - A simple utility for the convenient clone.
 - [CompatLab](https://github.com/siddiksawani/CompatLab) - Check npm package loading across pinned Deno, Node.js and Bun versions with shareable reports.
+- [copilotz](https://github.com/copilotzhq/copilotz) - TypeScript runtime for apps used by people, the app's own agents and AI assistants over MCP, with one set of Actions, access rules and audit record for every caller.
 - [denoflow](https://github.com/denoflow/denoflow) - Configuration as code, use YAML to write automated workflows that run on Deno, with any Deno modules, Typescript/Javascript codes
 - [denoify](https://github.com/garronej/denoify) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [denoliver](https://github.com/joakimunge/denoliver) - A simple, dependency free file server with live reload.
