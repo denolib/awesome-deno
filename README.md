@@ -79,7 +79,7 @@ This list is a collection of the best Deno modules and resources.
 - [charmd](https://github.com/littletof/charmd) - A simple, extendable markdown renderer for your terminal.
 - [cli-spinner](https://github.com/ameerthehacker/deno-cli-spinners) - Show spinners in the terminal while running long tasks.
 - [cliffy](https://github.com/c4spar/cliffy) - The complete solution for building interactive command-line tools.
-- [clite](https://github.com/jersou/clinfer) - Automatic CLI generation from a class.
+- [clinfer](https://github.com/jersou/clinfer) - Automatically generate CLIs from JS objects, classes or ES modules.
 - [commit-sage-cli](https://github.com/AhmedOsman101/commit-sage-cli) - Generates Conventional Commit messages with AI based on Git repository changes.
 - [tui](https://github.com/Im-Beast/deno_tui) - Module which allows easy creation of Terminal User Interfaces.
 - [yargs](https://github.com/yargs/yargs) - The modern, pirate-themed successor to optimist.
