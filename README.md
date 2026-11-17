@@ -187,6 +187,7 @@ This list is a collection of the best Deno modules and resources.
 - [fortuna](https://github.com/retraigo/fortuna) - Weighted gacha system.
 - [garn-validator](https://github.com/jupegarnica/garn-validator) - Create validations with ease.
 - [injecute](https://github.com/Masyaka/injecute) - Type-safe dependency injection container with explicit wiring and no decorators.
+- [json-schema-for-llms](https://github.com/carmenaresearch/json-schema-for-llms) - Turn a JSON document too large for an LLM context window into a short JSON Schema with counts, ranges and example records.
 - [locale-kit](https://deno.land/x/localekit) ([GitHub](https://github.com/locale-kit/locale-kit)) - A internationalisation/localisation/translation (i18n/l10n/t9n) library with a wrapper for Fresh and support for plurals and dynamic replacement.
 - [optionals](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options with exhaustive pattern matching.
 - [PLS](https://github.com/xorgram/pls) - Use 2 lines to persist localStorage in any database, including, but not limited to, MongoDB, PostgreSQL and Redis.
