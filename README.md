@@ -120,6 +120,7 @@ This list is a collection of the best Deno modules and resources.
 - [ImageScript](https://github.com/imagescript/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 - [kavel](https://github.com/hanshs474/kavel-ts) - Generate and edit images with AI without an API key or account.
 - [monke](https://github.com/retraigo/monke) - Color quantization and dithering library with extra image filters (blur, invert, etc).
+- [freeimagetovideo](https://github.com/hanshs474/fitv-ts) - Turn text prompts or first-frame photos into AI videos with sound via the Free Image to Video API.
 
 ### Logging
 - [LogTape](https://github.com/dahlia/logtape) - Simple logging library with zero dependencies for Deno/Node.js/Bun/browsers.
