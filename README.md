@@ -86,6 +86,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Cloud APIs
 - [aws-api](https://aws-api.deno.dev/) - From-scratch Typescript AWS API client built for Deno.
+- [movoa](https://github.com/hanshs474/movoa-ts) - TypeScript SDK for the Movoa AI video generator API with sound (text-to-video and photo-to-video).
 - [sigflint](https://github.com/bompus/sigflint) - AWS Signature Version 4 and SigV4a request signing with no dependencies, for use with `fetch`.
 
 ### Database
