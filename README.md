@@ -78,6 +78,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Cloud APIs
 - [aws-api](https://aws-api.danopia.deno.net/) - From-scratch Typescript AWS API client built for Deno.
+- [google-maps-fetch](https://github.com/ninadsutrave/google-maps-fetch) - Google Maps Platform client for Places API (New), Routes, Geocoding and more, built on `fetch` with no dependencies.
 - [sigflint](https://github.com/bompus/sigflint) - AWS Signature Version 4 and SigV4a request signing with no dependencies, for use with `fetch`.
 
 ### Database
