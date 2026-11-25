@@ -102,7 +102,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Image
 - [aigifmaker](https://github.com/hanshs474/aigifmaker-ts) - Turn text prompts into animated GIFs with the AI GIF Maker API.
-- [ImageScript](https://github.com/imagescript/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+- [ImageScript](https://github.com/imagescript/ImageScript) - Image processing in pure TypeScript, from PNG to AVIF and JPEG XL.
 - [kavel](https://github.com/hanshs474/kavel-ts) - Generate and edit images with AI without an API key or account.
 
 ### Logging
