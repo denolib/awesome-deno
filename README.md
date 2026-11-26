@@ -119,6 +119,7 @@ This list is a collection of the best Deno modules and resources.
 - [zerho](https://github.com/glastor-core/zerho) - High-performance documentation engine for Deno 2 and Edge runtimes with interactive playground, OpenAPI explorer, and native llms.txt support.
 
 ### Social Platform APIs
+- [Alice&Bot](https://github.com/uriva/alice-and-bot) - Open-source, end-to-end encrypted messaging platform and SDK (`@alice-and-bot/core`) for humans and AI agents with keypair identities, group chats, webhooks, embeddable UI, and an MCP server.
 - [Circe](https://github.com/sxnnyside-project/circe) - Inversion-of-control framework for discord.js bots with file-system routing, guards and Gateway or HTTP transport.
 - [discordeno](https://github.com/discordeno/discordeno) - Discord API library for Deno
 - [grammY](https://github.com/grammyjs/grammY) - Telegram Bot API framework for Deno.
