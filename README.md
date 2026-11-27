@@ -101,7 +101,7 @@ This list is a collection of the best Deno modules and resources.
 - [sdl2](https://github.com/littledivy/deno_sdl2) - SDL2 module for Deno
 
 ### Image
-- [ImageScript](https://github.com/imagescript/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+- [ImageScript](https://github.com/imagescript/ImageScript) - Image processing in pure TypeScript, from PNG to AVIF and JPEG XL.
 
 ### Logging
 - [LogTape](https://github.com/dahlia/logtape) - Simple logging library with zero dependencies for Deno/Node.js/Bun/browsers.
