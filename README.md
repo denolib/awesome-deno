@@ -120,6 +120,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Social Platform APIs
 - [Circe](https://github.com/sxnnyside-project/circe) - Inversion-of-control framework for discord.js bots with file-system routing, guards and Gateway or HTTP transport.
+- [clearcaption](https://github.com/Andrii2203/clearcaption-js) - YouTube transcripts and subtitles from any server (Node, Deno, Bun, Cloudflare Workers), with optional timestamped translation. Zero dependencies.
 - [discordeno](https://github.com/discordeno/discordeno) - Discord API library for Deno
 - [grammY](https://github.com/grammyjs/grammY) - Telegram Bot API framework for Deno.
 - [MTKruto](https://github.com/MTKruto/MTKruto) - Deno-first, cross-runtime client library for Telegram's MTProto API.
