@@ -131,6 +131,7 @@ This list is a collection of the best Deno modules and resources.
 - [qunitx](https://github.com/izelnakri/qunitx) - Zero dependency, fully customizable, mature, universal test API that can run interchangably in node.js, Deno & browser, using default runtime test runners.
 - [superdeno](https://github.com/cmorten/superdeno) - Super-agent driven library for testing Deno HTTP servers.
 - [tepi](https://github.com/jupegarnica/tepi) - A .http Test Runner
+- [time-provider](https://github.com/jaenyf/time-provider) - Injectable clock and timers with deterministic test runtimes, published on JSR.
 - [unexpected](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit.
 
 ### Utils
